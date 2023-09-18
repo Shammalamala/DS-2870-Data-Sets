@@ -1,0 +1,4153 @@
+drive_id,drive_start,drive_end
+2018_02_DET_SF_8,Fumble,Field Goal
+2019_06_HOU_KC_3,Fumble,Field Goal
+2019_16_GB_MIN_2,Fumble,Field Goal
+2016_09_ATL_TB_4,Fumble,Field Goal
+2020_03_TEN_MIN_5,Fumble,Field Goal
+2018_10_DET_CHI_13,Fumble,Field Goal
+2018_04_NO_NYG_7,Fumble,Field Goal
+2017_04_TEN_HOU_23,Fumble,Field Goal
+2021_05_CLE_LAC_10,Fumble,Field Goal
+2019_09_CLE_DEN_10,Fumble,Field Goal
+2020_02_NYG_CHI_3,Fumble,Field Goal
+2016_10_SF_ARI_15,Fumble,Field Goal
+2020_04_NE_KC_8,Fumble,Field Goal
+2016_15_DET_NYG_7,Fumble,Field Goal
+2021_01_DEN_NYG_12,Fumble,Field Goal
+2017_15_ATL_TB_7,Fumble,Field Goal
+2021_14_DAL_WAS_19,Fumble,Field Goal
+2017_04_CIN_CLE_3,Fumble,Field Goal
+2016_07_HOU_DEN_19,Fumble,Field Goal
+2021_16_LAC_HOU_14,Fumble,Field Goal
+2016_04_MIA_CIN_11,Fumble,Field Goal
+2016_14_DEN_TEN_4,Fumble,Field Goal
+2020_07_CLE_CIN_6,Fumble,Field Goal
+2018_01_BUF_BAL_10,Fumble,Field Goal
+2019_17_PIT_BAL_13,Fumble,Field Goal
+2018_04_SEA_ARI_5,Fumble,Field Goal
+2019_13_NO_ATL_21,Fumble,Field Goal
+2016_09_JAX_KC_16,Fumble,Field Goal
+2021_02_CIN_CHI_12,Fumble,Field Goal
+2016_16_NYJ_NE_8,Fumble,Field Goal
+2018_07_LA_SF_3,Fumble,Field Goal
+2020_17_ATL_TB_7,Fumble,Field Goal
+2016_03_SF_SEA_8,Fumble,Field Goal
+2018_01_NYJ_DET_8,Fumble,Field Goal
+2017_15_LA_SEA_2,Fumble,Field Goal
+2018_14_NYJ_BUF_4,Fumble,Field Goal
+2017_04_DET_MIN_11,Fumble,Field Goal
+2020_03_SF_NYG_3,Fumble,Field Goal
+2018_13_LA_DET_14,Fumble,Field Goal
+2019_05_CLE_SF_8,Fumble,Field Goal
+2016_05_PHI_DET_16,Fumble,Field Goal
+2019_16_BUF_NE_2,Fumble,Field Goal
+2018_02_NYG_DAL_13,Fumble,Field Goal
+2019_07_JAX_CIN_16,Fumble,Field Goal
+2021_15_WAS_PHI_5,Fumble,Field Goal
+2021_15_MIN_CHI_5,Fumble,Field Goal
+2016_06_DAL_GB_6,Fumble,Field Goal
+2021_07_KC_TEN_9,Fumble,Field Goal
+2017_06_LA_JAX_20,Fumble,Field Goal
+2019_07_LA_ATL_19,Fumble,Field Goal
+2017_05_BUF_CIN_18,Fumble,Field Goal
+2017_03_LA_SF_6,Fumble,Field Goal
+2018_04_BUF_GB_23,Fumble,Field Goal
+2020_15_DET_TEN_11,Fumble,Punt
+2017_10_CIN_TEN_20,Fumble,Punt
+2019_08_CLE_NE_6,Fumble,Punt
+2021_11_MIA_NYJ_7,Fumble,Punt
+2020_09_NO_TB_5,Fumble,Punt
+2017_15_NYJ_NO_20,Fumble,Punt
+2021_11_WAS_CAR_5,Fumble,Punt
+2018_10_WAS_TB_18,Fumble,Punt
+2016_06_KC_OAK_18,Fumble,Punt
+2019_04_OAK_IND_11,Fumble,Punt
+2018_03_LAC_LA_2,Fumble,Punt
+2017_05_NYJ_CLE_5,Fumble,Punt
+2021_01_DEN_NYG_7,Fumble,Punt
+2018_10_WAS_TB_16,Fumble,Punt
+2017_06_CHI_BAL_8,Fumble,Punt
+2016_14_DAL_NYG_28,Fumble,Punt
+2018_07_DAL_WAS_4,Fumble,Punt
+2017_03_OAK_WAS_25,Fumble,Punt
+2016_02_CIN_PIT_28,Fumble,Punt
+2018_01_PIT_CLE_25,Fumble,Punt
+2021_06_SEA_PIT_19,Fumble,Punt
+2021_09_HOU_MIA_22,Fumble,Punt
+2018_15_GB_CHI_15,Fumble,Punt
+2016_11_JAX_DET_20,Fumble,Punt
+2019_09_TEN_CAR_7,Fumble,Punt
+2016_02_NO_NYG_7,Fumble,Punt
+2017_17_CLE_PIT_21,Fumble,Punt
+2018_08_DEN_KC_17,Fumble,Punt
+2016_07_NO_KC_16,Fumble,Punt
+2017_06_PHI_CAR_2,Fumble,Punt
+2018_05_ARI_SF_17,Fumble,Punt
+2020_07_KC_DEN_8,Fumble,Punt
+2017_07_DEN_LAC_11,Fumble,Punt
+2019_01_DET_ARI_6,Fumble,Punt
+2016_04_DEN_TB_12,Fumble,Punt
+2021_18_NO_ATL_9,Fumble,Touchdown
+2020_15_PHI_ARI_12,Fumble,Touchdown
+2020_08_TB_NYG_4,Fumble,Touchdown
+2020_02_CIN_CLE_13,Fumble,Touchdown
+2020_17_SEA_SF_21,Fumble,Touchdown
+2020_13_BUF_SF_4,Fumble,Touchdown
+2020_05_MIN_SEA_13,Fumble,Touchdown
+2021_02_DET_GB_13,Fumble,Touchdown
+2018_04_NYJ_JAX_21,Fumble,Touchdown
+2017_09_ARI_SF_3,Fumble,Touchdown
+2016_04_NO_SD_23,Fumble,Touchdown
+2016_16_ARI_SEA_3,Fumble,Touchdown
+2019_01_LA_CAR_8,Fumble,Touchdown
+2018_16_BAL_LAC_12,Fumble,Touchdown
+2020_08_LA_MIA_3,Fumble,Touchdown
+2019_03_CHI_WAS_8,Fumble,Touchdown
+2018_05_DEN_NYJ_3,Fumble,Touchdown
+2021_05_DET_MIN_22,Fumble,Touchdown
+2019_11_CIN_OAK_4,Fumble,Touchdown
+2019_11_BUF_MIA_12,Fumble,Touchdown
+2017_13_PHI_SEA_11,Fumble,Touchdown
+2018_12_PIT_DEN_18,Fumble,Touchdown
+2018_10_ATL_CLE_10,Fumble,Touchdown
+2020_04_BAL_WAS_4,Fumble,Touchdown
+2019_09_IND_PIT_17,Fumble,Touchdown
+2016_02_PHI_CHI_20,Fumble,Touchdown
+2016_04_NO_SD_25,Fumble,Touchdown
+2016_17_CHI_MIN_5,Fumble,Touchdown
+2018_11_GB_SEA_2,Fumble,Touchdown
+2019_14_CAR_ATL_13,Fumble,Touchdown
+2017_06_DET_NO_8,Fumble,Touchdown
+2018_06_BUF_HOU_18,Fumble,Touchdown
+2016_12_NYG_CLE_9,Fumble,Touchdown
+2020_17_TEN_HOU_16,Fumble,Touchdown
+2018_16_HOU_PHI_17,Fumble,Touchdown
+2020_15_KC_NO_24,Fumble,Touchdown
+2017_07_DAL_SF_18,Fumble,Touchdown
+2021_11_SF_JAX_5,Fumble,Touchdown
+2020_14_PIT_BUF_11,Fumble,Touchdown
+2018_06_IND_NYJ_11,Fumble,Touchdown
+2016_04_OAK_BAL_21,Fumble,Touchdown
+2021_04_HOU_BUF_20,Fumble,Touchdown
+2021_15_ATL_SF_12,Fumble,Touchdown
+2021_12_ATL_JAX_7,Fumble,Touchdown
+2016_15_SF_ATL_4,Fumble,Touchdown
+2016_05_CIN_DAL_14,Fumble,Touchdown
+2021_08_NYG_KC_17,Fumble,Touchdown
+2016_12_NE_NYJ_9,Fumble,Touchdown
+2021_06_KC_WAS_11,Fumble,Touchdown
+2019_13_MIN_SEA_20,Fumble,Touchdown
+2019_03_CAR_ARI_2,Fumble,Touchdown
+2021_05_NO_WAS_6,Fumble,Touchdown
+2017_08_CHI_NO_18,Fumble,Touchdown
+2020_14_NO_PHI_19,Fumble,Touchdown
+2018_03_LAC_LA_12,Fumble,Touchdown
+2020_03_CAR_LAC_9,Fumble,Touchdown
+2017_12_DEN_OAK_8,Fumble,Turnover
+2021_02_BUF_MIA_10,Fumble,Turnover
+2020_03_LV_NE_5,Fumble,Turnover
+2021_01_NYJ_CAR_7,Fumble,Turnover
+2019_15_MIA_NYG_13,Fumble,Turnover
+2020_08_DAL_PHI_3,Fumble,Turnover
+2016_06_DAL_GB_5,Fumble,Turnover
+2017_03_CLE_IND_20,Fumble,Turnover
+2020_13_JAX_MIN_18,Fumble,Turnover
+2019_14_WAS_GB_11,Fumble,Turnover
+2017_16_DEN_WAS_23,Fumble,Turnover
+2016_02_MIA_NE_10,Fumble,Turnover
+2017_10_NYG_SF_6,Fumble,Turnover
+2019_06_CAR_TB_31,Interception,Field Goal
+2017_08_DEN_KC_25,Interception,Field Goal
+2021_09_MIN_BAL_10,Interception,Field Goal
+2017_15_LAC_KC_14,Interception,Field Goal
+2016_07_BAL_NYJ_15,Interception,Field Goal
+2018_04_PHI_TEN_12,Interception,Field Goal
+2020_13_BUF_SF_13,Interception,Field Goal
+2019_08_LAC_CHI_16,Interception,Field Goal
+2020_02_DEN_PIT_14,Interception,Field Goal
+2019_15_SEA_CAR_17,Interception,Field Goal
+2020_03_DET_ARI_14,Interception,Field Goal
+2017_04_PIT_BAL_13,Interception,Field Goal
+2019_16_HOU_TB_3,Interception,Field Goal
+2020_03_CAR_LAC_11,Interception,Field Goal
+2017_11_PHI_DAL_6,Interception,Field Goal
+2018_01_TEN_MIA_23,Interception,Field Goal
+2020_10_DEN_LV_17,Interception,Field Goal
+2016_17_CAR_TB_6,Interception,Field Goal
+2019_04_CIN_PIT_18,Interception,Field Goal
+2016_01_CLE_PHI_11,Interception,Field Goal
+2021_03_BAL_DET_19,Interception,Field Goal
+2020_17_ATL_TB_12,Interception,Field Goal
+2019_08_WAS_MIN_14,Interception,Field Goal
+2020_06_WAS_NYG_12,Interception,Field Goal
+2017_04_NO_MIA_2,Interception,Field Goal
+2019_10_MIA_IND_3,Interception,Field Goal
+2021_17_LA_BAL_6,Interception,Field Goal
+2018_01_CIN_IND_3,Interception,Field Goal
+2017_05_ARI_PHI_13,Interception,Field Goal
+2016_16_WAS_CHI_7,Interception,Field Goal
+2021_12_NYJ_HOU_2,Interception,Field Goal
+2017_03_CLE_IND_21,Interception,Field Goal
+2021_11_NYG_TB_14,Interception,Field Goal
+2021_04_CAR_DAL_18,Interception,Field Goal
+2020_13_JAX_MIN_30,Interception,Field Goal
+2020_06_ATL_MIN_12,Interception,Field Goal
+2017_11_WAS_NO_2,Interception,Field Goal
+2017_03_NO_CAR_15,Interception,Field Goal
+2019_09_DAL_NYG_11,Interception,Field Goal
+2016_01_CIN_NYJ_4,Interception,Field Goal
+2017_07_WAS_PHI_20,Interception,Field Goal
+2019_09_IND_PIT_2,Interception,Field Goal
+2018_03_IND_PHI_14,Interception,Field Goal
+2018_06_LAC_CLE_24,Interception,Field Goal
+2017_07_NYJ_MIA_26,Interception,Field Goal
+2019_13_LAC_DEN_19,Interception,Field Goal
+2019_11_CIN_OAK_14,Interception,Field Goal
+2021_08_NE_LAC_12,Interception,Field Goal
+2019_10_SEA_SF_28,Interception,Field Goal
+2016_02_SF_CAR_30,Interception,Field Goal
+2021_15_MIN_CHI_10,Interception,Field Goal
+2016_12_SD_HOU_16,Interception,Field Goal
+2018_05_BAL_CLE_3,Interception,Field Goal
+2017_17_CAR_ATL_15,Interception,Field Goal
+2019_05_GB_DAL_22,Interception,Field Goal
+2021_06_BUF_TEN_6,Interception,Field Goal
+2021_10_BUF_NYJ_4,Interception,Field Goal
+2021_09_NE_CAR_10,Interception,Field Goal
+2016_13_LA_NE_18,Interception,Field Goal
+2019_17_IND_JAX_9,Interception,Field Goal
+2019_04_JAX_DEN_14,Interception,Field Goal
+2019_05_BAL_PIT_13,Interception,Field Goal
+2017_02_TEN_JAX_11,Interception,Field Goal
+2019_15_TB_DET_15,Interception,Field Goal
+2020_16_LA_SEA_10,Interception,Field Goal
+2019_14_DET_MIN_18,Interception,Field Goal
+2020_12_LV_ATL_8,Interception,Field Goal
+2017_01_NYG_DAL_18,Interception,Field Goal
+2016_17_NE_MIA_5,Interception,Field Goal
+2016_06_DAL_GB_14,Interception,Field Goal
+2020_10_JAX_GB_20,Interception,Field Goal
+2017_11_TEN_PIT_22,Interception,Field Goal
+2021_11_NE_ATL_19,Interception,Field Goal
+2020_05_LA_WAS_11,Interception,Field Goal
+2018_17_MIA_BUF_5,Interception,Field Goal
+2021_17_TB_NYJ_9,Interception,Field Goal
+2016_13_DET_NO_12,Interception,Field Goal
+2016_02_BAL_CLE_12,Interception,Field Goal
+2020_16_DEN_LAC_3,Interception,Punt
+2018_02_MIA_NYJ_18,Interception,Punt
+2016_10_SEA_NE_8,Interception,Punt
+2016_17_NYG_WAS_16,Interception,Punt
+2016_10_CLE_BAL_16,Interception,Punt
+2018_10_DET_CHI_19,Interception,Punt
+2018_03_NE_DET_17,Interception,Punt
+2016_09_PIT_BAL_5,Interception,Punt
+2016_10_CLE_BAL_6,Interception,Punt
+2020_12_MIA_NYJ_12,Interception,Punt
+2017_11_PHI_DAL_23,Interception,Punt
+2021_08_CAR_ATL_9,Interception,Punt
+2019_04_CLE_BAL_20,Interception,Punt
+2019_14_DEN_HOU_17,Interception,Punt
+2021_06_HOU_IND_21,Interception,Punt
+2018_14_IND_HOU_10,Interception,Punt
+2017_11_BAL_GB_9,Interception,Punt
+2018_07_NE_CHI_19,Interception,Punt
+2019_15_CLE_ARI_3,Interception,Punt
+2019_05_NE_WAS_13,Interception,Punt
+2021_12_ATL_JAX_5,Interception,Punt
+2020_12_CAR_MIN_6,Interception,Punt
+2018_08_SEA_DET_19,Interception,Punt
+2016_02_ATL_OAK_13,Interception,Punt
+2018_06_TB_ATL_14,Interception,Punt
+2016_17_GB_DET_19,Interception,Punt
+2021_01_JAX_HOU_24,Interception,Punt
+2016_08_WAS_CIN_8,Interception,Punt
+2020_13_NE_LAC_13,Interception,Punt
+2018_02_ARI_LA_12,Interception,Punt
+2021_12_CHI_DET_10,Interception,Punt
+2018_03_PIT_TB_11,Interception,Punt
+2017_16_NYG_ARI_6,Interception,Punt
+2017_10_PIT_IND_2,Interception,Punt
+2017_06_LAC_OAK_12,Interception,Punt
+2016_16_TB_NO_17,Interception,Punt
+2018_16_NYG_IND_6,Interception,Punt
+2020_17_BAL_CIN_21,Interception,Punt
+2018_11_PIT_JAX_13,Interception,Punt
+2017_04_PIT_BAL_20,Interception,Punt
+2019_05_CLE_SF_4,Interception,Punt
+2017_05_SEA_LA_20,Interception,Punt
+2018_05_ARI_SF_4,Interception,Punt
+2020_04_JAX_CIN_2,Interception,Punt
+2018_04_BUF_GB_9,Interception,Punt
+2019_10_LA_PIT_20,Interception,Punt
+2019_13_NO_ATL_17,Interception,Punt
+2019_16_HOU_TB_26,Interception,Punt
+2020_07_CHI_LA_22,Interception,Punt
+2019_11_KC_LAC_6,Interception,Punt
+2019_13_CHI_DET_14,Interception,Punt
+2021_10_CAR_ARI_11,Interception,Punt
+2020_13_LV_NYJ_3,Interception,Punt
+2020_08_LA_MIA_14,Interception,Punt
+2021_10_DET_PIT_6,Interception,Punt
+2020_03_CIN_PHI_3,Interception,Punt
+2016_16_NYG_PHI_8,Interception,Punt
+2016_04_LA_ARI_23,Interception,Punt
+2016_14_SD_CAR_25,Interception,Punt
+2016_12_TEN_CHI_8,Interception,Punt
+2016_03_OAK_TEN_19,Interception,Punt
+2020_09_DET_MIN_14,Interception,Punt
+2018_07_HOU_JAX_21,Interception,Punt
+2017_14_DET_TB_16,Interception,Punt
+2020_11_PIT_JAX_23,Interception,Punt
+2016_13_DEN_JAX_11,Interception,Punt
+2016_14_PIT_BUF_2,Interception,Punt
+2020_02_NYG_CHI_7,Interception,Punt
+2020_12_KC_TB_18,Interception,Punt
+2017_06_LA_JAX_23,Interception,Punt
+2017_05_SEA_LA_16,Interception,Punt
+2021_12_CLE_BAL_13,Interception,Punt
+2020_13_NYG_SEA_5,Interception,Punt
+2018_07_CIN_KC_16,Interception,Punt
+2017_15_CHI_DET_17,Interception,Punt
+2018_01_PIT_CLE_10,Interception,Punt
+2018_03_DAL_SEA_4,Interception,Punt
+2017_09_KC_DAL_18,Interception,Punt
+2017_13_DEN_MIA_11,Interception,Punt
+2016_01_CAR_DEN_17,Interception,Touchdown
+2018_02_MIA_NYJ_5,Interception,Touchdown
+2017_10_MIN_WAS_10,Interception,Touchdown
+2020_17_NO_CAR_15,Interception,Touchdown
+2020_01_PHI_WAS_19,Interception,Touchdown
+2020_12_ARI_NE_2,Interception,Touchdown
+2018_05_WAS_NO_15,Interception,Touchdown
+2018_14_NYG_WAS_13,Interception,Touchdown
+2021_06_BUF_TEN_11,Interception,Touchdown
+2017_17_WAS_NYG_3,Interception,Touchdown
+2019_17_CLE_CIN_6,Interception,Touchdown
+2017_10_MIA_CAR_10,Interception,Touchdown
+2020_05_LAC_NO_11,Interception,Touchdown
+2018_11_DEN_LAC_14,Interception,Touchdown
+2020_09_DEN_ATL_19,Interception,Touchdown
+2021_17_NYG_CHI_4,Interception,Touchdown
+2018_11_TEN_IND_14,Interception,Touchdown
+2021_11_PIT_LAC_17,Interception,Touchdown
+2021_01_GB_NO_10,Interception,Touchdown
+2020_03_WAS_CLE_11,Interception,Touchdown
+2016_13_BUF_OAK_21,Interception,Touchdown
+2018_08_CLE_PIT_10,Interception,Touchdown
+2019_07_OAK_GB_16,Interception,Touchdown
+2016_16_IND_OAK_10,Interception,Touchdown
+2016_01_CHI_HOU_2,Interception,Touchdown
+2021_01_CHI_LA_2,Interception,Touchdown
+2017_05_JAX_PIT_21,Interception,Touchdown
+2017_05_LAC_NYG_19,Interception,Touchdown
+2017_03_TB_MIN_9,Interception,Touchdown
+2018_04_MIA_NE_21,Interception,Touchdown
+2018_11_PIT_JAX_18,Interception,Touchdown
+2021_17_ATL_BUF_8,Interception,Touchdown
+2021_09_HOU_MIA_3,Interception,Touchdown
+2021_18_SF_LA_16,Interception,Touchdown
+2018_10_ARI_KC_16,Interception,Touchdown
+2017_14_DET_TB_9,Interception,Touchdown
+2019_04_CLE_BAL_22,Interception,Touchdown
+2017_03_BAL_JAX_17,Interception,Touchdown
+2016_16_DET_DAL_13,Interception,Touchdown
+2018_11_OAK_ARI_2,Interception,Touchdown
+2017_03_NO_CAR_17,Interception,Touchdown
+2019_05_CLE_SF_12,Interception,Touchdown
+2017_14_CHI_CIN_15,Interception,Touchdown
+2021_07_KC_TEN_7,Interception,Touchdown
+2016_05_ATL_DEN_14,Interception,Touchdown
+2020_16_CHI_JAX_15,Interception,Touchdown
+2018_10_ATL_CLE_6,Interception,Touchdown
+2018_11_DAL_ATL_13,Interception,Touchdown
+2019_05_BUF_TEN_16,Interception,Touchdown
+2020_01_TB_NO_7,Interception,Touchdown
+2020_06_ATL_MIN_2,Interception,Touchdown
+2021_13_IND_HOU_2,Interception,Touchdown
+2021_15_CAR_BUF_11,Interception,Touchdown
+2020_01_GB_MIN_9,Interception,Touchdown
+2019_01_BAL_MIA_20,Interception,Touchdown
+2020_17_GB_CHI_16,Interception,Touchdown
+2020_15_PIT_CIN_12,Interception,Touchdown
+2017_02_DET_NYG_7,Interception,Touchdown
+2020_10_LAC_MIA_16,Interception,Touchdown
+2021_06_HOU_IND_13,Interception,Touchdown
+2021_04_CAR_DAL_16,Interception,Touchdown
+2017_14_PHI_LA_2,Interception,Touchdown
+2020_10_MIN_CHI_3,Interception,Touchdown
+2018_04_TB_CHI_15,Interception,Touchdown
+2021_10_ATL_DAL_17,Interception,Touchdown
+2017_15_CHI_DET_13,Interception,Touchdown
+2018_01_SEA_DEN_19,Interception,Touchdown
+2020_01_CHI_DET_23,Interception,Touchdown
+2016_16_IND_OAK_6,Interception,Touchdown
+2019_12_MIA_CLE_9,Interception,Touchdown
+2019_08_MIA_PIT_10,Interception,Touchdown
+2017_01_ARI_DET_9,Interception,Touchdown
+2016_11_HOU_OAK_14,Interception,Touchdown
+2020_15_SEA_WAS_18,Interception,Touchdown
+2019_12_CAR_NO_18,Interception,Touchdown
+2017_06_NE_NYJ_14,Interception,Touchdown
+2021_10_KC_LV_16,Interception,Touchdown
+2021_10_BUF_NYJ_15,Interception,Touchdown
+2019_02_PHI_ATL_9,Interception,Touchdown
+2018_12_CLE_CIN_7,Interception,Touchdown
+2017_16_ATL_NO_8,Interception,Touchdown
+2021_04_HOU_BUF_22,Interception,Touchdown
+2018_03_PIT_TB_4,Interception,Touchdown
+2020_08_TB_NYG_18,Interception,Touchdown
+2017_04_IND_SEA_10,Interception,Touchdown
+2021_17_NYG_CHI_23,Interception,Turnover
+2020_04_NE_KC_7,Interception,Turnover
+2017_11_KC_NYG_3,Interception,Turnover
+2021_08_NYG_KC_2,Interception,Turnover
+2018_01_ATL_PHI_18,Interception,Turnover
+2021_01_BAL_LV_26,Interception,Turnover
+2021_05_LA_SEA_6,Interception,Turnover
+2021_05_NYJ_ATL_7,Interception,Turnover
+2016_03_CLE_MIA_2,Interception,Turnover
+2019_15_MIN_LAC_9,Interception,Turnover
+2018_17_CLE_BAL_10,Interception,Turnover
+2021_06_CIN_DET_5,Interception,Turnover
+2021_01_MIA_NE_16,Interception,Turnover
+2021_18_PIT_BAL_5,Interception,Turnover
+2018_13_CHI_NYG_8,Interception,Turnover
+2017_01_PIT_CLE_17,Interception,Turnover
+2020_16_TEN_GB_15,Interception,Turnover
+2018_05_IND_NE_17,Interception,Turnover
+2019_03_LA_CLE_21,Interception,Turnover
+2016_11_HOU_OAK_5,Kickoff,Field Goal
+2016_03_DET_GB_8,Kickoff,Field Goal
+2018_08_PHI_JAX_17,Kickoff,Field Goal
+2021_03_BAL_DET_16,Kickoff,Field Goal
+2018_04_DET_DAL_15,Kickoff,Field Goal
+2020_04_BUF_LV_4,Kickoff,Field Goal
+2017_15_TEN_SF_16,Kickoff,Field Goal
+2020_11_ATL_NO_5,Kickoff,Field Goal
+2016_09_NYJ_MIA_1,Kickoff,Field Goal
+2016_17_HOU_TEN_16,Kickoff,Field Goal
+2018_04_HOU_IND_26,Kickoff,Field Goal
+2017_16_IND_BAL_3,Kickoff,Field Goal
+2019_02_DAL_WAS_14,Kickoff,Field Goal
+2019_13_LAC_DEN_6,Kickoff,Field Goal
+2019_09_CLE_DEN_8,Kickoff,Field Goal
+2016_05_SD_OAK_8,Kickoff,Field Goal
+2016_16_CIN_HOU_14,Kickoff,Field Goal
+2021_13_JAX_LA_7,Kickoff,Field Goal
+2019_06_DAL_NYJ_18,Kickoff,Field Goal
+2020_06_WAS_NYG_6,Kickoff,Field Goal
+2020_02_JAX_TEN_8,Kickoff,Field Goal
+2017_13_LA_ARI_12,Kickoff,Field Goal
+2018_06_JAX_DAL_14,Kickoff,Field Goal
+2019_04_KC_DET_10,Kickoff,Field Goal
+2020_16_NYG_BAL_7,Kickoff,Field Goal
+2016_16_DET_DAL_16,Kickoff,Field Goal
+2019_16_CAR_IND_11,Kickoff,Field Goal
+2017_14_DAL_NYG_2,Kickoff,Field Goal
+2019_02_PHI_ATL_7,Kickoff,Field Goal
+2018_13_WAS_PHI_10,Kickoff,Field Goal
+2021_17_DEN_LAC_14,Kickoff,Field Goal
+2020_08_LV_CLE_1,Kickoff,Field Goal
+2019_15_JAX_OAK_3,Kickoff,Field Goal
+2016_04_CLE_WAS_9,Kickoff,Field Goal
+2017_03_NO_CAR_3,Kickoff,Field Goal
+2016_07_SD_ATL_20,Kickoff,Field Goal
+2021_18_LAC_LV_24,Kickoff,Field Goal
+2018_03_SF_KC_16,Kickoff,Field Goal
+2016_04_KC_PIT_13,Kickoff,Field Goal
+2020_11_MIA_DEN_12,Kickoff,Field Goal
+2019_16_DET_DEN_1,Kickoff,Field Goal
+2019_04_SEA_ARI_6,Kickoff,Field Goal
+2021_17_LA_BAL_10,Kickoff,Field Goal
+2017_17_NO_TB_17,Kickoff,Field Goal
+2020_13_DAL_BAL_6,Kickoff,Field Goal
+2018_06_CAR_WAS_17,Kickoff,Field Goal
+2021_03_TB_LA_9,Kickoff,Field Goal
+2016_06_SF_BUF_8,Kickoff,Field Goal
+2020_12_NYG_CIN_9,Kickoff,Field Goal
+2017_17_BUF_MIA_16,Kickoff,Field Goal
+2017_10_GB_CHI_3,Kickoff,Field Goal
+2020_01_ARI_SF_14,Kickoff,Field Goal
+2020_08_LV_CLE_8,Kickoff,Field Goal
+2018_05_NYG_CAR_11,Kickoff,Field Goal
+2017_09_BAL_TEN_2,Kickoff,Field Goal
+2019_10_MIN_DAL_10,Kickoff,Field Goal
+2020_11_ATL_NO_6,Kickoff,Field Goal
+2020_08_LAC_DEN_24,Kickoff,Field Goal
+2019_14_SEA_LA_18,Kickoff,Field Goal
+2020_11_TEN_BAL_8,Kickoff,Field Goal
+2016_13_TB_SD_15,Kickoff,Field Goal
+2020_16_SF_ARI_12,Kickoff,Field Goal
+2016_14_NO_TB_8,Kickoff,Field Goal
+2018_03_GB_WAS_6,Kickoff,Field Goal
+2019_17_CHI_MIN_5,Kickoff,Field Goal
+2020_01_LV_CAR_8,Kickoff,Field Goal
+2016_16_MIN_GB_6,Kickoff,Field Goal
+2021_11_DAL_KC_21,Kickoff,Field Goal
+2018_16_WAS_TEN_11,Kickoff,Field Goal
+2017_12_HOU_BAL_10,Kickoff,Field Goal
+2018_02_NYG_DAL_14,Kickoff,Field Goal
+2017_15_TEN_SF_10,Kickoff,Field Goal
+2019_17_NYJ_BUF_22,Kickoff,Field Goal
+2017_07_BAL_MIN_12,Kickoff,Field Goal
+2021_11_GB_MIN_2,Kickoff,Field Goal
+2016_06_BAL_NYG_1,Kickoff,Field Goal
+2021_16_CLE_GB_13,Kickoff,Field Goal
+2020_08_ATL_CAR_3,Kickoff,Field Goal
+2017_09_DET_GB_1,Kickoff,Field Goal
+2019_17_CHI_MIN_9,Kickoff,Field Goal
+2021_06_LA_NYG_17,Kickoff,Field Goal
+2017_09_CIN_JAX_7,Kickoff,Field Goal
+2018_10_NYG_SF_10,Kickoff,Field Goal
+2017_14_SEA_JAX_14,Kickoff,Field Goal
+2017_09_ATL_CAR_14,Kickoff,Field Goal
+2020_17_TEN_HOU_20,Kickoff,Field Goal
+2016_10_HOU_JAX_7,Kickoff,Field Goal
+2019_05_DEN_LAC_17,Kickoff,Field Goal
+2019_17_WAS_DAL_16,Kickoff,Field Goal
+2018_16_MIN_DET_13,Kickoff,Field Goal
+2017_07_NO_GB_16,Kickoff,Field Goal
+2021_02_LA_IND_7,Kickoff,Field Goal
+2016_04_CAR_ATL_7,Kickoff,Field Goal
+2016_05_NE_CLE_20,Kickoff,Field Goal
+2017_11_DET_CHI_20,Kickoff,Field Goal
+2020_11_PIT_JAX_1,Kickoff,Field Goal
+2021_15_ATL_SF_13,Kickoff,Field Goal
+2019_01_IND_LAC_9,Kickoff,Field Goal
+2020_09_DET_MIN_5,Kickoff,Field Goal
+2017_01_SEA_GB_19,Kickoff,Field Goal
+2018_17_IND_TEN_11,Kickoff,Field Goal
+2017_09_DET_GB_7,Kickoff,Field Goal
+2016_13_BUF_OAK_3,Kickoff,Field Goal
+2021_14_LV_KC_13,Kickoff,Field Goal
+2016_03_MIN_CAR_1,Kickoff,Field Goal
+2020_03_DET_ARI_11,Kickoff,Field Goal
+2016_06_CAR_NO_26,Kickoff,Field Goal
+2019_12_DEN_BUF_10,Kickoff,Field Goal
+2019_09_NYJ_MIA_15,Kickoff,Field Goal
+2020_08_NO_CHI_3,Kickoff,Field Goal
+2018_03_NYJ_CLE_22,Kickoff,Field Goal
+2019_13_NYJ_CIN_1,Kickoff,Field Goal
+2021_15_CAR_BUF_12,Kickoff,Field Goal
+2018_11_KC_LA_6,Kickoff,Field Goal
+2016_13_KC_ATL_10,Kickoff,Field Goal
+2020_16_DEN_LAC_13,Kickoff,Field Goal
+2019_09_HOU_JAX_6,Kickoff,Field Goal
+2019_09_WAS_BUF_5,Kickoff,Field Goal
+2020_08_NO_CHI_2,Kickoff,Field Goal
+2019_02_TB_CAR_12,Kickoff,Field Goal
+2019_01_IND_LAC_8,Kickoff,Field Goal
+2017_12_CLE_CIN_9,Kickoff,Field Goal
+2016_14_PIT_BUF_20,Kickoff,Field Goal
+2019_12_TB_ATL_20,Kickoff,Field Goal
+2019_14_SF_NO_24,Kickoff,Field Goal
+2019_10_MIN_DAL_1,Kickoff,Field Goal
+2016_12_NE_NYJ_10,Kickoff,Field Goal
+2016_08_SEA_NO_8,Kickoff,Field Goal
+2020_05_NYG_DAL_1,Kickoff,Field Goal
+2019_04_PHI_GB_6,Kickoff,Field Goal
+2019_10_DET_CHI_1,Kickoff,Field Goal
+2020_14_NO_PHI_20,Kickoff,Field Goal
+2020_12_CLE_JAX_6,Kickoff,Field Goal
+2020_06_NYJ_MIA_21,Kickoff,Field Goal
+2019_12_JAX_TEN_22,Kickoff,Field Goal
+2018_01_JAX_NYG_1,Kickoff,Field Goal
+2016_08_SEA_NO_12,Kickoff,Field Goal
+2017_04_WAS_KC_18,Kickoff,Field Goal
+2019_17_CLE_CIN_9,Kickoff,Field Goal
+2020_07_SF_NE_5,Kickoff,Field Goal
+2019_06_DAL_NYJ_4,Kickoff,Field Goal
+2017_03_ATL_DET_6,Kickoff,Field Goal
+2021_03_CIN_PIT_16,Kickoff,Field Goal
+2018_13_CHI_NYG_27,Kickoff,Field Goal
+2021_03_CAR_HOU_16,Kickoff,Field Goal
+2017_01_OAK_TEN_3,Kickoff,Field Goal
+2021_17_DEN_LAC_11,Kickoff,Field Goal
+2019_10_ARI_TB_5,Kickoff,Field Goal
+2018_15_PHI_LA_9,Kickoff,Field Goal
+2019_03_LA_CLE_5,Kickoff,Field Goal
+2016_16_ATL_CAR_16,Kickoff,Field Goal
+2019_14_KC_NE_14,Kickoff,Field Goal
+2019_12_DET_WAS_4,Kickoff,Field Goal
+2020_07_CLE_CIN_7,Kickoff,Field Goal
+2019_03_TEN_JAX_20,Kickoff,Field Goal
+2020_04_BUF_LV_2,Kickoff,Field Goal
+2016_12_ARI_ATL_4,Kickoff,Field Goal
+2016_10_KC_CAR_10,Kickoff,Field Goal
+2020_03_SF_NYG_4,Kickoff,Field Goal
+2021_09_GB_KC_3,Kickoff,Field Goal
+2018_01_KC_LAC_9,Kickoff,Field Goal
+2018_10_SEA_LA_14,Kickoff,Field Goal
+2016_08_KC_IND_1,Kickoff,Field Goal
+2019_15_TB_DET_10,Kickoff,Field Goal
+2021_06_KC_WAS_3,Kickoff,Field Goal
+2018_06_IND_NYJ_18,Kickoff,Field Goal
+2020_14_BAL_CLE_3,Kickoff,Field Goal
+2021_08_CIN_NYJ_7,Kickoff,Field Goal
+2021_02_NE_NYJ_15,Kickoff,Field Goal
+2018_05_GB_DET_7,Kickoff,Field Goal
+2016_15_PIT_CIN_10,Kickoff,Field Goal
+2017_12_CLE_CIN_11,Kickoff,Field Goal
+2018_13_BUF_MIA_12,Kickoff,Field Goal
+2019_17_WAS_DAL_18,Kickoff,Field Goal
+2021_03_GB_SF_20,Kickoff,Field Goal
+2020_17_NO_CAR_11,Kickoff,Field Goal
+2021_09_CLE_CIN_18,Kickoff,Field Goal
+2017_04_CAR_NE_18,Kickoff,Field Goal
+2016_11_BAL_DAL_18,Kickoff,Field Goal
+2021_03_BAL_DET_20,Kickoff,Field Goal
+2018_06_LA_DEN_20,Kickoff,Field Goal
+2016_03_WAS_NYG_20,Kickoff,Field Goal
+2021_05_NYJ_ATL_18,Kickoff,Field Goal
+2018_02_CAR_ATL_1,Kickoff,Field Goal
+2021_14_PIT_MIN_1,Kickoff,Field Goal
+2018_16_NYG_IND_8,Kickoff,Field Goal
+2021_01_PHI_ATL_1,Kickoff,Field Goal
+2017_12_CLE_CIN_3,Kickoff,Field Goal
+2018_15_GB_CHI_11,Kickoff,Field Goal
+2019_03_NYG_TB_25,Kickoff,Field Goal
+2021_03_CIN_PIT_13,Kickoff,Field Goal
+2017_12_TEN_IND_5,Kickoff,Field Goal
+2021_04_ARI_LA_12,Kickoff,Field Goal
+2016_01_NE_ARI_18,Kickoff,Field Goal
+2020_12_KC_TB_11,Kickoff,Field Goal
+2019_08_LAC_CHI_12,Kickoff,Field Goal
+2019_10_KC_TEN_8,Kickoff,Field Goal
+2017_08_DEN_KC_18,Kickoff,Field Goal
+2016_08_OAK_TB_23,Kickoff,Field Goal
+2020_02_NO_LV_1,Kickoff,Field Goal
+2016_13_WAS_ARI_12,Kickoff,Field Goal
+2019_02_CHI_DEN_1,Kickoff,Field Goal
+2021_10_TB_WAS_7,Kickoff,Field Goal
+2016_14_NO_TB_14,Kickoff,Field Goal
+2019_12_OAK_NYJ_2,Kickoff,Field Goal
+2017_13_SF_CHI_1,Kickoff,Field Goal
+2021_08_TEN_IND_10,Kickoff,Field Goal
+2019_12_BAL_LA_7,Kickoff,Field Goal
+2019_05_DEN_LAC_22,Kickoff,Field Goal
+2019_09_TB_SEA_16,Kickoff,Field Goal
+2017_10_NYJ_TB_12,Kickoff,Field Goal
+2021_09_LV_NYG_14,Kickoff,Field Goal
+2019_17_NO_CAR_15,Kickoff,Field Goal
+2017_14_SF_HOU_15,Kickoff,Field Goal
+2021_01_GB_NO_1,Kickoff,Field Goal
+2019_16_LA_SF_25,Kickoff,Field Goal
+2017_16_TB_CAR_3,Kickoff,Field Goal
+2016_13_IND_NYJ_8,Kickoff,Field Goal
+2018_13_CLE_HOU_13,Kickoff,Field Goal
+2020_13_CLE_TEN_16,Kickoff,Field Goal
+2021_17_PHI_WAS_5,Kickoff,Field Goal
+2016_05_ATL_DEN_18,Kickoff,Field Goal
+2017_17_JAX_TEN_7,Kickoff,Field Goal
+2021_18_KC_DEN_6,Kickoff,Field Goal
+2016_01_CAR_DEN_18,Kickoff,Field Goal
+2017_10_CLE_DET_5,Kickoff,Field Goal
+2017_12_HOU_BAL_19,Kickoff,Field Goal
+2019_07_LA_ATL_2,Kickoff,Field Goal
+2018_08_DEN_KC_5,Kickoff,Field Goal
+2019_11_DEN_MIN_1,Kickoff,Field Goal
+2020_12_KC_TB_1,Kickoff,Field Goal
+2018_02_CLE_NO_23,Kickoff,Field Goal
+2019_05_BUF_TEN_20,Kickoff,Field Goal
+2018_14_DEN_SF_1,Kickoff,Field Goal
+2017_13_NYG_OAK_24,Kickoff,Field Goal
+2019_07_MIA_BUF_1,Kickoff,Field Goal
+2020_01_LV_CAR_5,Kickoff,Field Goal
+2021_18_SEA_ARI_20,Kickoff,Field Goal
+2017_05_BAL_OAK_6,Kickoff,Field Goal
+2016_12_KC_DEN_26,Kickoff,Field Goal
+2016_06_CIN_NE_15,Kickoff,Field Goal
+2018_16_GB_NYJ_12,Kickoff,Field Goal
+2020_11_PHI_CLE_14,Kickoff,Field Goal
+2017_17_KC_DEN_21,Kickoff,Field Goal
+2017_05_GB_DAL_8,Kickoff,Field Goal
+2018_03_PIT_TB_19,Kickoff,Field Goal
+2019_12_TB_ATL_19,Kickoff,Field Goal
+2017_01_PHI_WAS_13,Kickoff,Field Goal
+2017_05_BAL_OAK_3,Kickoff,Field Goal
+2017_13_TB_GB_2,Kickoff,Field Goal
+2017_10_NYG_SF_2,Kickoff,Field Goal
+2018_01_CHI_GB_13,Kickoff,Field Goal
+2019_04_TB_LA_15,Kickoff,Field Goal
+2017_06_IND_TEN_6,Kickoff,Field Goal
+2017_01_NO_MIN_1,Kickoff,Field Goal
+2018_07_NYG_ATL_9,Kickoff,Field Goal
+2017_13_PHI_SEA_6,Kickoff,Field Goal
+2017_15_GB_CAR_4,Kickoff,Field Goal
+2020_05_BUF_TEN_7,Kickoff,Field Goal
+2020_13_JAX_MIN_26,Kickoff,Field Goal
+2017_15_TEN_SF_13,Kickoff,Field Goal
+2018_01_ATL_PHI_7,Kickoff,Field Goal
+2018_09_LA_NO_12,Kickoff,Field Goal
+2018_11_DAL_ATL_17,Kickoff,Field Goal
+2019_16_LA_SF_26,Kickoff,Field Goal
+2019_16_BAL_CLE_15,Kickoff,Field Goal
+2021_03_MIA_LV_16,Kickoff,Field Goal
+2020_04_BUF_LV_8,Kickoff,Field Goal
+2018_14_DET_ARI_8,Kickoff,Field Goal
+2020_06_HOU_TEN_8,Kickoff,Field Goal
+2021_14_BAL_CLE_18,Kickoff,Field Goal
+2021_16_MIA_NO_10,Kickoff,Field Goal
+2019_11_PIT_CLE_3,Kickoff,Field Goal
+2016_01_OAK_NO_22,Kickoff,Field Goal
+2018_13_ARI_GB_21,Kickoff,Field Goal
+2020_14_KC_MIA_26,Kickoff,Field Goal
+2020_16_DEN_LAC_14,Kickoff,Field Goal
+2016_08_SD_DEN_24,Kickoff,Field Goal
+2021_16_CHI_SEA_15,Kickoff,Field Goal
+2021_13_NYG_MIA_22,Kickoff,Field Goal
+2016_16_SD_CLE_3,Kickoff,Field Goal
+2020_10_WAS_DET_18,Kickoff,Field Goal
+2018_02_LAC_BUF_6,Kickoff,Field Goal
+2016_07_CHI_GB_8,Kickoff,Field Goal
+2016_03_SF_SEA_10,Kickoff,Field Goal
+2018_02_OAK_DEN_15,Kickoff,Field Goal
+2019_11_BUF_MIA_1,Kickoff,Field Goal
+2018_02_PHI_TB_14,Kickoff,Field Goal
+2021_16_NYG_PHI_9,Kickoff,Field Goal
+2016_11_JAX_DET_13,Kickoff,Field Goal
+2019_10_MIA_IND_22,Kickoff,Field Goal
+2020_13_DEN_KC_8,Kickoff,Field Goal
+2016_04_TEN_HOU_5,Kickoff,Field Goal
+2016_17_JAX_IND_13,Kickoff,Field Goal
+2021_10_KC_LV_6,Kickoff,Field Goal
+2021_04_TB_NE_20,Kickoff,Field Goal
+2020_10_SF_NO_5,Kickoff,Field Goal
+2016_14_MIN_JAX_7,Kickoff,Field Goal
+2020_11_PIT_JAX_2,Kickoff,Field Goal
+2017_08_LAC_NE_11,Kickoff,Field Goal
+2018_09_PIT_BAL_7,Kickoff,Field Goal
+2020_11_GB_IND_21,Kickoff,Field Goal
+2016_17_CHI_MIN_11,Kickoff,Field Goal
+2021_10_CAR_ARI_21,Kickoff,Field Goal
+2016_09_IND_GB_9,Kickoff,Field Goal
+2016_11_NO_CAR_15,Kickoff,Field Goal
+2020_16_ATL_KC_19,Kickoff,Field Goal
+2017_11_ATL_SEA_9,Kickoff,Field Goal
+2016_04_DET_CHI_11,Kickoff,Field Goal
+2020_16_BUF_NE_1,Kickoff,Field Goal
+2019_06_HOU_KC_9,Kickoff,Field Goal
+2019_17_WAS_DAL_19,Kickoff,Field Goal
+2020_15_DET_TEN_9,Kickoff,Field Goal
+2021_10_SEA_GB_1,Kickoff,Field Goal
+2019_09_NYJ_MIA_11,Kickoff,Field Goal
+2018_17_MIA_BUF_17,Kickoff,Field Goal
+2021_06_BUF_TEN_17,Kickoff,Field Goal
+2016_15_GB_CHI_22,Kickoff,Field Goal
+2019_08_ARI_NO_6,Kickoff,Field Goal
+2020_13_IND_HOU_11,Kickoff,Field Goal
+2020_06_CHI_CAR_17,Kickoff,Field Goal
+2019_10_BUF_CLE_8,Kickoff,Field Goal
+2020_17_DAL_NYG_14,Kickoff,Field Goal
+2019_09_WAS_BUF_7,Kickoff,Field Goal
+2018_17_ATL_TB_16,Kickoff,Field Goal
+2017_12_TB_ATL_2,Kickoff,Field Goal
+2021_14_DAL_WAS_1,Kickoff,Field Goal
+2020_02_MIN_IND_8,Kickoff,Field Goal
+2016_04_DET_CHI_14,Kickoff,Field Goal
+2021_02_NE_NYJ_6,Kickoff,Field Goal
+2021_04_TB_NE_21,Kickoff,Field Goal
+2021_09_LAC_PHI_9,Kickoff,Field Goal
+2016_15_OAK_SD_12,Kickoff,Field Goal
+2018_04_HOU_IND_27,Kickoff,Field Goal
+2016_16_MIN_GB_4,Kickoff,Field Goal
+2018_01_TEN_MIA_1,Kickoff,Field Goal
+2020_05_IND_CLE_19,Kickoff,Field Goal
+2016_17_JAX_IND_14,Kickoff,Field Goal
+2016_10_DAL_PIT_3,Kickoff,Field Goal
+2020_10_DEN_LV_3,Kickoff,Field Goal
+2021_06_MIN_CAR_6,Kickoff,Field Goal
+2019_10_ATL_NO_8,Kickoff,Field Goal
+2017_12_CAR_NYJ_1,Kickoff,Field Goal
+2019_13_BUF_DAL_12,Kickoff,Field Goal
+2019_05_ARI_CIN_8,Kickoff,Field Goal
+2020_07_NYG_PHI_5,Kickoff,Field Goal
+2021_07_CAR_NYG_6,Kickoff,Field Goal
+2021_16_DET_ATL_13,Kickoff,Field Goal
+2020_08_LV_CLE_5,Kickoff,Field Goal
+2016_15_CLE_BUF_13,Kickoff,Field Goal
+2017_04_CHI_GB_16,Kickoff,Field Goal
+2020_09_NE_NYJ_13,Kickoff,Field Goal
+2020_03_WAS_CLE_5,Kickoff,Field Goal
+2019_09_DET_OAK_4,Kickoff,Field Goal
+2020_03_CAR_LAC_7,Kickoff,Field Goal
+2018_16_BAL_LAC_10,Kickoff,Field Goal
+2020_12_CHI_GB_2,Kickoff,Field Goal
+2020_08_TB_NYG_15,Kickoff,Field Goal
+2016_13_NYG_PIT_5,Kickoff,Field Goal
+2017_14_NO_ATL_1,Kickoff,Field Goal
+2021_02_DET_GB_7,Kickoff,Field Goal
+2016_09_NO_SF_10,Kickoff,Field Goal
+2018_04_HOU_IND_14,Kickoff,Field Goal
+2017_04_JAX_NYJ_7,Kickoff,Field Goal
+2021_02_TEN_SEA_10,Kickoff,Field Goal
+2018_15_TEN_NYG_1,Kickoff,Field Goal
+2021_16_IND_ARI_8,Kickoff,Field Goal
+2019_10_MIN_DAL_11,Kickoff,Field Goal
+2018_13_SF_SEA_12,Kickoff,Field Goal
+2018_05_LA_SEA_10,Kickoff,Field Goal
+2021_03_MIA_LV_14,Kickoff,Punt
+2021_10_DET_PIT_2,Kickoff,Punt
+2019_01_BUF_NYJ_4,Kickoff,Punt
+2019_17_PIT_BAL_14,Kickoff,Punt
+2021_05_NE_HOU_10,Kickoff,Punt
+2017_11_JAX_CLE_5,Kickoff,Punt
+2017_15_ARI_WAS_4,Kickoff,Punt
+2016_09_DAL_CLE_7,Kickoff,Punt
+2018_12_CHI_DET_18,Kickoff,Punt
+2021_02_BUF_MIA_1,Kickoff,Punt
+2020_17_LAC_KC_11,Kickoff,Punt
+2021_12_TB_IND_20,Kickoff,Punt
+2017_08_PIT_DET_19,Kickoff,Punt
+2019_05_GB_DAL_24,Kickoff,Punt
+2020_14_HOU_CHI_11,Kickoff,Punt
+2020_07_SF_NE_2,Kickoff,Punt
+2018_04_MIN_LA_21,Kickoff,Punt
+2020_09_LV_LAC_14,Kickoff,Punt
+2017_07_ARI_LA_7,Kickoff,Punt
+2021_18_GB_DET_14,Kickoff,Punt
+2018_01_ATL_PHI_8,Kickoff,Punt
+2021_05_CLE_LAC_1,Kickoff,Punt
+2016_01_LA_SF_9,Kickoff,Punt
+2018_04_KC_DEN_8,Kickoff,Punt
+2018_13_BAL_ATL_3,Kickoff,Punt
+2020_17_PIT_CLE_3,Kickoff,Punt
+2016_11_PHI_SEA_10,Kickoff,Punt
+2021_12_CLE_BAL_16,Kickoff,Punt
+2016_03_MIN_CAR_15,Kickoff,Punt
+2021_07_DET_LA_6,Kickoff,Punt
+2018_08_NO_MIN_14,Kickoff,Punt
+2019_08_GB_KC_18,Kickoff,Punt
+2021_12_CHI_DET_1,Kickoff,Punt
+2018_14_JAX_TEN_2,Kickoff,Punt
+2021_17_MIN_GB_13,Kickoff,Punt
+2020_15_NYJ_LA_1,Kickoff,Punt
+2021_03_ATL_NYG_3,Kickoff,Punt
+2017_03_OAK_WAS_3,Kickoff,Punt
+2016_12_NE_NYJ_15,Kickoff,Punt
+2021_03_MIA_LV_6,Kickoff,Punt
+2019_01_HOU_NO_14,Kickoff,Punt
+2016_13_CAR_SEA_21,Kickoff,Punt
+2021_12_BUF_NO_1,Kickoff,Punt
+2018_15_GB_CHI_17,Kickoff,Punt
+2019_03_TEN_JAX_17,Kickoff,Punt
+2019_13_SF_BAL_2,Kickoff,Punt
+2016_01_BUF_BAL_18,Kickoff,Punt
+2019_13_TB_JAX_1,Kickoff,Punt
+2021_16_MIA_NO_15,Kickoff,Punt
+2017_17_CHI_MIN_9,Kickoff,Punt
+2017_15_BAL_CLE_13,Kickoff,Punt
+2017_09_BAL_TEN_7,Kickoff,Punt
+2021_14_NO_NYJ_20,Kickoff,Punt
+2018_17_ATL_TB_8,Kickoff,Punt
+2019_02_ARI_BAL_17,Kickoff,Punt
+2017_13_SF_CHI_10,Kickoff,Punt
+2020_09_HOU_JAX_18,Kickoff,Punt
+2021_12_CHI_DET_12,Kickoff,Punt
+2020_03_WAS_CLE_13,Kickoff,Punt
+2020_04_LAC_TB_4,Kickoff,Punt
+2017_03_BAL_JAX_11,Kickoff,Punt
+2020_15_JAX_BAL_6,Kickoff,Punt
+2018_04_CLE_OAK_11,Kickoff,Punt
+2019_04_TB_LA_2,Kickoff,Punt
+2017_13_DET_BAL_1,Kickoff,Punt
+2019_02_SF_CIN_19,Kickoff,Punt
+2017_01_OAK_TEN_4,Kickoff,Punt
+2021_09_CLE_CIN_10,Kickoff,Punt
+2020_14_PIT_BUF_1,Kickoff,Punt
+2018_12_SEA_CAR_6,Kickoff,Punt
+2016_09_DEN_OAK_1,Kickoff,Punt
+2021_10_PHI_DEN_5,Kickoff,Punt
+2021_11_MIA_NYJ_5,Kickoff,Punt
+2019_16_JAX_ATL_20,Kickoff,Punt
+2016_01_MIN_TEN_10,Kickoff,Punt
+2019_04_OAK_IND_9,Kickoff,Punt
+2020_15_CHI_MIN_6,Kickoff,Punt
+2020_10_BUF_ARI_9,Kickoff,Punt
+2021_10_KC_LV_1,Kickoff,Punt
+2018_14_DET_ARI_16,Kickoff,Punt
+2019_07_SF_WAS_14,Kickoff,Punt
+2019_13_WAS_CAR_5,Kickoff,Punt
+2017_13_LA_ARI_10,Kickoff,Punt
+2020_10_SF_NO_13,Kickoff,Punt
+2016_10_CLE_BAL_1,Kickoff,Punt
+2017_09_BAL_TEN_3,Kickoff,Punt
+2019_07_PHI_DAL_9,Kickoff,Punt
+2017_07_DAL_SF_6,Kickoff,Punt
+2016_06_PIT_MIA_4,Kickoff,Punt
+2020_17_NYJ_NE_12,Kickoff,Punt
+2016_16_MIA_BUF_1,Kickoff,Punt
+2016_09_PHI_NYG_21,Kickoff,Punt
+2017_02_MIN_PIT_17,Kickoff,Punt
+2020_12_CLE_JAX_1,Kickoff,Punt
+2017_17_OAK_LAC_15,Kickoff,Punt
+2017_04_NO_MIA_14,Kickoff,Punt
+2019_10_LA_PIT_22,Kickoff,Punt
+2019_05_NYJ_PHI_18,Kickoff,Punt
+2018_03_SF_KC_12,Kickoff,Punt
+2018_07_LA_SF_14,Kickoff,Punt
+2019_16_KC_CHI_8,Kickoff,Punt
+2019_03_LA_CLE_1,Kickoff,Punt
+2019_14_CAR_ATL_1,Kickoff,Punt
+2021_03_SEA_MIN_11,Kickoff,Punt
+2017_10_PIT_IND_15,Kickoff,Punt
+2016_10_KC_CAR_16,Kickoff,Punt
+2019_01_CIN_SEA_1,Kickoff,Punt
+2020_13_CLE_TEN_14,Kickoff,Punt
+2016_14_NYJ_SF_21,Kickoff,Punt
+2021_17_LA_BAL_7,Kickoff,Punt
+2021_10_NO_TEN_20,Kickoff,Punt
+2017_17_CLE_PIT_11,Kickoff,Punt
+2019_12_CAR_NO_10,Kickoff,Punt
+2017_07_ARI_LA_16,Kickoff,Punt
+2016_02_PHI_CHI_9,Kickoff,Punt
+2017_15_CIN_MIN_7,Kickoff,Punt
+2016_05_HOU_MIN_4,Kickoff,Punt
+2017_07_TB_BUF_13,Kickoff,Punt
+2020_15_CAR_GB_15,Kickoff,Punt
+2021_11_WAS_CAR_13,Kickoff,Punt
+2019_06_SF_LA_1,Kickoff,Punt
+2021_13_TB_ATL_15,Kickoff,Punt
+2016_02_DAL_WAS_2,Kickoff,Punt
+2017_12_JAX_ARI_7,Kickoff,Punt
+2018_11_OAK_ARI_20,Kickoff,Punt
+2016_10_GB_TEN_24,Kickoff,Punt
+2017_06_MIA_ATL_15,Kickoff,Punt
+2017_10_HOU_LA_3,Kickoff,Punt
+2016_10_SEA_NE_5,Kickoff,Punt
+2019_02_SF_CIN_1,Kickoff,Punt
+2020_04_ATL_GB_7,Kickoff,Punt
+2017_08_HOU_SEA_2,Kickoff,Punt
+2019_03_ATL_IND_2,Kickoff,Punt
+2021_07_CAR_NYG_7,Kickoff,Punt
+2021_16_TB_CAR_14,Kickoff,Punt
+2017_05_TEN_MIA_1,Kickoff,Punt
+2021_16_DET_ATL_3,Kickoff,Punt
+2020_14_DEN_CAR_15,Kickoff,Punt
+2018_08_BAL_CAR_7,Kickoff,Punt
+2017_03_SEA_TEN_10,Kickoff,Punt
+2019_10_ATL_NO_4,Kickoff,Punt
+2016_10_MIA_SD_1,Kickoff,Punt
+2020_14_GB_DET_5,Kickoff,Punt
+2021_07_ATL_MIA_11,Kickoff,Punt
+2018_16_BUF_NE_25,Kickoff,Punt
+2019_13_LAC_DEN_9,Kickoff,Punt
+2018_04_NYJ_JAX_3,Kickoff,Punt
+2019_05_ATL_HOU_1,Kickoff,Punt
+2019_14_IND_TB_18,Kickoff,Punt
+2017_13_NE_BUF_3,Kickoff,Punt
+2016_03_HOU_NE_16,Kickoff,Punt
+2016_01_CAR_DEN_10,Kickoff,Punt
+2016_11_NE_SF_5,Kickoff,Punt
+2019_02_SF_CIN_5,Kickoff,Punt
+2018_17_PHI_WAS_10,Kickoff,Punt
+2016_08_OAK_TB_21,Kickoff,Punt
+2016_16_NYG_PHI_14,Kickoff,Punt
+2016_14_ARI_MIA_25,Kickoff,Punt
+2016_16_TB_NO_8,Kickoff,Punt
+2018_09_HOU_DEN_2,Kickoff,Punt
+2018_03_DAL_SEA_21,Kickoff,Punt
+2019_03_HOU_LAC_4,Kickoff,Punt
+2021_14_DET_DEN_7,Kickoff,Punt
+2021_10_TB_WAS_1,Kickoff,Punt
+2020_14_PIT_BUF_18,Kickoff,Punt
+2017_05_MIN_CHI_19,Kickoff,Punt
+2017_17_ARI_SEA_22,Kickoff,Punt
+2016_17_NO_ATL_15,Kickoff,Punt
+2018_01_SEA_DEN_25,Kickoff,Punt
+2019_03_BAL_KC_16,Kickoff,Punt
+2017_14_BAL_PIT_12,Kickoff,Punt
+2021_15_NYJ_MIA_5,Kickoff,Punt
+2019_14_NYG_PHI_1,Kickoff,Punt
+2018_13_ARI_GB_1,Kickoff,Punt
+2021_05_NO_WAS_14,Kickoff,Punt
+2019_10_LA_PIT_7,Kickoff,Punt
+2016_13_DAL_MIN_19,Kickoff,Punt
+2020_12_CHI_GB_13,Kickoff,Punt
+2021_03_MIA_LV_17,Kickoff,Punt
+2018_15_ARI_ATL_1,Kickoff,Punt
+2018_02_LAC_BUF_13,Kickoff,Punt
+2019_08_ARI_NO_16,Kickoff,Punt
+2021_03_PHI_DAL_9,Kickoff,Punt
+2021_03_CHI_CLE_13,Kickoff,Punt
+2019_15_MIA_NYG_20,Kickoff,Punt
+2017_13_SF_CHI_6,Kickoff,Punt
+2016_14_PIT_BUF_9,Kickoff,Punt
+2016_11_JAX_DET_10,Kickoff,Punt
+2020_06_CIN_IND_5,Kickoff,Punt
+2016_01_CLE_PHI_14,Kickoff,Punt
+2021_04_TB_NE_8,Kickoff,Punt
+2019_01_DEN_OAK_2,Kickoff,Punt
+2020_16_DEN_LAC_8,Kickoff,Punt
+2021_09_DEN_DAL_9,Kickoff,Punt
+2017_17_GB_DET_9,Kickoff,Punt
+2018_08_SEA_DET_8,Kickoff,Punt
+2020_03_TEN_MIN_2,Kickoff,Punt
+2017_10_PIT_IND_21,Kickoff,Punt
+2020_01_PHI_WAS_3,Kickoff,Punt
+2021_15_CIN_DEN_1,Kickoff,Punt
+2017_02_CLE_BAL_1,Kickoff,Punt
+2017_03_TB_MIN_17,Kickoff,Punt
+2021_04_TB_NE_12,Kickoff,Punt
+2016_14_PIT_BUF_4,Kickoff,Punt
+2017_06_PHI_CAR_5,Kickoff,Punt
+2016_15_PIT_CIN_4,Kickoff,Punt
+2021_07_HOU_ARI_15,Kickoff,Punt
+2017_17_GB_DET_12,Kickoff,Punt
+2017_13_CAR_NO_13,Kickoff,Punt
+2021_06_DAL_NE_23,Kickoff,Punt
+2019_02_NO_LA_12,Kickoff,Punt
+2021_11_ARI_SEA_10,Kickoff,Punt
+2021_11_ARI_SEA_3,Kickoff,Punt
+2020_02_BAL_HOU_18,Kickoff,Punt
+2018_03_NYG_HOU_3,Kickoff,Punt
+2020_02_MIN_IND_15,Kickoff,Punt
+2021_08_NE_LAC_18,Kickoff,Punt
+2018_02_ARI_LA_8,Kickoff,Punt
+2016_12_SEA_TB_7,Kickoff,Punt
+2016_03_OAK_TEN_9,Kickoff,Punt
+2016_06_NYJ_ARI_16,Kickoff,Punt
+2017_03_BAL_JAX_20,Kickoff,Punt
+2019_03_TEN_JAX_3,Kickoff,Punt
+2018_01_KC_LAC_16,Kickoff,Punt
+2016_09_DET_MIN_10,Kickoff,Punt
+2019_03_CIN_BUF_22,Kickoff,Punt
+2019_08_SEA_ATL_14,Kickoff,Punt
+2021_09_ATL_NO_1,Kickoff,Punt
+2018_09_TB_CAR_15,Kickoff,Punt
+2021_07_HOU_ARI_1,Kickoff,Punt
+2021_04_CAR_DAL_1,Kickoff,Punt
+2017_09_OAK_MIA_2,Kickoff,Punt
+2016_08_OAK_TB_18,Kickoff,Punt
+2019_03_NO_SEA_2,Kickoff,Punt
+2016_16_MIN_GB_15,Kickoff,Punt
+2017_12_SEA_SF_10,Kickoff,Punt
+2017_05_BUF_CIN_1,Kickoff,Punt
+2020_13_CLE_TEN_8,Kickoff,Punt
+2017_06_PHI_CAR_22,Kickoff,Punt
+2018_11_PIT_JAX_20,Kickoff,Punt
+2017_13_PIT_CIN_16,Kickoff,Punt
+2021_16_SF_TEN_6,Kickoff,Punt
+2018_07_DAL_WAS_1,Kickoff,Punt
+2021_14_NO_NYJ_3,Kickoff,Punt
+2017_05_LAC_NYG_17,Kickoff,Punt
+2021_09_TEN_LA_18,Kickoff,Punt
+2020_09_NO_TB_1,Kickoff,Punt
+2020_02_JAX_TEN_13,Kickoff,Punt
+2018_17_CHI_MIN_3,Kickoff,Punt
+2020_01_LAC_CIN_1,Kickoff,Punt
+2019_15_ATL_SF_6,Kickoff,Punt
+2019_15_NE_CIN_8,Kickoff,Punt
+2021_07_CHI_TB_9,Kickoff,Punt
+2017_16_DEN_WAS_6,Kickoff,Punt
+2018_17_SF_LA_10,Kickoff,Punt
+2018_13_LA_DET_12,Kickoff,Punt
+2021_18_TEN_HOU_16,Kickoff,Punt
+2018_17_LAC_DEN_14,Kickoff,Punt
+2016_01_GB_JAX_3,Kickoff,Punt
+2017_10_CLE_DET_6,Kickoff,Punt
+2017_02_DAL_DEN_3,Kickoff,Punt
+2016_04_MIA_CIN_6,Kickoff,Punt
+2018_04_CIN_ATL_10,Kickoff,Punt
+2019_01_CIN_SEA_9,Kickoff,Punt
+2020_14_MIN_TB_1,Kickoff,Punt
+2019_07_ARI_NYG_18,Kickoff,Punt
+2016_01_NE_ARI_3,Kickoff,Punt
+2016_04_DAL_SF_5,Kickoff,Punt
+2018_12_GB_MIN_12,Kickoff,Punt
+2017_03_BAL_JAX_3,Kickoff,Punt
+2021_08_TEN_IND_7,Kickoff,Punt
+2019_02_JAX_HOU_19,Kickoff,Punt
+2020_02_ATL_DAL_24,Kickoff,Punt
+2019_03_DET_PHI_12,Kickoff,Punt
+2016_15_JAX_HOU_18,Kickoff,Punt
+2018_04_SF_LAC_9,Kickoff,Punt
+2020_02_JAX_TEN_5,Kickoff,Punt
+2021_09_ATL_NO_4,Kickoff,Punt
+2017_09_KC_DAL_6,Kickoff,Punt
+2020_17_SEA_SF_1,Kickoff,Punt
+2018_13_CHI_NYG_2,Kickoff,Punt
+2019_08_GB_KC_7,Kickoff,Punt
+2021_15_WAS_PHI_13,Kickoff,Punt
+2021_18_CHI_MIN_8,Kickoff,Punt
+2016_13_SF_CHI_19,Kickoff,Punt
+2018_16_LA_ARI_4,Kickoff,Punt
+2016_10_CHI_TB_1,Kickoff,Punt
+2020_17_SEA_SF_6,Kickoff,Punt
+2016_17_CLE_PIT_1,Kickoff,Punt
+2020_12_NO_DEN_1,Kickoff,Punt
+2016_10_CHI_TB_16,Kickoff,Punt
+2021_06_LAC_BAL_3,Kickoff,Punt
+2020_12_KC_TB_20,Kickoff,Punt
+2016_14_HOU_IND_16,Kickoff,Punt
+2016_11_NE_SF_16,Kickoff,Punt
+2016_02_SEA_LA_15,Kickoff,Punt
+2021_05_TEN_JAX_12,Kickoff,Punt
+2016_04_OAK_BAL_16,Kickoff,Punt
+2021_17_HOU_SF_1,Kickoff,Punt
+2019_04_JAX_DEN_17,Kickoff,Punt
+2016_07_SEA_ARI_1,Kickoff,Punt
+2021_18_LAC_LV_9,Kickoff,Punt
+2017_06_SF_WAS_19,Kickoff,Punt
+2021_01_BAL_LV_1,Kickoff,Punt
+2021_09_BUF_JAX_6,Kickoff,Punt
+2020_07_TB_LV_11,Kickoff,Punt
+2020_11_ATL_NO_2,Kickoff,Punt
+2016_11_MIA_LA_25,Kickoff,Punt
+2017_04_NYG_TB_18,Kickoff,Punt
+2017_04_CHI_GB_21,Kickoff,Punt
+2020_01_PHI_WAS_14,Kickoff,Punt
+2017_09_IND_HOU_22,Kickoff,Punt
+2020_17_ARI_LA_4,Kickoff,Punt
+2021_10_MIN_LAC_11,Kickoff,Punt
+2018_10_NE_TEN_21,Kickoff,Punt
+2017_16_ATL_NO_3,Kickoff,Punt
+2021_11_NO_PHI_13,Kickoff,Punt
+2016_07_WAS_DET_14,Kickoff,Punt
+2018_05_DEN_NYJ_18,Kickoff,Punt
+2016_01_TB_ATL_15,Kickoff,Punt
+2017_13_TB_GB_19,Kickoff,Punt
+2018_03_IND_PHI_11,Kickoff,Punt
+2016_05_HOU_MIN_2,Kickoff,Punt
+2019_16_CIN_MIA_4,Kickoff,Punt
+2018_16_DEN_OAK_8,Kickoff,Punt
+2019_16_CAR_IND_1,Kickoff,Punt
+2019_06_NO_JAX_1,Kickoff,Punt
+2021_13_WAS_LV_2,Kickoff,Punt
+2017_11_KC_NYG_10,Kickoff,Punt
+2021_06_TB_PHI_10,Kickoff,Punt
+2017_15_LA_SEA_13,Kickoff,Punt
+2019_13_PHI_MIA_3,Kickoff,Punt
+2019_10_KC_TEN_9,Kickoff,Punt
+2019_15_HOU_TEN_8,Kickoff,Punt
+2020_05_ARI_NYJ_1,Kickoff,Punt
+2020_15_PIT_CIN_21,Kickoff,Punt
+2017_07_BAL_MIN_5,Kickoff,Punt
+2018_06_TB_ATL_5,Kickoff,Punt
+2020_11_DAL_MIN_1,Kickoff,Punt
+2016_11_HOU_OAK_2,Kickoff,Punt
+2016_14_SD_CAR_17,Kickoff,Punt
+2020_02_KC_LAC_2,Kickoff,Punt
+2021_14_PIT_MIN_26,Kickoff,Punt
+2018_13_WAS_PHI_5,Kickoff,Punt
+2021_06_SEA_PIT_10,Kickoff,Punt
+2020_09_GB_SF_19,Kickoff,Punt
+2017_14_SEA_JAX_18,Kickoff,Punt
+2020_16_LA_SEA_11,Kickoff,Punt
+2019_06_WAS_MIA_16,Kickoff,Punt
+2019_03_DET_PHI_5,Kickoff,Punt
+2021_10_BAL_MIA_2,Kickoff,Punt
+2017_05_TEN_MIA_25,Kickoff,Punt
+2019_15_MIA_NYG_18,Kickoff,Punt
+2019_02_ARI_BAL_12,Kickoff,Punt
+2017_11_TB_MIA_18,Kickoff,Punt
+2019_17_GB_DET_21,Kickoff,Punt
+2017_05_NE_TB_6,Kickoff,Punt
+2017_02_MIA_LAC_1,Kickoff,Punt
+2018_07_HOU_JAX_9,Kickoff,Punt
+2021_06_LA_NYG_23,Kickoff,Punt
+2017_03_ATL_DET_2,Kickoff,Punt
+2018_06_BAL_TEN_3,Kickoff,Punt
+2019_01_PIT_NE_6,Kickoff,Punt
+2018_01_WAS_ARI_4,Kickoff,Punt
+2016_08_MIN_CHI_14,Kickoff,Punt
+2020_01_PIT_NYG_10,Kickoff,Punt
+2018_05_BAL_CLE_1,Kickoff,Punt
+2018_16_PIT_NO_14,Kickoff,Punt
+2017_05_CAR_DET_2,Kickoff,Punt
+2020_15_KC_NO_8,Kickoff,Punt
+2019_01_GB_CHI_1,Kickoff,Punt
+2016_09_IND_GB_10,Kickoff,Punt
+2020_08_IND_DET_8,Kickoff,Punt
+2017_14_CHI_CIN_9,Kickoff,Punt
+2017_06_LA_JAX_7,Kickoff,Punt
+2020_13_NO_ATL_1,Kickoff,Punt
+2017_05_CAR_DET_7,Kickoff,Punt
+2017_03_HOU_NE_20,Kickoff,Punt
+2018_12_OAK_BAL_16,Kickoff,Punt
+2018_07_DET_MIA_13,Kickoff,Punt
+2017_16_LAC_NYJ_14,Kickoff,Punt
+2016_09_TEN_SD_4,Kickoff,Punt
+2017_01_ARI_DET_14,Kickoff,Punt
+2019_03_NYG_TB_13,Kickoff,Punt
+2016_01_CHI_HOU_6,Kickoff,Punt
+2018_07_HOU_JAX_3,Kickoff,Punt
+2018_05_JAX_KC_1,Kickoff,Punt
+2016_08_OAK_TB_6,Kickoff,Punt
+2017_04_IND_SEA_20,Kickoff,Punt
+2019_15_TB_DET_6,Kickoff,Punt
+2016_16_TEN_JAX_11,Kickoff,Punt
+2020_01_TB_NO_14,Kickoff,Punt
+2019_02_CLE_NYJ_18,Kickoff,Punt
+2017_01_KC_NE_12,Kickoff,Punt
+2021_18_TEN_HOU_14,Kickoff,Punt
+2021_15_CAR_BUF_9,Kickoff,Punt
+2020_17_PIT_CLE_8,Kickoff,Punt
+2016_15_TB_DAL_17,Kickoff,Punt
+2018_12_MIA_IND_16,Kickoff,Punt
+2019_07_MIA_BUF_16,Kickoff,Punt
+2018_06_JAX_DAL_21,Kickoff,Punt
+2018_09_NYJ_MIA_14,Kickoff,Punt
+2017_17_SF_LA_2,Kickoff,Punt
+2018_02_OAK_DEN_18,Kickoff,Punt
+2016_09_NO_SF_11,Kickoff,Punt
+2018_17_JAX_HOU_15,Kickoff,Punt
+2019_04_OAK_IND_4,Kickoff,Punt
+2016_08_KC_IND_9,Kickoff,Punt
+2019_09_CHI_PHI_5,Kickoff,Punt
+2018_07_LA_SF_19,Kickoff,Punt
+2019_08_PHI_BUF_1,Kickoff,Punt
+2017_07_WAS_PHI_11,Kickoff,Punt
+2016_04_MIA_CIN_16,Kickoff,Punt
+2016_04_NO_SD_21,Kickoff,Punt
+2020_17_DAL_NYG_5,Kickoff,Punt
+2020_05_MIA_SF_5,Kickoff,Punt
+2018_01_DAL_CAR_7,Kickoff,Punt
+2018_14_JAX_TEN_17,Kickoff,Punt
+2016_08_JAX_TEN_1,Kickoff,Punt
+2016_10_GB_TEN_5,Kickoff,Punt
+2021_10_CAR_ARI_13,Kickoff,Punt
+2021_01_MIN_CIN_22,Kickoff,Punt
+2016_12_SF_MIA_1,Kickoff,Punt
+2018_08_NYJ_CHI_6,Kickoff,Punt
+2016_15_SF_ATL_13,Kickoff,Punt
+2021_11_CIN_LV_13,Kickoff,Punt
+2017_12_NO_LA_2,Kickoff,Punt
+2017_09_OAK_MIA_9,Kickoff,Punt
+2016_08_ARI_CAR_2,Kickoff,Punt
+2018_13_MIN_NE_1,Kickoff,Punt
+2019_04_WAS_NYG_11,Kickoff,Punt
+2016_05_CHI_IND_10,Kickoff,Punt
+2016_10_MIN_WAS_1,Kickoff,Punt
+2019_16_NO_TEN_20,Kickoff,Punt
+2016_06_CLE_TEN_3,Kickoff,Punt
+2018_01_BUF_BAL_24,Kickoff,Punt
+2020_04_ARI_CAR_16,Kickoff,Punt
+2019_05_JAX_CAR_14,Kickoff,Punt
+2018_07_MIN_NYJ_19,Kickoff,Punt
+2017_17_CIN_BAL_22,Kickoff,Punt
+2021_03_CAR_HOU_12,Kickoff,Punt
+2021_03_ARI_JAX_5,Kickoff,Punt
+2020_02_WAS_ARI_3,Kickoff,Punt
+2018_04_NO_NYG_4,Kickoff,Punt
+2021_16_TB_CAR_12,Kickoff,Punt
+2017_08_OAK_BUF_7,Kickoff,Punt
+2017_10_LAC_JAX_1,Kickoff,Punt
+2019_16_DAL_PHI_4,Kickoff,Punt
+2020_12_SF_LA_29,Kickoff,Punt
+2016_09_BUF_SEA_10,Kickoff,Punt
+2016_06_LA_DET_3,Kickoff,Punt
+2016_05_HOU_MIN_19,Kickoff,Punt
+2021_14_DAL_WAS_26,Kickoff,Punt
+2019_08_PHI_BUF_6,Kickoff,Punt
+2020_12_CAR_MIN_16,Kickoff,Punt
+2021_08_CAR_ATL_4,Kickoff,Punt
+2017_06_MIA_ATL_11,Kickoff,Punt
+2019_10_KC_TEN_15,Kickoff,Punt
+2018_03_TEN_JAX_14,Kickoff,Punt
+2019_12_DET_WAS_15,Kickoff,Punt
+2021_09_TEN_LA_16,Kickoff,Punt
+2017_05_NYJ_CLE_13,Kickoff,Punt
+2021_01_GB_NO_13,Kickoff,Punt
+2020_15_BUF_DEN_5,Kickoff,Punt
+2020_17_ARI_LA_7,Kickoff,Punt
+2019_14_SF_NO_18,Kickoff,Punt
+2021_06_LA_NYG_13,Kickoff,Punt
+2020_11_CIN_WAS_15,Kickoff,Punt
+2021_03_PHI_DAL_17,Kickoff,Punt
+2019_06_WAS_MIA_1,Kickoff,Punt
+2017_14_WAS_LAC_10,Kickoff,Punt
+2018_02_IND_WAS_17,Kickoff,Punt
+2021_02_TEN_SEA_18,Kickoff,Punt
+2017_15_NYJ_NO_6,Kickoff,Punt
+2017_05_ARI_PHI_17,Kickoff,Punt
+2019_07_NE_NYJ_4,Kickoff,Punt
+2020_01_LAC_CIN_17,Kickoff,Punt
+2016_02_NO_NYG_19,Kickoff,Punt
+2017_05_NYJ_CLE_18,Kickoff,Punt
+2018_15_SEA_SF_4,Kickoff,Punt
+2019_04_KC_DET_5,Kickoff,Punt
+2021_07_CAR_NYG_2,Kickoff,Punt
+2016_03_PIT_PHI_15,Kickoff,Punt
+2020_06_CHI_CAR_10,Kickoff,Punt
+2018_06_SF_GB_12,Kickoff,Punt
+2018_13_SF_SEA_1,Kickoff,Punt
+2021_17_PHI_WAS_10,Kickoff,Punt
+2021_09_BUF_JAX_3,Kickoff,Punt
+2019_06_TEN_DEN_11,Kickoff,Punt
+2018_07_TEN_LAC_6,Kickoff,Punt
+2016_09_JAX_KC_17,Kickoff,Punt
+2020_01_MIA_NE_13,Kickoff,Punt
+2017_16_IND_BAL_16,Kickoff,Punt
+2021_18_CHI_MIN_2,Kickoff,Punt
+2019_04_DAL_NO_5,Kickoff,Punt
+2020_12_CHI_GB_16,Kickoff,Punt
+2019_11_JAX_IND_5,Kickoff,Punt
+2018_01_HOU_NE_27,Kickoff,Punt
+2018_02_MIA_NYJ_1,Kickoff,Punt
+2019_12_NYG_CHI_19,Kickoff,Punt
+2017_07_DAL_SF_3,Kickoff,Punt
+2020_08_NO_CHI_15,Kickoff,Punt
+2018_01_CIN_IND_7,Kickoff,Punt
+2020_11_NE_HOU_1,Kickoff,Punt
+2018_01_CHI_GB_15,Kickoff,Punt
+2021_14_CHI_GB_15,Kickoff,Punt
+2019_04_DAL_NO_14,Kickoff,Punt
+2021_16_CLE_GB_18,Kickoff,Punt
+2019_04_SEA_ARI_11,Kickoff,Punt
+2020_06_GB_TB_10,Kickoff,Punt
+2016_03_PIT_PHI_3,Kickoff,Punt
+2018_15_OAK_CIN_18,Kickoff,Punt
+2017_10_LAC_JAX_7,Kickoff,Punt
+2020_08_LAC_DEN_1,Kickoff,Punt
+2018_01_BUF_BAL_14,Kickoff,Punt
+2018_06_IND_NYJ_4,Kickoff,Punt
+2021_13_TB_ATL_4,Kickoff,Punt
+2019_07_ARI_NYG_8,Kickoff,Punt
+2018_09_CHI_BUF_1,Kickoff,Punt
+2021_18_CIN_CLE_14,Kickoff,Punt
+2021_12_LAC_DEN_1,Kickoff,Punt
+2018_13_LA_DET_1,Kickoff,Punt
+2017_14_NE_MIA_16,Kickoff,Punt
+2020_15_SF_DAL_22,Kickoff,Punt
+2016_04_DET_CHI_16,Kickoff,Punt
+2016_11_NE_SF_1,Kickoff,Punt
+2020_16_CAR_WAS_17,Kickoff,Punt
+2016_05_ATL_DEN_2,Kickoff,Punt
+2018_14_DET_ARI_13,Kickoff,Punt
+2016_14_WAS_PHI_9,Kickoff,Punt
+2016_09_PIT_BAL_16,Kickoff,Punt
+2021_06_GB_CHI_3,Kickoff,Punt
+2019_07_HOU_IND_1,Kickoff,Punt
+2017_05_JAX_PIT_3,Kickoff,Punt
+2021_03_CIN_PIT_7,Kickoff,Punt
+2016_09_DEN_OAK_5,Kickoff,Punt
+2020_08_PIT_BAL_11,Kickoff,Punt
+2018_03_DEN_BAL_16,Kickoff,Punt
+2021_08_NE_LAC_3,Kickoff,Punt
+2020_10_CIN_PIT_27,Kickoff,Punt
+2021_15_LV_CLE_15,Kickoff,Punt
+2020_03_GB_NO_8,Kickoff,Punt
+2016_08_KC_IND_20,Kickoff,Punt
+2020_07_TB_LV_1,Kickoff,Punt
+2016_10_SEA_NE_12,Kickoff,Punt
+2017_12_CHI_PHI_18,Kickoff,Punt
+2019_05_ARI_CIN_11,Kickoff,Punt
+2019_04_JAX_DEN_1,Kickoff,Punt
+2017_01_NYG_DAL_4,Kickoff,Punt
+2020_16_IND_PIT_1,Kickoff,Punt
+2020_11_ARI_SEA_2,Kickoff,Punt
+2021_15_SEA_LA_16,Kickoff,Punt
+2021_02_DEN_JAX_12,Kickoff,Punt
+2020_08_SF_SEA_11,Kickoff,Punt
+2017_12_TEN_IND_1,Kickoff,Punt
+2018_01_TEN_MIA_2,Kickoff,Punt
+2019_01_BAL_MIA_9,Kickoff,Punt
+2016_01_NE_ARI_5,Kickoff,Punt
+2016_01_CAR_DEN_7,Kickoff,Punt
+2020_10_JAX_GB_8,Kickoff,Punt
+2018_01_SEA_DEN_15,Kickoff,Punt
+2019_14_PIT_ARI_10,Kickoff,Punt
+2021_03_GB_SF_16,Kickoff,Punt
+2017_08_HOU_SEA_14,Kickoff,Punt
+2021_16_PIT_KC_12,Kickoff,Punt
+2016_15_JAX_HOU_1,Kickoff,Punt
+2017_04_OAK_DEN_13,Kickoff,Punt
+2016_05_BUF_LA_18,Kickoff,Punt
+2020_10_DEN_LV_18,Kickoff,Punt
+2018_11_DAL_ATL_4,Kickoff,Punt
+2016_06_CIN_NE_13,Kickoff,Punt
+2018_14_JAX_TEN_12,Kickoff,Punt
+2017_09_TB_NO_9,Kickoff,Punt
+2018_10_MIA_GB_16,Kickoff,Punt
+2018_17_ARI_SEA_12,Kickoff,Punt
+2017_07_WAS_PHI_8,Kickoff,Punt
+2016_17_BAL_CIN_5,Kickoff,Punt
+2020_02_MIN_IND_5,Kickoff,Punt
+2017_11_WAS_NO_13,Kickoff,Punt
+2019_05_TB_NO_5,Kickoff,Punt
+2016_13_BUF_OAK_16,Kickoff,Punt
+2017_10_DAL_ATL_1,Kickoff,Punt
+2020_14_BAL_CLE_8,Kickoff,Punt
+2019_12_CAR_NO_8,Kickoff,Punt
+2021_17_ATL_BUF_14,Kickoff,Punt
+2021_12_PIT_CIN_6,Kickoff,Punt
+2021_12_CAR_MIA_16,Kickoff,Punt
+2017_11_ARI_HOU_1,Kickoff,Punt
+2018_16_TB_DAL_12,Kickoff,Punt
+2016_12_NYG_CLE_14,Kickoff,Punt
+2018_03_TEN_JAX_18,Kickoff,Punt
+2016_15_NE_DEN_16,Kickoff,Punt
+2021_03_MIA_LV_1,Kickoff,Punt
+2020_09_PIT_DAL_3,Kickoff,Punt
+2017_01_LAC_DEN_12,Kickoff,Punt
+2017_08_IND_CIN_10,Kickoff,Punt
+2020_17_MIA_BUF_13,Kickoff,Punt
+2020_12_SF_LA_18,Kickoff,Punt
+2019_16_ARI_SEA_22,Kickoff,Punt
+2019_07_NO_CHI_8,Kickoff,Punt
+2020_09_CHI_TEN_12,Kickoff,Punt
+2020_10_SF_NO_11,Kickoff,Punt
+2021_10_TB_WAS_10,Kickoff,Punt
+2018_14_NYJ_BUF_2,Kickoff,Punt
+2017_01_JAX_HOU_2,Kickoff,Punt
+2017_17_CAR_ATL_16,Kickoff,Punt
+2018_16_BAL_LAC_16,Kickoff,Punt
+2018_09_LAC_SEA_5,Kickoff,Punt
+2020_01_ARI_SF_4,Kickoff,Punt
+2019_02_CLE_NYJ_9,Kickoff,Punt
+2021_03_ARI_JAX_1,Kickoff,Punt
+2016_07_IND_TEN_12,Kickoff,Punt
+2018_13_NO_DAL_12,Kickoff,Punt
+2018_10_NYG_SF_1,Kickoff,Punt
+2016_03_MIN_CAR_2,Kickoff,Punt
+2020_03_SF_NYG_15,Kickoff,Punt
+2016_05_ATL_DEN_11,Kickoff,Punt
+2021_03_WAS_BUF_19,Kickoff,Punt
+2019_05_BAL_PIT_17,Kickoff,Punt
+2021_16_NYG_PHI_18,Kickoff,Punt
+2016_13_CAR_SEA_17,Kickoff,Punt
+2017_11_CIN_DEN_7,Kickoff,Punt
+2016_07_TB_SF_15,Kickoff,Punt
+2021_12_CAR_MIA_9,Kickoff,Punt
+2020_10_SEA_LA_4,Kickoff,Punt
+2017_12_MIA_NE_18,Kickoff,Punt
+2016_16_NYG_PHI_4,Kickoff,Punt
+2017_15_LAC_KC_1,Kickoff,Punt
+2018_02_PHI_TB_18,Kickoff,Punt
+2018_01_KC_LAC_19,Kickoff,Punt
+2018_13_NYJ_TEN_22,Kickoff,Punt
+2018_08_TB_CIN_8,Kickoff,Punt
+2021_14_PIT_MIN_8,Kickoff,Punt
+2018_02_IND_WAS_14,Kickoff,Punt
+2017_12_MIN_DET_17,Kickoff,Punt
+2018_12_GB_MIN_8,Kickoff,Punt
+2021_13_DEN_KC_6,Kickoff,Punt
+2018_15_SEA_SF_10,Kickoff,Punt
+2019_05_NYJ_PHI_1,Kickoff,Punt
+2020_16_CLE_NYJ_18,Kickoff,Punt
+2020_04_CLE_DAL_21,Kickoff,Punt
+2017_14_NO_ATL_3,Kickoff,Punt
+2021_04_BAL_DEN_1,Kickoff,Punt
+2018_17_DET_GB_8,Kickoff,Punt
+2016_07_SD_ATL_7,Kickoff,Punt
+2016_15_NE_DEN_9,Kickoff,Punt
+2017_09_DEN_PHI_3,Kickoff,Punt
+2017_14_TEN_ARI_1,Kickoff,Punt
+2018_14_DEN_SF_6,Kickoff,Punt
+2021_02_HOU_CLE_10,Kickoff,Punt
+2019_09_TB_SEA_17,Kickoff,Punt
+2017_06_IND_TEN_11,Kickoff,Punt
+2017_10_MIA_CAR_5,Kickoff,Punt
+2019_15_PHI_WAS_1,Kickoff,Punt
+2017_12_NO_LA_16,Kickoff,Punt
+2016_02_TEN_DET_15,Kickoff,Punt
+2020_17_NYJ_NE_2,Kickoff,Punt
+2020_17_SEA_SF_15,Kickoff,Punt
+2018_05_JAX_KC_12,Kickoff,Punt
+2021_02_KC_BAL_18,Kickoff,Punt
+2020_05_LV_KC_13,Kickoff,Punt
+2020_08_SF_SEA_15,Kickoff,Punt
+2021_14_LV_KC_6,Kickoff,Punt
+2016_16_BAL_PIT_4,Kickoff,Punt
+2017_03_PIT_CHI_20,Kickoff,Punt
+2016_10_CHI_TB_18,Kickoff,Punt
+2017_08_CHI_NO_2,Kickoff,Punt
+2017_07_NO_GB_18,Kickoff,Punt
+2018_03_NYJ_CLE_20,Kickoff,Punt
+2020_03_TB_DEN_20,Kickoff,Punt
+2021_16_WAS_DAL_21,Kickoff,Punt
+2019_01_BAL_MIA_6,Kickoff,Punt
+2019_09_CHI_PHI_7,Kickoff,Punt
+2021_02_ATL_TB_9,Kickoff,Punt
+2016_16_DEN_KC_3,Kickoff,Punt
+2019_07_BAL_SEA_11,Kickoff,Punt
+2020_11_TEN_BAL_10,Kickoff,Punt
+2018_02_KC_PIT_3,Kickoff,Punt
+2016_12_PIT_IND_1,Kickoff,Punt
+2021_09_NYJ_IND_16,Kickoff,Punt
+2016_17_NE_MIA_12,Kickoff,Punt
+2020_15_TB_ATL_2,Kickoff,Punt
+2018_03_NO_ATL_5,Kickoff,Punt
+2021_08_PHI_DET_7,Kickoff,Punt
+2017_02_HOU_CIN_1,Kickoff,Punt
+2016_12_ARI_ATL_9,Kickoff,Punt
+2016_06_CAR_NO_2,Kickoff,Punt
+2020_04_DEN_NYJ_14,Kickoff,Punt
+2020_03_TEN_MIN_11,Kickoff,Punt
+2018_12_ARI_LAC_17,Kickoff,Punt
+2021_14_NO_NYJ_12,Kickoff,Punt
+2018_17_MIA_BUF_18,Kickoff,Punt
+2020_11_PIT_JAX_13,Kickoff,Punt
+2019_17_MIA_NE_12,Kickoff,Punt
+2021_07_DEN_CLE_13,Kickoff,Punt
+2017_05_MIN_CHI_13,Kickoff,Punt
+2020_03_DAL_SEA_13,Kickoff,Punt
+2016_02_MIA_NE_4,Kickoff,Punt
+2021_13_BAL_PIT_17,Kickoff,Punt
+2020_12_WAS_DAL_15,Kickoff,Punt
+2018_08_NYJ_CHI_19,Kickoff,Punt
+2018_15_ARI_ATL_3,Kickoff,Punt
+2017_11_ATL_SEA_5,Kickoff,Punt
+2020_04_LAC_TB_20,Kickoff,Punt
+2017_01_NYG_DAL_14,Kickoff,Punt
+2021_14_NYG_LAC_1,Kickoff,Punt
+2018_09_TB_CAR_1,Kickoff,Punt
+2021_11_NO_PHI_7,Kickoff,Punt
+2020_04_PHI_SF_1,Kickoff,Punt
+2016_06_PHI_WAS_14,Kickoff,Punt
+2016_16_DET_DAL_18,Kickoff,Punt
+2016_14_DEN_TEN_20,Kickoff,Punt
+2020_06_ARI_DAL_1,Kickoff,Punt
+2021_17_JAX_NE_1,Kickoff,Punt
+2016_10_MIN_WAS_13,Kickoff,Punt
+2018_08_NE_BUF_11,Kickoff,Punt
+2019_15_IND_NO_1,Kickoff,Punt
+2018_14_IND_HOU_7,Kickoff,Punt
+2018_17_DET_GB_6,Kickoff,Punt
+2016_10_KC_CAR_12,Kickoff,Punt
+2018_16_JAX_MIA_11,Kickoff,Punt
+2020_02_SF_NYJ_11,Kickoff,Punt
+2018_10_CAR_PIT_10,Kickoff,Punt
+2018_06_PHI_NYG_13,Kickoff,Punt
+2018_01_JAX_NYG_2,Kickoff,Punt
+2020_17_TEN_HOU_1,Kickoff,Punt
+2016_12_MIN_DET_13,Kickoff,Punt
+2021_12_LV_DAL_28,Kickoff,Punt
+2019_03_CHI_WAS_3,Kickoff,Punt
+2021_08_CAR_ATL_16,Kickoff,Punt
+2018_11_TEN_IND_1,Kickoff,Punt
+2019_08_GB_KC_2,Kickoff,Punt
+2018_01_KC_LAC_7,Kickoff,Punt
+2017_16_DEN_WAS_17,Kickoff,Punt
+2018_04_PHI_TEN_9,Kickoff,Punt
+2017_12_GB_PIT_20,Kickoff,Punt
+2016_15_TB_DAL_12,Kickoff,Punt
+2021_15_LV_CLE_10,Kickoff,Punt
+2018_16_NYG_IND_9,Kickoff,Punt
+2016_02_CIN_PIT_17,Kickoff,Punt
+2019_12_GB_SF_7,Kickoff,Punt
+2017_08_SF_PHI_5,Kickoff,Punt
+2017_14_BAL_PIT_10,Kickoff,Punt
+2017_01_NYG_DAL_6,Kickoff,Punt
+2020_13_JAX_MIN_15,Kickoff,Punt
+2017_14_NYJ_DEN_17,Kickoff,Punt
+2018_05_DAL_HOU_12,Kickoff,Punt
+2021_04_DET_CHI_10,Kickoff,Punt
+2016_06_CLE_TEN_8,Kickoff,Punt
+2020_09_MIA_ARI_1,Kickoff,Punt
+2016_17_ARI_LA_16,Kickoff,Punt
+2019_09_NYJ_MIA_7,Kickoff,Punt
+2018_05_DAL_HOU_20,Kickoff,Punt
+2018_12_ATL_NO_6,Kickoff,Punt
+2021_08_GB_ARI_6,Kickoff,Punt
+2020_03_CIN_PHI_1,Kickoff,Punt
+2016_05_NYG_GB_20,Kickoff,Punt
+2016_12_KC_DEN_15,Kickoff,Punt
+2017_13_DET_BAL_15,Kickoff,Punt
+2017_06_MIA_ATL_2,Kickoff,Punt
+2018_10_NO_CIN_6,Kickoff,Punt
+2020_01_LV_CAR_14,Kickoff,Punt
+2017_08_SF_PHI_15,Kickoff,Punt
+2018_08_GB_LA_17,Kickoff,Punt
+2017_13_HOU_TEN_1,Kickoff,Punt
+2018_16_PIT_NO_7,Kickoff,Punt
+2018_08_IND_OAK_13,Kickoff,Punt
+2017_01_NYJ_BUF_17,Kickoff,Punt
+2019_02_IND_TEN_3,Kickoff,Punt
+2021_06_TB_PHI_17,Kickoff,Punt
+2019_02_NE_MIA_14,Kickoff,Punt
+2020_07_JAX_LAC_23,Kickoff,Punt
+2017_16_ATL_NO_14,Kickoff,Punt
+2019_02_MIN_GB_17,Kickoff,Punt
+2021_08_DAL_MIN_17,Kickoff,Punt
+2017_12_JAX_ARI_15,Kickoff,Punt
+2016_06_CIN_NE_2,Kickoff,Punt
+2019_08_TB_TEN_10,Kickoff,Punt
+2020_14_WAS_SF_19,Kickoff,Punt
+2016_17_BUF_NYJ_1,Kickoff,Punt
+2018_02_BAL_CIN_7,Kickoff,Punt
+2018_08_DEN_KC_12,Kickoff,Punt
+2017_03_CIN_GB_22,Kickoff,Punt
+2018_04_NYJ_JAX_1,Kickoff,Punt
+2018_09_PIT_BAL_8,Kickoff,Punt
+2018_14_NE_MIA_14,Kickoff,Punt
+2019_05_CHI_OAK_10,Kickoff,Punt
+2019_01_DET_ARI_1,Kickoff,Punt
+2018_05_OAK_LAC_2,Kickoff,Punt
+2021_11_BAL_CHI_11,Kickoff,Punt
+2019_17_CHI_MIN_11,Kickoff,Punt
+2017_08_IND_CIN_3,Kickoff,Punt
+2016_11_HOU_OAK_7,Kickoff,Punt
+2021_09_HOU_MIA_4,Kickoff,Punt
+2018_11_GB_SEA_10,Kickoff,Punt
+2021_09_ARI_SF_5,Kickoff,Punt
+2020_06_BAL_PHI_19,Kickoff,Punt
+2021_15_ARI_DET_2,Kickoff,Punt
+2019_03_NYJ_NE_23,Kickoff,Punt
+2020_15_LAC_LV_10,Kickoff,Punt
+2021_14_NYG_LAC_20,Kickoff,Punt
+2016_10_GB_TEN_1,Kickoff,Punt
+2019_05_BAL_PIT_10,Kickoff,Punt
+2021_07_WAS_GB_18,Kickoff,Punt
+2019_01_WAS_PHI_15,Kickoff,Punt
+2021_17_LV_IND_7,Kickoff,Punt
+2019_10_SEA_SF_4,Kickoff,Punt
+2019_02_PHI_ATL_2,Kickoff,Punt
+2021_01_LAC_WAS_8,Kickoff,Punt
+2017_04_OAK_DEN_6,Kickoff,Punt
+2020_03_HOU_PIT_14,Kickoff,Punt
+2018_16_GB_NYJ_9,Kickoff,Punt
+2016_09_NYJ_MIA_6,Kickoff,Punt
+2021_10_DET_PIT_23,Kickoff,Punt
+2016_04_DET_CHI_1,Kickoff,Punt
+2016_04_NYG_MIN_1,Kickoff,Punt
+2016_14_NYJ_SF_3,Kickoff,Punt
+2019_07_ARI_NYG_4,Kickoff,Punt
+2018_08_GB_LA_22,Kickoff,Punt
+2016_04_KC_PIT_16,Kickoff,Punt
+2021_11_DAL_KC_1,Kickoff,Punt
+2016_16_CIN_HOU_1,Kickoff,Punt
+2021_08_TEN_IND_21,Kickoff,Punt
+2019_16_DET_DEN_16,Kickoff,Punt
+2019_12_DEN_BUF_18,Kickoff,Punt
+2020_13_JAX_MIN_20,Kickoff,Punt
+2021_12_SEA_WAS_5,Kickoff,Punt
+2021_16_CHI_SEA_8,Kickoff,Punt
+2017_10_MIA_CAR_1,Kickoff,Punt
+2018_07_CAR_PHI_13,Kickoff,Punt
+2021_17_ATL_BUF_2,Kickoff,Punt
+2016_02_SF_CAR_16,Kickoff,Punt
+2021_18_CAR_TB_11,Kickoff,Punt
+2020_15_LAC_LV_4,Kickoff,Punt
+2021_17_KC_CIN_1,Kickoff,Punt
+2016_14_ATL_LA_22,Kickoff,Punt
+2021_17_NYG_CHI_5,Kickoff,Punt
+2016_12_NYG_CLE_1,Kickoff,Punt
+2017_05_NYJ_CLE_1,Kickoff,Punt
+2020_08_TB_NYG_5,Kickoff,Punt
+2017_12_JAX_ARI_9,Kickoff,Punt
+2020_09_DEN_ATL_8,Kickoff,Punt
+2017_15_CHI_DET_6,Kickoff,Punt
+2021_06_GB_CHI_10,Kickoff,Punt
+2019_08_TB_TEN_5,Kickoff,Punt
+2021_18_LAC_LV_6,Kickoff,Punt
+2017_06_DET_NO_24,Kickoff,Punt
+2019_09_SF_ARI_11,Kickoff,Punt
+2016_15_TEN_KC_8,Kickoff,Punt
+2019_15_NYJ_BAL_16,Kickoff,Punt
+2016_02_NYJ_BUF_20,Kickoff,Punt
+2020_15_CAR_GB_7,Kickoff,Punt
+2018_09_OAK_SF_19,Kickoff,Punt
+2018_14_PHI_DAL_4,Kickoff,Punt
+2021_14_BAL_CLE_11,Kickoff,Punt
+2020_02_NE_SEA_4,Kickoff,Punt
+2018_15_OAK_CIN_1,Kickoff,Punt
+2018_17_MIA_BUF_13,Kickoff,Punt
+2018_05_NYG_CAR_1,Kickoff,Punt
+2019_08_CAR_SF_8,Kickoff,Punt
+2017_11_PHI_DAL_17,Kickoff,Punt
+2021_17_HOU_SF_10,Kickoff,Punt
+2019_06_DAL_NYJ_5,Kickoff,Punt
+2018_12_NE_NYJ_5,Kickoff,Punt
+2019_09_GB_LAC_4,Kickoff,Punt
+2017_10_LAC_JAX_31,Kickoff,Punt
+2016_16_MIN_GB_24,Kickoff,Punt
+2016_15_PHI_BAL_3,Kickoff,Punt
+2016_11_NE_SF_8,Kickoff,Punt
+2016_10_LA_NYJ_15,Kickoff,Punt
+2017_07_DAL_SF_15,Kickoff,Punt
+2019_01_LA_CAR_9,Kickoff,Punt
+2019_12_JAX_TEN_16,Kickoff,Punt
+2016_16_DET_DAL_5,Kickoff,Punt
+2017_13_WAS_DAL_14,Kickoff,Punt
+2017_07_JAX_IND_11,Kickoff,Punt
+2016_04_OAK_BAL_1,Kickoff,Punt
+2018_08_NO_MIN_17,Kickoff,Punt
+2021_18_CIN_CLE_9,Kickoff,Punt
+2020_09_BAL_IND_16,Kickoff,Punt
+2020_12_TEN_IND_8,Kickoff,Punt
+2017_09_DEN_PHI_7,Kickoff,Punt
+2016_07_SEA_ARI_12,Kickoff,Punt
+2018_05_OAK_LAC_14,Kickoff,Punt
+2019_12_SEA_PHI_1,Kickoff,Punt
+2018_11_GB_SEA_7,Kickoff,Punt
+2016_11_JAX_DET_22,Kickoff,Punt
+2021_10_JAX_IND_21,Kickoff,Punt
+2017_06_CHI_BAL_15,Kickoff,Punt
+2017_05_BUF_CIN_11,Kickoff,Punt
+2020_03_DAL_SEA_5,Kickoff,Punt
+2017_11_LA_MIN_15,Kickoff,Punt
+2019_17_SF_SEA_1,Kickoff,Punt
+2021_12_SEA_WAS_10,Kickoff,Punt
+2019_01_BUF_NYJ_13,Kickoff,Punt
+2020_04_NYG_LA_14,Kickoff,Punt
+2021_06_LAC_BAL_12,Kickoff,Punt
+2019_12_DAL_NE_13,Kickoff,Punt
+2016_17_BUF_NYJ_11,Kickoff,Punt
+2016_14_SEA_GB_8,Kickoff,Punt
+2018_06_LAC_CLE_17,Kickoff,Punt
+2019_11_DAL_DET_20,Kickoff,Punt
+2020_06_DEN_NE_4,Kickoff,Punt
+2016_12_LA_NO_5,Kickoff,Punt
+2016_05_NE_CLE_1,Kickoff,Punt
+2021_18_DAL_PHI_9,Kickoff,Punt
+2017_02_MIA_LAC_8,Kickoff,Punt
+2017_17_NO_TB_12,Kickoff,Punt
+2018_07_CIN_KC_9,Kickoff,Punt
+2017_03_BAL_JAX_1,Kickoff,Punt
+2019_12_GB_SF_15,Kickoff,Punt
+2019_04_JAX_DEN_19,Kickoff,Punt
+2020_17_ARI_LA_10,Kickoff,Punt
+2017_12_LAC_DAL_10,Kickoff,Punt
+2020_14_NO_PHI_9,Kickoff,Punt
+2016_04_IND_JAX_6,Kickoff,Punt
+2017_08_DEN_KC_19,Kickoff,Punt
+2019_11_CHI_LA_13,Kickoff,Punt
+2020_01_CLE_BAL_12,Kickoff,Punt
+2019_10_LAC_OAK_17,Kickoff,Punt
+2019_10_BAL_CIN_2,Kickoff,Punt
+2021_06_SEA_PIT_24,Kickoff,Punt
+2021_05_PHI_CAR_14,Kickoff,Punt
+2018_15_CLE_DEN_6,Kickoff,Punt
+2018_11_TB_NYG_4,Kickoff,Punt
+2018_12_ATL_NO_15,Kickoff,Punt
+2018_16_HOU_PHI_1,Kickoff,Punt
+2016_03_HOU_NE_15,Kickoff,Touchdown
+2016_08_NE_BUF_13,Kickoff,Touchdown
+2020_07_JAX_LAC_22,Kickoff,Touchdown
+2017_02_TEN_JAX_22,Kickoff,Touchdown
+2018_02_LAC_BUF_12,Kickoff,Touchdown
+2016_06_CIN_NE_9,Kickoff,Touchdown
+2018_09_TB_CAR_21,Kickoff,Touchdown
+2020_17_MIN_DET_7,Kickoff,Touchdown
+2017_02_NE_NO_3,Kickoff,Touchdown
+2016_10_GB_TEN_12,Kickoff,Touchdown
+2020_07_SEA_ARI_10,Kickoff,Touchdown
+2018_01_SEA_DEN_5,Kickoff,Touchdown
+2016_13_BUF_OAK_13,Kickoff,Touchdown
+2019_15_TB_DET_16,Kickoff,Touchdown
+2021_14_PIT_MIN_17,Kickoff,Touchdown
+2020_04_IND_CHI_21,Kickoff,Touchdown
+2018_11_HOU_WAS_5,Kickoff,Touchdown
+2019_15_SEA_CAR_4,Kickoff,Touchdown
+2018_03_NO_ATL_21,Kickoff,Touchdown
+2016_01_CLE_PHI_8,Kickoff,Touchdown
+2018_12_NE_NYJ_4,Kickoff,Touchdown
+2018_13_LAC_PIT_19,Kickoff,Touchdown
+2020_11_DAL_MIN_17,Kickoff,Touchdown
+2017_08_IND_CIN_14,Kickoff,Touchdown
+2016_05_SD_OAK_14,Kickoff,Touchdown
+2018_08_MIA_HOU_21,Kickoff,Touchdown
+2018_14_NYJ_BUF_1,Kickoff,Touchdown
+2019_04_LAC_MIA_3,Kickoff,Touchdown
+2019_03_NYG_TB_3,Kickoff,Touchdown
+2021_11_GB_MIN_13,Kickoff,Touchdown
+2020_16_MIN_NO_15,Kickoff,Touchdown
+2021_16_BUF_NE_14,Kickoff,Touchdown
+2021_04_LV_LAC_15,Kickoff,Touchdown
+2020_03_CHI_ATL_9,Kickoff,Touchdown
+2017_07_TB_BUF_19,Kickoff,Touchdown
+2017_11_NE_OAK_14,Kickoff,Touchdown
+2018_07_LA_SF_12,Kickoff,Touchdown
+2017_04_TEN_HOU_14,Kickoff,Touchdown
+2021_18_CHI_MIN_15,Kickoff,Touchdown
+2018_12_OAK_BAL_13,Kickoff,Touchdown
+2017_12_LAC_DAL_9,Kickoff,Touchdown
+2020_17_GB_CHI_2,Kickoff,Touchdown
+2019_07_LAC_TEN_15,Kickoff,Touchdown
+2019_09_TB_SEA_22,Kickoff,Touchdown
+2019_09_DET_OAK_18,Kickoff,Touchdown
+2020_09_NYG_WAS_13,Kickoff,Touchdown
+2018_01_CHI_GB_20,Kickoff,Touchdown
+2019_08_ARI_NO_15,Kickoff,Touchdown
+2019_05_LA_SEA_18,Kickoff,Touchdown
+2018_11_GB_SEA_6,Kickoff,Touchdown
+2021_10_PHI_DEN_4,Kickoff,Touchdown
+2017_03_DAL_ARI_20,Kickoff,Touchdown
+2020_02_MIN_IND_19,Kickoff,Touchdown
+2019_05_GB_DAL_16,Kickoff,Touchdown
+2018_05_WAS_NO_18,Kickoff,Touchdown
+2020_05_NYG_DAL_9,Kickoff,Touchdown
+2021_14_DET_DEN_4,Kickoff,Touchdown
+2020_03_LA_BUF_7,Kickoff,Touchdown
+2020_16_BUF_NE_6,Kickoff,Touchdown
+2021_10_CLE_NE_1,Kickoff,Touchdown
+2017_10_GB_CHI_18,Kickoff,Touchdown
+2016_12_SF_MIA_12,Kickoff,Touchdown
+2018_16_TB_DAL_10,Kickoff,Touchdown
+2016_17_KC_SD_14,Kickoff,Touchdown
+2021_05_MIA_TB_2,Kickoff,Touchdown
+2020_03_DAL_SEA_12,Kickoff,Touchdown
+2019_12_SEA_PHI_4,Kickoff,Touchdown
+2019_17_PHI_NYG_14,Kickoff,Touchdown
+2016_01_OAK_NO_5,Kickoff,Touchdown
+2018_01_KC_LAC_18,Kickoff,Touchdown
+2017_10_NYG_SF_9,Kickoff,Touchdown
+2020_01_IND_JAX_15,Kickoff,Touchdown
+2021_13_TB_ATL_3,Kickoff,Touchdown
+2016_01_SD_KC_2,Kickoff,Touchdown
+2017_11_DET_CHI_6,Kickoff,Touchdown
+2019_16_CIN_MIA_1,Kickoff,Touchdown
+2018_01_SF_MIN_15,Kickoff,Touchdown
+2017_05_MIN_CHI_16,Kickoff,Touchdown
+2018_06_TB_ATL_2,Kickoff,Touchdown
+2020_02_LA_PHI_16,Kickoff,Touchdown
+2019_15_SEA_CAR_20,Kickoff,Touchdown
+2018_02_NYG_DAL_1,Kickoff,Touchdown
+2017_17_CIN_BAL_1,Kickoff,Touchdown
+2017_11_WAS_NO_16,Kickoff,Touchdown
+2016_12_KC_DEN_17,Kickoff,Touchdown
+2020_06_ATL_MIN_23,Kickoff,Touchdown
+2019_05_BAL_PIT_5,Kickoff,Touchdown
+2020_08_TEN_CIN_6,Kickoff,Touchdown
+2016_03_WAS_NYG_9,Kickoff,Touchdown
+2018_09_TEN_DAL_9,Kickoff,Touchdown
+2017_05_LAC_NYG_21,Kickoff,Touchdown
+2020_10_IND_TEN_6,Kickoff,Touchdown
+2019_08_WAS_MIN_7,Kickoff,Touchdown
+2021_17_CLE_PIT_24,Kickoff,Touchdown
+2016_09_DAL_CLE_2,Kickoff,Touchdown
+2019_07_OAK_GB_6,Kickoff,Touchdown
+2017_16_ATL_NO_23,Kickoff,Touchdown
+2021_04_LV_LAC_1,Kickoff,Touchdown
+2018_04_HOU_IND_17,Kickoff,Touchdown
+2018_16_PIT_NO_12,Kickoff,Touchdown
+2021_04_KC_PHI_3,Kickoff,Touchdown
+2020_14_TEN_JAX_13,Kickoff,Touchdown
+2020_08_NYJ_KC_7,Kickoff,Touchdown
+2020_13_CLE_TEN_13,Kickoff,Touchdown
+2016_12_CAR_OAK_23,Kickoff,Touchdown
+2021_05_TEN_JAX_11,Kickoff,Touchdown
+2017_08_HOU_SEA_5,Kickoff,Touchdown
+2020_14_GB_DET_13,Kickoff,Touchdown
+2016_03_ATL_NO_6,Kickoff,Touchdown
+2020_09_MIA_ARI_4,Kickoff,Touchdown
+2020_04_ATL_GB_6,Kickoff,Touchdown
+2018_07_CIN_KC_7,Kickoff,Touchdown
+2020_03_TEN_MIN_6,Kickoff,Touchdown
+2018_03_NO_ATL_10,Kickoff,Touchdown
+2021_08_GB_ARI_14,Kickoff,Touchdown
+2019_06_PHI_MIN_5,Kickoff,Touchdown
+2019_17_CHI_MIN_10,Kickoff,Touchdown
+2019_15_MIN_LAC_1,Kickoff,Touchdown
+2020_04_LAC_TB_19,Kickoff,Touchdown
+2020_01_PIT_NYG_20,Kickoff,Touchdown
+2018_04_DET_DAL_16,Kickoff,Touchdown
+2020_03_HOU_PIT_11,Kickoff,Touchdown
+2021_16_LA_MIN_20,Kickoff,Touchdown
+2017_11_WAS_NO_17,Kickoff,Touchdown
+2017_13_CLE_LAC_9,Kickoff,Touchdown
+2018_14_BAL_KC_7,Kickoff,Touchdown
+2018_13_LAC_PIT_5,Kickoff,Touchdown
+2020_11_GB_IND_13,Kickoff,Touchdown
+2016_04_CLE_WAS_1,Kickoff,Touchdown
+2017_05_BUF_CIN_19,Kickoff,Touchdown
+2018_13_BAL_ATL_19,Kickoff,Touchdown
+2019_06_DET_GB_19,Kickoff,Touchdown
+2016_13_HOU_GB_19,Kickoff,Touchdown
+2020_05_PHI_PIT_7,Kickoff,Touchdown
+2016_13_SF_CHI_12,Kickoff,Touchdown
+2020_10_DEN_LV_22,Kickoff,Touchdown
+2020_10_SF_NO_1,Kickoff,Touchdown
+2021_04_CAR_DAL_6,Kickoff,Touchdown
+2021_17_ARI_DAL_9,Kickoff,Touchdown
+2017_03_CLE_IND_7,Kickoff,Touchdown
+2017_04_TEN_HOU_9,Kickoff,Touchdown
+2018_05_WAS_NO_4,Kickoff,Touchdown
+2020_01_LV_CAR_13,Kickoff,Touchdown
+2020_10_SEA_LA_3,Kickoff,Touchdown
+2020_09_LV_LAC_5,Kickoff,Touchdown
+2017_04_CAR_NE_8,Kickoff,Touchdown
+2018_09_DET_MIN_7,Kickoff,Touchdown
+2021_18_NE_MIA_1,Kickoff,Touchdown
+2017_05_LAC_NYG_7,Kickoff,Touchdown
+2019_03_CAR_ARI_13,Kickoff,Touchdown
+2016_06_BAL_NYG_22,Kickoff,Touchdown
+2019_01_BAL_MIA_1,Kickoff,Touchdown
+2019_06_CAR_TB_22,Kickoff,Touchdown
+2018_06_IND_NYJ_2,Kickoff,Touchdown
+2016_01_NYG_DAL_4,Kickoff,Touchdown
+2019_16_CAR_IND_7,Kickoff,Touchdown
+2020_01_GB_MIN_19,Kickoff,Touchdown
+2018_04_MIN_LA_5,Kickoff,Touchdown
+2018_01_NYJ_DET_14,Kickoff,Touchdown
+2018_10_SEA_LA_18,Kickoff,Touchdown
+2020_08_NE_BUF_11,Kickoff,Touchdown
+2018_12_ARI_LAC_14,Kickoff,Touchdown
+2020_05_IND_CLE_3,Kickoff,Touchdown
+2017_09_ARI_SF_11,Kickoff,Touchdown
+2020_09_HOU_JAX_9,Kickoff,Touchdown
+2018_08_DEN_KC_14,Kickoff,Touchdown
+2019_03_LA_CLE_12,Kickoff,Touchdown
+2017_12_CLE_CIN_16,Kickoff,Touchdown
+2017_12_CLE_CIN_10,Kickoff,Touchdown
+2016_07_NO_KC_3,Kickoff,Touchdown
+2020_15_KC_NO_17,Kickoff,Touchdown
+2021_08_CIN_NYJ_17,Kickoff,Touchdown
+2016_05_NYG_GB_7,Kickoff,Touchdown
+2021_04_KC_PHI_15,Kickoff,Touchdown
+2020_06_KC_BUF_15,Kickoff,Touchdown
+2019_06_NYG_NE_13,Kickoff,Touchdown
+2017_10_PIT_IND_14,Kickoff,Touchdown
+2020_05_LAC_NO_7,Kickoff,Touchdown
+2021_07_WAS_GB_1,Kickoff,Touchdown
+2019_01_IND_LAC_18,Kickoff,Touchdown
+2021_05_DEN_PIT_9,Kickoff,Touchdown
+2016_05_ATL_DEN_1,Kickoff,Touchdown
+2016_03_ATL_NO_12,Kickoff,Touchdown
+2017_03_LA_SF_14,Kickoff,Touchdown
+2018_11_CIN_BAL_17,Kickoff,Touchdown
+2016_10_GB_TEN_8,Kickoff,Touchdown
+2021_15_SEA_LA_11,Kickoff,Touchdown
+2017_09_OAK_MIA_11,Kickoff,Touchdown
+2016_10_ATL_PHI_15,Kickoff,Touchdown
+2019_17_IND_JAX_3,Kickoff,Touchdown
+2020_01_HOU_KC_9,Kickoff,Touchdown
+2017_02_NE_NO_6,Kickoff,Touchdown
+2016_08_GB_ATL_4,Kickoff,Touchdown
+2019_13_WAS_CAR_24,Kickoff,Touchdown
+2021_16_JAX_NYJ_14,Kickoff,Touchdown
+2017_06_SF_WAS_1,Kickoff,Touchdown
+2021_09_CLE_CIN_3,Kickoff,Touchdown
+2017_12_LAC_DAL_13,Kickoff,Touchdown
+2019_06_ATL_ARI_1,Kickoff,Touchdown
+2020_13_LA_ARI_14,Kickoff,Touchdown
+2020_08_LAC_DEN_23,Kickoff,Touchdown
+2017_07_WAS_PHI_14,Kickoff,Touchdown
+2021_02_LV_PIT_16,Kickoff,Touchdown
+2021_15_NYJ_MIA_8,Kickoff,Touchdown
+2020_04_NO_DET_12,Kickoff,Touchdown
+2018_03_CIN_CAR_7,Kickoff,Touchdown
+2018_16_GB_NYJ_6,Kickoff,Touchdown
+2020_14_TEN_JAX_10,Kickoff,Touchdown
+2018_16_KC_SEA_15,Kickoff,Touchdown
+2018_01_SF_MIN_14,Kickoff,Touchdown
+2016_03_DET_GB_12,Kickoff,Touchdown
+2020_01_MIA_NE_16,Kickoff,Touchdown
+2016_17_NE_MIA_8,Kickoff,Touchdown
+2017_07_TB_BUF_4,Kickoff,Touchdown
+2017_02_MIA_LAC_11,Kickoff,Touchdown
+2017_03_PIT_CHI_9,Kickoff,Touchdown
+2017_05_LAC_NYG_20,Kickoff,Touchdown
+2021_12_LA_GB_15,Kickoff,Touchdown
+2016_10_SEA_NE_1,Kickoff,Touchdown
+2018_01_TEN_MIA_16,Kickoff,Touchdown
+2020_15_TB_ATL_12,Kickoff,Touchdown
+2017_02_GB_ATL_2,Kickoff,Touchdown
+2019_16_NYG_WAS_2,Kickoff,Touchdown
+2017_01_SEA_GB_16,Kickoff,Touchdown
+2017_04_WAS_KC_1,Kickoff,Touchdown
+2017_09_DEN_PHI_15,Kickoff,Touchdown
+2017_15_TEN_SF_5,Kickoff,Touchdown
+2017_07_WAS_PHI_21,Kickoff,Touchdown
+2019_06_NO_JAX_16,Kickoff,Touchdown
+2017_03_CIN_GB_1,Kickoff,Touchdown
+2016_13_WAS_ARI_15,Kickoff,Touchdown
+2017_10_NO_BUF_11,Kickoff,Touchdown
+2020_10_PHI_NYG_3,Kickoff,Touchdown
+2019_10_NYG_NYJ_1,Kickoff,Touchdown
+2020_17_TEN_HOU_13,Kickoff,Touchdown
+2021_07_CIN_BAL_14,Kickoff,Touchdown
+2020_01_IND_JAX_7,Kickoff,Touchdown
+2020_07_CLE_CIN_9,Kickoff,Touchdown
+2021_03_WAS_BUF_1,Kickoff,Touchdown
+2016_12_JAX_BUF_1,Kickoff,Touchdown
+2017_14_GB_CLE_2,Kickoff,Touchdown
+2019_06_CAR_TB_28,Kickoff,Touchdown
+2021_17_MIA_TEN_10,Kickoff,Touchdown
+2018_07_CLE_TB_20,Kickoff,Touchdown
+2019_09_NE_BAL_16,Kickoff,Touchdown
+2021_17_JAX_NE_10,Kickoff,Touchdown
+2021_12_LA_GB_20,Kickoff,Touchdown
+2018_09_TB_CAR_8,Kickoff,Touchdown
+2017_06_CLE_HOU_5,Kickoff,Touchdown
+2020_02_DET_GB_3,Kickoff,Touchdown
+2017_09_KC_DAL_14,Kickoff,Touchdown
+2016_08_GB_ATL_2,Kickoff,Touchdown
+2019_08_NYG_DET_6,Kickoff,Touchdown
+2016_04_IND_JAX_14,Kickoff,Touchdown
+2017_10_NE_DEN_13,Kickoff,Touchdown
+2016_10_CLE_BAL_8,Kickoff,Touchdown
+2019_03_NO_SEA_12,Kickoff,Touchdown
+2019_15_CLE_ARI_11,Kickoff,Touchdown
+2019_08_TB_TEN_13,Kickoff,Touchdown
+2016_17_OAK_DEN_1,Kickoff,Touchdown
+2016_11_GB_WAS_18,Kickoff,Touchdown
+2020_15_TB_ATL_19,Kickoff,Touchdown
+2020_05_PHI_PIT_10,Kickoff,Touchdown
+2018_01_JAX_NYG_19,Kickoff,Touchdown
+2021_04_KC_PHI_6,Kickoff,Touchdown
+2020_15_LAC_LV_19,Kickoff,Touchdown
+2016_15_OAK_SD_10,Kickoff,Touchdown
+2020_16_ATL_KC_8,Kickoff,Touchdown
+2018_15_DAL_IND_7,Kickoff,Touchdown
+2021_18_CHI_MIN_11,Kickoff,Touchdown
+2019_09_TB_SEA_1,Kickoff,Touchdown
+2018_08_WAS_NYG_22,Kickoff,Touchdown
+2020_17_TEN_HOU_6,Kickoff,Touchdown
+2016_08_KC_IND_19,Kickoff,Touchdown
+2019_05_BAL_PIT_6,Kickoff,Touchdown
+2020_04_NE_KC_15,Kickoff,Touchdown
+2017_16_PIT_HOU_16,Kickoff,Touchdown
+2017_12_BUF_KC_15,Kickoff,Touchdown
+2020_15_BUF_DEN_20,Kickoff,Touchdown
+2020_10_JAX_GB_21,Kickoff,Touchdown
+2016_04_CLE_WAS_4,Kickoff,Touchdown
+2016_09_ATL_TB_20,Kickoff,Touchdown
+2019_12_MIA_CLE_1,Kickoff,Touchdown
+2019_14_LAC_JAX_2,Kickoff,Touchdown
+2020_01_CLE_BAL_5,Kickoff,Touchdown
+2021_03_TB_LA_10,Kickoff,Touchdown
+2019_15_LA_DAL_6,Kickoff,Touchdown
+2016_07_BUF_MIA_15,Kickoff,Touchdown
+2019_10_KC_TEN_17,Kickoff,Touchdown
+2021_12_LA_GB_7,Kickoff,Touchdown
+2018_09_ATL_WAS_7,Kickoff,Touchdown
+2020_01_SEA_ATL_2,Kickoff,Touchdown
+2020_10_PHI_NYG_12,Kickoff,Touchdown
+2019_05_ARI_CIN_16,Kickoff,Touchdown
+2021_03_LAC_KC_12,Kickoff,Touchdown
+2020_13_JAX_MIN_14,Kickoff,Touchdown
+2019_17_SF_SEA_12,Kickoff,Touchdown
+2017_11_CIN_DEN_21,Kickoff,Touchdown
+2016_15_TB_DAL_11,Kickoff,Touchdown
+2019_01_SF_TB_11,Kickoff,Touchdown
+2021_17_DET_SEA_17,Kickoff,Touchdown
+2020_07_CLE_CIN_11,Kickoff,Touchdown
+2018_14_NYJ_BUF_5,Kickoff,Touchdown
+2018_07_CIN_KC_8,Kickoff,Touchdown
+2020_12_KC_TB_14,Kickoff,Touchdown
+2016_08_WAS_CIN_1,Kickoff,Touchdown
+2019_05_IND_KC_3,Kickoff,Touchdown
+2021_04_CLE_MIN_1,Kickoff,Touchdown
+2020_10_TB_CAR_18,Kickoff,Touchdown
+2019_11_NYJ_WAS_1,Kickoff,Touchdown
+2019_07_HOU_IND_12,Kickoff,Touchdown
+2020_16_MIN_NO_2,Kickoff,Touchdown
+2020_02_LA_PHI_7,Kickoff,Touchdown
+2016_16_NYG_PHI_11,Kickoff,Touchdown
+2016_02_NYJ_BUF_2,Kickoff,Touchdown
+2020_05_LV_KC_8,Kickoff,Touchdown
+2018_13_DEN_CIN_17,Kickoff,Touchdown
+2018_05_IND_NE_1,Kickoff,Touchdown
+2020_09_SEA_BUF_12,Kickoff,Touchdown
+2016_13_TB_SD_1,Kickoff,Touchdown
+2018_03_NYJ_CLE_23,Kickoff,Touchdown
+2020_16_BUF_NE_5,Kickoff,Touchdown
+2017_15_ATL_TB_5,Kickoff,Touchdown
+2019_02_DAL_WAS_13,Kickoff,Touchdown
+2021_12_LA_GB_12,Kickoff,Touchdown
+2019_03_DET_PHI_3,Kickoff,Touchdown
+2018_03_NO_ATL_15,Kickoff,Touchdown
+2018_14_ATL_GB_2,Kickoff,Touchdown
+2019_08_CIN_LA_4,Kickoff,Touchdown
+2017_16_JAX_SF_7,Kickoff,Touchdown
+2019_14_IND_TB_12,Kickoff,Touchdown
+2021_04_CAR_DAL_5,Kickoff,Touchdown
+2018_12_SEA_CAR_9,Kickoff,Touchdown
+2019_15_NYJ_BAL_6,Kickoff,Touchdown
+2019_01_HOU_NO_7,Kickoff,Touchdown
+2021_01_MIN_CIN_12,Kickoff,Touchdown
+2019_16_BUF_NE_3,Kickoff,Touchdown
+2021_03_IND_TEN_7,Kickoff,Touchdown
+2019_17_NO_CAR_21,Kickoff,Touchdown
+2018_08_IND_OAK_9,Kickoff,Touchdown
+2018_14_CIN_LAC_3,Kickoff,Touchdown
+2021_12_PIT_CIN_5,Kickoff,Touchdown
+2017_14_DET_TB_19,Kickoff,Touchdown
+2016_07_BAL_NYJ_5,Kickoff,Touchdown
+2016_13_BUF_OAK_4,Kickoff,Touchdown
+2020_04_CLE_DAL_18,Kickoff,Touchdown
+2017_08_DEN_KC_26,Kickoff,Touchdown
+2018_07_NYG_ATL_17,Kickoff,Touchdown
+2019_01_NYG_DAL_3,Kickoff,Touchdown
+2021_18_SEA_ARI_10,Kickoff,Touchdown
+2016_10_DAL_PIT_21,Kickoff,Touchdown
+2019_05_JAX_CAR_23,Kickoff,Touchdown
+2016_14_SEA_GB_22,Kickoff,Touchdown
+2020_11_NYJ_LAC_14,Kickoff,Touchdown
+2019_10_LAC_OAK_9,Kickoff,Touchdown
+2021_17_ARI_DAL_18,Kickoff,Touchdown
+2018_08_PHI_JAX_13,Kickoff,Touchdown
+2017_05_GB_DAL_6,Kickoff,Touchdown
+2018_03_LAC_LA_5,Kickoff,Touchdown
+2020_07_GB_HOU_11,Kickoff,Touchdown
+2021_05_CLE_LAC_11,Kickoff,Touchdown
+2018_13_CAR_TB_1,Kickoff,Touchdown
+2020_04_CLE_DAL_6,Kickoff,Touchdown
+2017_01_NO_MIN_14,Kickoff,Touchdown
+2021_06_BUF_TEN_16,Kickoff,Touchdown
+2018_15_LAC_KC_5,Kickoff,Touchdown
+2021_16_BAL_CIN_2,Kickoff,Touchdown
+2019_07_OAK_GB_12,Kickoff,Touchdown
+2021_18_TEN_HOU_18,Kickoff,Touchdown
+2021_18_SF_LA_9,Kickoff,Touchdown
+2016_06_DEN_SD_1,Kickoff,Touchdown
+2020_06_DET_JAX_19,Kickoff,Touchdown
+2018_13_WAS_PHI_1,Kickoff,Touchdown
+2016_03_ARI_BUF_12,Kickoff,Touchdown
+2016_03_WAS_NYG_8,Kickoff,Touchdown
+2016_01_DET_IND_9,Kickoff,Touchdown
+2018_09_LA_NO_4,Kickoff,Touchdown
+2020_02_NE_SEA_2,Kickoff,Touchdown
+2021_02_TEN_SEA_7,Kickoff,Touchdown
+2021_10_LA_SF_4,Kickoff,Touchdown
+2019_01_DEN_OAK_15,Kickoff,Touchdown
+2018_02_IND_WAS_19,Kickoff,Touchdown
+2018_04_PHI_TEN_13,Kickoff,Touchdown
+2019_02_SEA_PIT_19,Kickoff,Touchdown
+2020_03_GB_NO_11,Kickoff,Touchdown
+2018_15_LAC_KC_15,Kickoff,Touchdown
+2018_08_NYJ_CHI_17,Kickoff,Touchdown
+2020_15_SF_DAL_6,Kickoff,Touchdown
+2018_11_CAR_DET_1,Kickoff,Touchdown
+2018_13_LA_DET_16,Kickoff,Touchdown
+2021_09_LAC_PHI_5,Kickoff,Touchdown
+2020_02_NO_LV_11,Kickoff,Touchdown
+2018_10_JAX_IND_12,Kickoff,Touchdown
+2017_03_LA_SF_16,Kickoff,Touchdown
+2021_01_DEN_NYG_10,Kickoff,Touchdown
+2016_07_TB_SF_1,Kickoff,Touchdown
+2019_06_DAL_NYJ_19,Kickoff,Touchdown
+2019_09_WAS_BUF_6,Kickoff,Touchdown
+2017_06_GB_MIN_10,Kickoff,Touchdown
+2018_02_DET_SF_13,Kickoff,Touchdown
+2016_12_PIT_IND_5,Kickoff,Touchdown
+2017_03_LA_SF_22,Kickoff,Touchdown
+2018_04_HOU_IND_23,Kickoff,Touchdown
+2020_13_LA_ARI_22,Kickoff,Touchdown
+2018_12_WAS_DAL_21,Kickoff,Touchdown
+2017_14_SEA_JAX_16,Kickoff,Touchdown
+2021_07_PHI_LV_10,Kickoff,Touchdown
+2016_07_IND_TEN_18,Kickoff,Touchdown
+2017_06_CLE_HOU_18,Kickoff,Touchdown
+2021_09_CLE_CIN_2,Kickoff,Touchdown
+2017_09_KC_DAL_12,Kickoff,Touchdown
+2018_11_CAR_DET_2,Kickoff,Touchdown
+2016_05_NYG_GB_22,Kickoff,Touchdown
+2016_08_GB_ATL_3,Kickoff,Touchdown
+2020_08_TEN_CIN_7,Kickoff,Touchdown
+2021_16_CHI_SEA_7,Kickoff,Touchdown
+2017_14_PHI_LA_15,Kickoff,Touchdown
+2016_08_NE_BUF_2,Kickoff,Touchdown
+2018_11_HOU_WAS_18,Kickoff,Touchdown
+2019_14_SF_NO_3,Kickoff,Touchdown
+2021_18_NO_ATL_5,Kickoff,Touchdown
+2018_10_SEA_LA_13,Kickoff,Touchdown
+2018_16_WAS_TEN_2,Kickoff,Touchdown
+2021_16_BAL_CIN_3,Kickoff,Touchdown
+2016_03_DEN_CIN_10,Kickoff,Touchdown
+2017_15_NYJ_NO_25,Kickoff,Touchdown
+2019_12_JAX_TEN_11,Kickoff,Touchdown
+2019_14_MIA_NYJ_3,Kickoff,Touchdown
+2017_03_HOU_NE_17,Kickoff,Touchdown
+2018_01_HOU_NE_21,Kickoff,Touchdown
+2019_15_LA_DAL_21,Kickoff,Touchdown
+2016_17_KC_SD_10,Kickoff,Touchdown
+2021_18_CAR_TB_15,Kickoff,Touchdown
+2019_14_SF_NO_1,Kickoff,Touchdown
+2021_16_BAL_CIN_13,Kickoff,Touchdown
+2017_16_LA_TEN_18,Kickoff,Touchdown
+2018_11_KC_LA_15,Kickoff,Touchdown
+2021_11_PIT_LAC_5,Kickoff,Touchdown
+2020_17_LAC_KC_1,Kickoff,Touchdown
+2019_13_GB_NYG_4,Kickoff,Touchdown
+2021_14_LV_KC_14,Kickoff,Touchdown
+2019_16_NO_TEN_15,Kickoff,Touchdown
+2021_06_SEA_PIT_15,Kickoff,Touchdown
+2017_11_BUF_LAC_21,Kickoff,Touchdown
+2018_05_LA_SEA_13,Kickoff,Touchdown
+2021_18_KC_DEN_3,Kickoff,Touchdown
+2020_13_LV_NYJ_5,Kickoff,Touchdown
+2019_07_HOU_IND_11,Kickoff,Touchdown
+2017_01_OAK_TEN_1,Kickoff,Touchdown
+2016_12_JAX_BUF_17,Kickoff,Touchdown
+2016_17_BAL_CIN_4,Kickoff,Touchdown
+2016_12_CAR_OAK_5,Kickoff,Touchdown
+2018_08_WAS_NYG_23,Kickoff,Touchdown
+2017_12_GB_PIT_2,Kickoff,Touchdown
+2020_02_DET_GB_17,Kickoff,Touchdown
+2019_02_SF_CIN_3,Kickoff,Touchdown
+2020_13_DET_CHI_9,Kickoff,Touchdown
+2016_15_PHI_BAL_12,Kickoff,Touchdown
+2017_01_KC_NE_1,Kickoff,Touchdown
+2018_12_PIT_DEN_7,Kickoff,Touchdown
+2016_13_KC_ATL_2,Kickoff,Touchdown
+2016_10_GB_TEN_17,Kickoff,Touchdown
+2019_06_SEA_CLE_3,Kickoff,Touchdown
+2020_17_ATL_TB_1,Kickoff,Touchdown
+2018_14_NYJ_BUF_20,Kickoff,Touchdown
+2019_14_TEN_OAK_8,Kickoff,Touchdown
+2018_10_NYG_SF_13,Kickoff,Touchdown
+2020_16_TB_DET_17,Kickoff,Touchdown
+2020_03_GB_NO_14,Kickoff,Touchdown
+2021_08_GB_ARI_15,Kickoff,Touchdown
+2021_15_WAS_PHI_17,Kickoff,Touchdown
+2017_13_DET_BAL_19,Kickoff,Touchdown
+2018_14_ATL_GB_10,Kickoff,Touchdown
+2021_17_LV_IND_12,Kickoff,Touchdown
+2021_08_NE_LAC_22,Kickoff,Touchdown
+2020_10_IND_TEN_1,Kickoff,Touchdown
+2020_05_LAC_NO_24,Kickoff,Touchdown
+2021_10_BUF_NYJ_24,Kickoff,Touchdown
+2021_18_DAL_PHI_6,Kickoff,Touchdown
+2018_09_DET_MIN_1,Kickoff,Touchdown
+2019_03_ATL_IND_7,Kickoff,Touchdown
+2018_12_ARI_LAC_4,Kickoff,Touchdown
+2021_12_TEN_NE_3,Kickoff,Touchdown
+2021_16_BUF_NE_13,Kickoff,Touchdown
+2021_15_GB_BAL_5,Kickoff,Touchdown
+2016_16_TEN_JAX_20,Kickoff,Touchdown
+2021_16_CHI_SEA_14,Kickoff,Touchdown
+2021_05_TEN_JAX_6,Kickoff,Touchdown
+2016_12_NYG_CLE_12,Kickoff,Touchdown
+2021_15_GB_BAL_15,Kickoff,Touchdown
+2018_05_LA_SEA_9,Kickoff,Touchdown
+2019_07_MIN_DET_4,Kickoff,Touchdown
+2017_03_SEA_TEN_17,Kickoff,Touchdown
+2019_16_NYG_WAS_23,Kickoff,Touchdown
+2020_07_JAX_LAC_19,Kickoff,Touchdown
+2021_07_PHI_LV_1,Kickoff,Touchdown
+2017_06_MIA_ATL_8,Kickoff,Turnover
+2017_15_CHI_DET_12,Kickoff,Turnover
+2016_13_KC_ATL_4,Kickoff,Turnover
+2021_13_WAS_LV_15,Kickoff,Turnover
+2019_06_SEA_CLE_23,Kickoff,Turnover
+2021_13_DEN_KC_10,Kickoff,Turnover
+2017_17_WAS_NYG_17,Kickoff,Turnover
+2019_06_DET_GB_4,Kickoff,Turnover
+2021_07_NYJ_NE_21,Kickoff,Turnover
+2016_15_JAX_HOU_7,Kickoff,Turnover
+2019_05_JAX_CAR_24,Kickoff,Turnover
+2016_02_JAX_SD_8,Kickoff,Turnover
+2017_07_NO_GB_20,Kickoff,Turnover
+2016_06_CAR_NO_8,Kickoff,Turnover
+2016_09_PHI_NYG_28,Kickoff,Turnover
+2020_13_LV_NYJ_11,Kickoff,Turnover
+2020_10_DEN_LV_11,Kickoff,Turnover
+2020_11_DET_CAR_4,Kickoff,Turnover
+2020_11_MIA_DEN_19,Kickoff,Turnover
+2016_17_SEA_SF_7,Kickoff,Turnover
+2020_01_CLE_BAL_3,Kickoff,Turnover
+2021_06_LA_NYG_18,Kickoff,Turnover
+2017_14_SEA_JAX_20,Kickoff,Turnover
+2021_10_BAL_MIA_26,Kickoff,Turnover
+2019_04_PHI_GB_8,Kickoff,Turnover
+2021_09_DEN_DAL_17,Kickoff,Turnover
+2020_05_LV_KC_20,Kickoff,Turnover
+2020_01_CHI_DET_22,Kickoff,Turnover
+2019_02_IND_TEN_13,Kickoff,Turnover
+2021_17_ATL_BUF_4,Kickoff,Turnover
+2021_05_NO_WAS_8,Kickoff,Turnover
+2020_11_TEN_BAL_4,Kickoff,Turnover
+2019_06_WAS_MIA_8,Kickoff,Turnover
+2021_15_TEN_PIT_16,Kickoff,Turnover
+2021_14_DET_DEN_10,Kickoff,Turnover
+2018_08_PHI_JAX_1,Kickoff,Turnover
+2019_07_NE_NYJ_6,Kickoff,Turnover
+2017_14_MIN_CAR_1,Kickoff,Turnover
+2016_17_KC_SD_5,Kickoff,Turnover
+2016_15_NO_ARI_19,Kickoff,Turnover
+2020_03_WAS_CLE_12,Kickoff,Turnover
+2019_03_CHI_WAS_15,Kickoff,Turnover
+2018_17_LAC_DEN_11,Kickoff,Turnover
+2018_09_CHI_BUF_9,Kickoff,Turnover
+2017_16_DEN_WAS_14,Kickoff,Turnover
+2020_08_PIT_BAL_3,Kickoff,Turnover
+2016_11_GB_WAS_21,Kickoff,Turnover
+2016_10_CLE_BAL_20,Kickoff,Turnover
+2016_06_NYJ_ARI_18,Kickoff,Turnover
+2020_13_LV_NYJ_9,Kickoff,Turnover
+2016_10_DEN_NO_3,Kickoff,Turnover
+2019_04_CLE_BAL_13,Kickoff,Turnover
+2016_02_ATL_OAK_12,Kickoff,Turnover
+2017_06_GB_MIN_18,Kickoff,Turnover
+2020_16_SF_ARI_21,Kickoff,Turnover
+2019_03_MIA_DAL_6,Kickoff,Turnover
+2017_10_HOU_LA_1,Kickoff,Turnover
+2018_14_NO_TB_22,Kickoff,Turnover
+2016_03_SD_IND_8,Kickoff,Turnover
+2020_05_PHI_PIT_16,Kickoff,Turnover
+2016_14_ATL_LA_18,Kickoff,Turnover
+2019_04_CIN_PIT_9,Kickoff,Turnover
+2017_03_OAK_WAS_24,Kickoff,Turnover
+2020_08_PIT_BAL_20,Kickoff,Turnover
+2020_12_ARI_NE_1,Kickoff,Turnover
+2016_11_PIT_CLE_1,Kickoff,Turnover
+2017_03_HOU_NE_25,Kickoff,Turnover
+2021_04_HOU_BUF_21,Kickoff,Turnover
+2021_11_IND_BUF_13,Kickoff,Turnover
+2018_16_ATL_CAR_17,Kickoff,Turnover
+2017_05_SF_IND_22,Kickoff,Turnover
+2017_06_NYG_DEN_7,Kickoff,Turnover
+2020_09_DET_MIN_13,Kickoff,Turnover
+2018_10_NO_CIN_17,Kickoff,Turnover
+2017_05_LAC_NYG_25,Kickoff,Turnover
+2021_06_ARI_CLE_7,Kickoff,Turnover
+2019_17_LAC_KC_7,Kickoff,Turnover
+2016_07_BAL_NYJ_16,Kickoff,Turnover
+2021_09_MIN_BAL_21,Kickoff,Turnover
+2021_14_PIT_MIN_15,Kickoff,Turnover
+2020_12_SF_LA_6,Kickoff,Turnover
+2019_16_PIT_NYJ_11,Kickoff,Turnover
+2020_11_ATL_NO_11,Kickoff,Turnover
+2020_16_CHI_JAX_14,Kickoff,Turnover
+2017_03_OAK_WAS_1,Kickoff,Turnover
+2019_14_SF_NO_12,Kickoff,Turnover
+2021_09_HOU_MIA_16,Kickoff,Turnover
+2021_04_HOU_BUF_19,Kickoff,Turnover
+2017_03_MIA_NYJ_16,Kickoff,Turnover
+2019_01_GB_CHI_22,Kickoff,Turnover
+2018_08_PHI_JAX_3,Kickoff,Turnover
+2021_01_DEN_NYG_11,Kickoff,Turnover
+2020_04_DEN_NYJ_18,Kickoff,Turnover
+2019_02_NO_LA_1,Kickoff,Turnover
+2019_06_TEN_DEN_16,Kickoff,Turnover
+2020_10_JAX_GB_11,Kickoff,Turnover
+2017_11_WAS_NO_1,Kickoff,Turnover
+2017_07_TB_BUF_5,Kickoff,Turnover
+2019_03_DEN_GB_12,Kickoff,Turnover
+2016_02_BAL_CLE_11,Kickoff,Turnover
+2016_17_CHI_MIN_12,Kickoff,Turnover
+2016_12_NE_NYJ_21,Kickoff,Turnover
+2018_04_NO_NYG_6,Kickoff,Turnover
+2021_07_DET_LA_15,Kickoff,Turnover
+2020_15_SEA_WAS_12,Kickoff,Turnover
+2019_13_GB_NYG_15,Kickoff,Turnover
+2018_12_NE_NYJ_9,Kickoff,Turnover
+2019_14_BAL_BUF_10,Kickoff,Turnover
+2019_12_GB_SF_1,Kickoff,Turnover
+2019_14_MIA_NYJ_11,Kickoff,Turnover
+2021_05_BUF_KC_21,Kickoff,Turnover
+2020_12_WAS_DAL_10,Kickoff,Turnover
+2018_12_CLE_CIN_10,Kickoff,Turnover
+2017_14_NE_MIA_12,Kickoff,Turnover
+2018_15_GB_CHI_19,Kickoff,Turnover
+2020_17_DAL_NYG_23,Kickoff,Turnover
+2019_04_TEN_ATL_6,Kickoff,Turnover
+2021_18_SEA_ARI_16,Kickoff,Turnover
+2017_10_CLE_DET_22,Kickoff,Turnover
+2019_17_LAC_KC_9,Kickoff,Turnover
+2021_11_HOU_TEN_3,Kickoff,Turnover
+2016_04_CLE_WAS_13,Kickoff,Turnover
+2016_17_JAX_IND_20,Kickoff,Turnover
+2017_08_DEN_KC_12,Kickoff,Turnover
+2020_11_NYJ_LAC_3,Kickoff,Turnover
+2020_10_BUF_ARI_15,Kickoff,Turnover
+2021_04_IND_MIA_15,Kickoff,Turnover
+2019_16_CAR_IND_19,Kickoff,Turnover
+2020_11_LA_TB_9,Kickoff,Turnover
+2016_10_SEA_NE_7,Kickoff,Turnover
+2017_05_SEA_LA_15,Kickoff,Turnover
+2019_09_TEN_CAR_6,Kickoff,Turnover
+2021_14_LV_KC_10,Kickoff,Turnover
+2017_07_TEN_CLE_8,Kickoff,Turnover
+2016_03_NYJ_KC_5,Kickoff,Turnover
+2018_01_CHI_GB_21,Kickoff,Turnover
+2021_15_NE_IND_14,Kickoff,Turnover
+2016_03_LA_TB_8,Kickoff,Turnover
+2020_07_DAL_WAS_10,Kickoff,Turnover
+2016_15_MIA_NYJ_7,Kickoff,Turnover
+2021_08_PIT_CLE_16,Kickoff,Turnover
+2017_09_BAL_TEN_12,Kickoff,Turnover
+2016_07_SD_ATL_3,Kickoff,Turnover
+2017_11_BUF_LAC_6,Kickoff,Turnover
+2021_02_DAL_LAC_2,Kickoff,Turnover
+2016_01_CIN_NYJ_20,Kickoff,Turnover
+2020_17_MIA_BUF_1,Kickoff,Turnover
+2021_17_LA_BAL_12,Kickoff,Turnover
+2017_02_DAL_DEN_14,Kickoff,Turnover
+2021_14_BAL_CLE_15,Kickoff,Turnover
+2017_01_LAC_DEN_10,Kickoff,Turnover
+2020_07_SF_NE_10,Kickoff,Turnover
+2016_10_ATL_PHI_23,Kickoff,Turnover
+2016_16_TB_NO_10,Kickoff,Turnover
+2018_04_NO_NYG_19,Kickoff,Turnover
+2018_04_CLE_OAK_34,Kickoff,Turnover
+2020_14_ARI_NYG_1,Kickoff,Turnover
+2021_03_WAS_BUF_17,Kickoff,Turnover
+2019_13_CHI_DET_20,Kickoff,Turnover
+2016_07_WAS_DET_11,Kickoff,Turnover
+2016_06_LA_DET_15,Kickoff,Turnover
+2019_11_NO_TB_18,Kickoff,Turnover
+2016_03_CLE_MIA_1,Kickoff,Turnover
+2021_14_NYG_LAC_17,Kickoff,Turnover
+2019_02_MIN_GB_4,Kickoff,Turnover
+2016_05_SD_OAK_16,Kickoff,Turnover
+2017_15_ATL_TB_6,Kickoff,Turnover
+2016_01_PIT_WAS_11,Kickoff,Turnover
+2018_05_NYG_CAR_15,Kickoff,Turnover
+2021_07_IND_SF_6,Kickoff,Turnover
+2018_14_DET_ARI_1,Kickoff,Turnover
+2021_05_DEN_PIT_18,Kickoff,Turnover
+2016_03_SF_SEA_23,Kickoff,Turnover
+2016_02_BAL_CLE_22,Kickoff,Turnover
+2017_04_CIN_CLE_7,Kickoff,Turnover
+2020_03_KC_BAL_11,Kickoff,Turnover
+2020_05_CIN_BAL_7,Kickoff,Turnover
+2017_17_CAR_ATL_14,Kickoff,Turnover
+2018_07_LA_SF_10,Kickoff,Turnover
+2017_16_CLE_CHI_16,Kickoff,Turnover
+2020_15_PHI_ARI_1,Kickoff,Turnover
+2017_01_NYJ_BUF_1,Kickoff,Turnover
+2021_10_JAX_IND_24,Kickoff,Turnover
+2016_15_GB_CHI_13,Kickoff,Turnover
+2018_14_NYJ_BUF_21,Kickoff,Turnover
+2020_16_CLE_NYJ_7,Kickoff,Turnover
+2016_10_CIN_NYG_21,Kickoff,Turnover
+2017_14_CHI_CIN_16,Kickoff,Turnover
+2018_02_BAL_CIN_24,Kickoff,Turnover
+2016_03_SF_SEA_18,Kickoff,Turnover
+2020_11_DAL_MIN_5,Kickoff,Turnover
+2018_02_NE_JAX_16,Kickoff,Turnover
+2021_16_BUF_NE_5,Kickoff,Turnover
+2018_17_IND_TEN_23,Kickoff,Turnover
+2016_12_SD_HOU_8,Kickoff,Turnover
+2016_09_BUF_SEA_13,Kickoff,Turnover
+2019_06_CAR_TB_12,Kickoff,Turnover
+2019_04_TB_LA_16,Kickoff,Turnover
+2018_01_NYJ_DET_7,Kickoff,Turnover
+2017_07_TEN_CLE_10,Kickoff,Turnover
+2017_08_CHI_NO_22,Kickoff,Turnover
+2017_02_DET_NYG_5,Kickoff,Turnover
+2016_12_LA_NO_16,Kickoff,Turnover
+2019_17_PHI_NYG_20,Kickoff,Turnover
+2019_03_PIT_SF_7,Kickoff,Turnover
+2021_10_CLE_NE_3,Kickoff,Turnover
+2020_04_SEA_MIA_12,Kickoff,Turnover
+2018_15_CLE_DEN_9,Kickoff,Turnover
+2016_02_NYJ_BUF_15,Kickoff,Turnover
+2019_17_CLE_CIN_22,Kickoff,Turnover
+2020_03_LA_BUF_12,Kickoff,Turnover
+2018_10_MIA_GB_14,Kickoff,Turnover
+2021_04_DET_CHI_2,Kickoff,Turnover
+2021_15_MIN_CHI_9,Kickoff,Turnover
+2021_09_HOU_MIA_21,Kickoff,Turnover
+2021_17_TB_NYJ_20,Kickoff,Turnover
+2018_12_NYG_PHI_9,Kickoff,Turnover
+2020_02_MIN_IND_11,Kickoff,Turnover
+2017_12_HOU_BAL_8,Kickoff,Turnover
+2019_09_IND_PIT_9,Kickoff,Turnover
+2020_04_CLE_DAL_7,Kickoff,Turnover
+2016_17_BAL_CIN_7,Kickoff,Turnover
+2016_01_CHI_HOU_1,Kickoff,Turnover
+2018_01_BUF_BAL_19,Kickoff,Turnover
+2016_06_DAL_GB_21,Kickoff,Turnover
+2019_15_MIN_LAC_20,Kickoff,Turnover
+2019_10_LA_PIT_17,Kickoff,Turnover
+2021_15_CAR_BUF_22,Kickoff,Turnover
+2021_10_SEA_GB_17,Kickoff,Turnover
+2021_15_ATL_SF_11,Kickoff,Turnover
+2018_17_DAL_NYG_1,Kickoff,Turnover
+2018_05_WAS_NO_14,Kickoff,Turnover
+2017_16_MIA_KC_1,Kickoff,Turnover
+2020_12_LAC_BUF_19,Kickoff,Turnover
+2020_12_CAR_MIN_17,Punt,Field Goal
+2018_15_MIA_MIN_14,Punt,Field Goal
+2019_06_CAR_TB_27,Punt,Field Goal
+2018_17_JAX_HOU_3,Punt,Field Goal
+2021_16_NYG_PHI_17,Punt,Field Goal
+2019_07_KC_DEN_4,Punt,Field Goal
+2020_17_GB_CHI_4,Punt,Field Goal
+2021_09_MIN_BAL_23,Punt,Field Goal
+2018_04_BAL_PIT_20,Punt,Field Goal
+2019_05_LA_SEA_24,Punt,Field Goal
+2019_15_IND_NO_8,Punt,Field Goal
+2021_11_CIN_LV_12,Punt,Field Goal
+2017_14_DAL_NYG_13,Punt,Field Goal
+2020_08_SF_SEA_16,Punt,Field Goal
+2020_09_CHI_TEN_5,Punt,Field Goal
+2018_09_LA_NO_15,Punt,Field Goal
+2021_15_NO_TB_3,Punt,Field Goal
+2020_07_JAX_LAC_2,Punt,Field Goal
+2017_04_DET_MIN_5,Punt,Field Goal
+2021_03_SEA_MIN_14,Punt,Field Goal
+2020_16_MIN_NO_5,Punt,Field Goal
+2016_02_SEA_LA_4,Punt,Field Goal
+2017_16_DET_CIN_9,Punt,Field Goal
+2019_17_CHI_MIN_15,Punt,Field Goal
+2020_02_WAS_ARI_9,Punt,Field Goal
+2018_12_OAK_BAL_7,Punt,Field Goal
+2021_15_CIN_DEN_15,Punt,Field Goal
+2019_01_DET_ARI_7,Punt,Field Goal
+2020_15_TB_ATL_9,Punt,Field Goal
+2021_05_NE_HOU_18,Punt,Field Goal
+2016_07_NYG_LA_7,Punt,Field Goal
+2016_13_IND_NYJ_7,Punt,Field Goal
+2016_02_MIA_NE_14,Punt,Field Goal
+2018_06_LA_DEN_4,Punt,Field Goal
+2019_16_OAK_LAC_19,Punt,Field Goal
+2018_04_CLE_OAK_38,Punt,Field Goal
+2016_17_BAL_CIN_6,Punt,Field Goal
+2016_11_ARI_MIN_5,Punt,Field Goal
+2021_14_DET_DEN_9,Punt,Field Goal
+2017_03_DAL_ARI_3,Punt,Field Goal
+2019_15_JAX_OAK_14,Punt,Field Goal
+2021_11_HOU_TEN_2,Punt,Field Goal
+2018_01_KC_LAC_20,Punt,Field Goal
+2020_09_NE_NYJ_17,Punt,Field Goal
+2016_17_DAL_PHI_2,Punt,Field Goal
+2017_03_CIN_GB_23,Punt,Field Goal
+2017_01_SEA_GB_18,Punt,Field Goal
+2016_03_ARI_BUF_5,Punt,Field Goal
+2017_07_NO_GB_11,Punt,Field Goal
+2016_06_CLE_TEN_4,Punt,Field Goal
+2020_14_NE_LA_3,Punt,Field Goal
+2018_10_CAR_PIT_7,Punt,Field Goal
+2020_01_TEN_DEN_3,Punt,Field Goal
+2019_01_HOU_NO_17,Punt,Field Goal
+2016_12_SD_HOU_22,Punt,Field Goal
+2017_17_HOU_IND_2,Punt,Field Goal
+2019_04_OAK_IND_16,Punt,Field Goal
+2020_16_MIA_LV_14,Punt,Field Goal
+2021_18_SF_LA_8,Punt,Field Goal
+2017_08_CHI_NO_4,Punt,Field Goal
+2018_17_PHI_WAS_6,Punt,Field Goal
+2017_14_SEA_JAX_3,Punt,Field Goal
+2018_10_MIA_GB_17,Punt,Field Goal
+2016_11_MIA_LA_19,Punt,Field Goal
+2017_07_BAL_MIN_20,Punt,Field Goal
+2017_13_KC_NYJ_16,Punt,Field Goal
+2018_04_SEA_ARI_21,Punt,Field Goal
+2018_12_PIT_DEN_2,Punt,Field Goal
+2018_02_MIN_GB_25,Punt,Field Goal
+2021_13_WAS_LV_8,Punt,Field Goal
+2020_09_GB_SF_4,Punt,Field Goal
+2020_10_DEN_LV_9,Punt,Field Goal
+2019_03_CIN_BUF_23,Punt,Field Goal
+2018_03_TEN_JAX_16,Punt,Field Goal
+2019_10_LAC_OAK_16,Punt,Field Goal
+2019_03_LA_CLE_4,Punt,Field Goal
+2020_15_CAR_GB_16,Punt,Field Goal
+2017_02_MIA_LAC_2,Punt,Field Goal
+2016_02_ATL_OAK_5,Punt,Field Goal
+2020_17_DAL_NYG_19,Punt,Field Goal
+2017_08_CHI_NO_12,Punt,Field Goal
+2018_03_NE_DET_13,Punt,Field Goal
+2016_05_NYG_GB_21,Punt,Field Goal
+2018_05_OAK_LAC_4,Punt,Field Goal
+2016_07_CHI_GB_7,Punt,Field Goal
+2018_11_PHI_NO_2,Punt,Field Goal
+2018_02_OAK_DEN_19,Punt,Field Goal
+2017_10_LAC_JAX_20,Punt,Field Goal
+2021_02_HOU_CLE_18,Punt,Field Goal
+2021_10_CAR_ARI_8,Punt,Field Goal
+2021_16_MIA_NO_9,Punt,Field Goal
+2021_02_SF_PHI_6,Punt,Field Goal
+2021_05_PHI_CAR_15,Punt,Field Goal
+2018_05_MIN_PHI_19,Punt,Field Goal
+2021_14_DET_DEN_6,Punt,Field Goal
+2017_05_KC_HOU_3,Punt,Field Goal
+2017_08_HOU_SEA_15,Punt,Field Goal
+2019_17_OAK_DEN_14,Punt,Field Goal
+2019_10_LA_PIT_21,Punt,Field Goal
+2021_04_TEN_NYJ_4,Punt,Field Goal
+2021_03_LAC_KC_10,Punt,Field Goal
+2021_16_BAL_CIN_12,Punt,Field Goal
+2020_02_BAL_HOU_12,Punt,Field Goal
+2020_17_GB_CHI_11,Punt,Field Goal
+2020_01_TEN_DEN_12,Punt,Field Goal
+2020_04_NE_KC_5,Punt,Field Goal
+2018_05_DAL_HOU_25,Punt,Field Goal
+2018_15_HOU_NYJ_17,Punt,Field Goal
+2017_13_SF_CHI_15,Punt,Field Goal
+2018_12_ARI_LAC_20,Punt,Field Goal
+2017_08_LAC_NE_15,Punt,Field Goal
+2019_06_CIN_BAL_17,Punt,Field Goal
+2019_13_WAS_CAR_14,Punt,Field Goal
+2020_03_NYJ_IND_5,Punt,Field Goal
+2019_17_SF_SEA_6,Punt,Field Goal
+2018_01_CIN_IND_19,Punt,Field Goal
+2017_03_HOU_NE_19,Punt,Field Goal
+2017_01_JAX_HOU_5,Punt,Field Goal
+2019_04_JAX_DEN_22,Punt,Field Goal
+2020_04_SEA_MIA_15,Punt,Field Goal
+2017_02_DAL_DEN_4,Punt,Field Goal
+2018_07_CIN_KC_4,Punt,Field Goal
+2019_05_CLE_SF_18,Punt,Field Goal
+2020_11_MIA_DEN_18,Punt,Field Goal
+2016_14_NYJ_SF_8,Punt,Field Goal
+2021_06_HOU_IND_6,Punt,Field Goal
+2018_10_NYG_SF_9,Punt,Field Goal
+2017_07_WAS_PHI_6,Punt,Field Goal
+2017_02_NYJ_OAK_8,Punt,Field Goal
+2021_04_JAX_CIN_2,Punt,Field Goal
+2017_12_LAC_DAL_2,Punt,Field Goal
+2017_02_GB_ATL_7,Punt,Field Goal
+2018_15_OAK_CIN_17,Punt,Field Goal
+2020_03_TEN_MIN_15,Punt,Field Goal
+2019_10_LA_PIT_26,Punt,Field Goal
+2017_14_BAL_PIT_22,Punt,Field Goal
+2020_02_KC_LAC_13,Punt,Field Goal
+2016_08_NYJ_CLE_5,Punt,Field Goal
+2019_15_DEN_KC_6,Punt,Field Goal
+2019_08_CIN_LA_2,Punt,Field Goal
+2019_16_JAX_ATL_5,Punt,Field Goal
+2019_12_DEN_BUF_2,Punt,Field Goal
+2017_11_LA_MIN_12,Punt,Field Goal
+2017_01_SEA_GB_11,Punt,Field Goal
+2021_17_MIN_GB_7,Punt,Field Goal
+2019_09_MIN_KC_8,Punt,Field Goal
+2020_06_KC_BUF_14,Punt,Field Goal
+2018_02_CLE_NO_15,Punt,Field Goal
+2016_07_BAL_NYJ_4,Punt,Field Goal
+2021_13_WAS_LV_12,Punt,Field Goal
+2020_02_BUF_MIA_12,Punt,Field Goal
+2018_06_JAX_DAL_2,Punt,Field Goal
+2017_08_ATL_NYJ_17,Punt,Field Goal
+2019_16_PIT_NYJ_21,Punt,Field Goal
+2018_04_PHI_TEN_21,Punt,Field Goal
+2017_16_NYG_ARI_9,Punt,Field Goal
+2018_01_ATL_PHI_3,Punt,Field Goal
+2021_06_KC_WAS_6,Punt,Field Goal
+2019_05_CLE_SF_23,Punt,Field Goal
+2017_12_CLE_CIN_8,Punt,Field Goal
+2019_08_GB_KC_4,Punt,Field Goal
+2019_10_MIA_IND_19,Punt,Field Goal
+2020_14_ARI_NYG_4,Punt,Field Goal
+2018_15_PHI_LA_23,Punt,Field Goal
+2018_05_NYG_CAR_3,Punt,Field Goal
+2021_02_TEN_SEA_25,Punt,Field Goal
+2019_09_WAS_BUF_12,Punt,Field Goal
+2016_14_ARI_MIA_15,Punt,Field Goal
+2019_01_SF_TB_2,Punt,Field Goal
+2020_03_CAR_LAC_3,Punt,Field Goal
+2020_10_LAC_MIA_18,Punt,Field Goal
+2018_03_BUF_MIN_9,Punt,Field Goal
+2016_15_TEN_KC_12,Punt,Field Goal
+2021_15_HOU_JAX_11,Punt,Field Goal
+2017_11_BAL_GB_10,Punt,Field Goal
+2016_03_ARI_BUF_19,Punt,Field Goal
+2019_15_MIN_LAC_15,Punt,Field Goal
+2017_13_DEN_MIA_15,Punt,Field Goal
+2019_13_PHI_MIA_4,Punt,Field Goal
+2021_03_CHI_CLE_12,Punt,Field Goal
+2018_16_BAL_LAC_8,Punt,Field Goal
+2021_06_MIA_JAX_7,Punt,Field Goal
+2016_15_NE_DEN_2,Punt,Field Goal
+2016_05_HOU_MIN_6,Punt,Field Goal
+2019_06_DET_GB_12,Punt,Field Goal
+2021_05_NE_HOU_12,Punt,Field Goal
+2020_05_LAC_NO_6,Punt,Field Goal
+2021_01_LAC_WAS_4,Punt,Field Goal
+2017_10_CLE_DET_2,Punt,Field Goal
+2020_10_CIN_PIT_2,Punt,Field Goal
+2021_14_NO_NYJ_2,Punt,Field Goal
+2018_02_DET_SF_11,Punt,Field Goal
+2018_13_CHI_NYG_21,Punt,Field Goal
+2016_01_TB_ATL_21,Punt,Field Goal
+2020_01_NYJ_BUF_14,Punt,Field Goal
+2021_03_CAR_HOU_15,Punt,Field Goal
+2018_07_NE_CHI_4,Punt,Field Goal
+2021_06_SEA_PIT_17,Punt,Field Goal
+2021_05_BUF_KC_8,Punt,Field Goal
+2017_08_LAC_NE_19,Punt,Field Goal
+2018_05_DAL_HOU_18,Punt,Field Goal
+2020_10_BUF_ARI_4,Punt,Field Goal
+2021_15_TEN_PIT_6,Punt,Field Goal
+2017_17_WAS_NYG_21,Punt,Field Goal
+2016_08_PHI_DAL_5,Punt,Field Goal
+2016_10_MIN_WAS_14,Punt,Field Goal
+2019_12_IND_HOU_4,Punt,Field Goal
+2016_04_MIA_CIN_17,Punt,Field Goal
+2017_02_ARI_IND_22,Punt,Field Goal
+2020_16_DEN_LAC_18,Punt,Field Goal
+2017_10_LAC_JAX_29,Punt,Field Goal
+2016_08_DET_HOU_19,Punt,Field Goal
+2017_11_DET_CHI_17,Punt,Field Goal
+2019_07_BAL_SEA_13,Punt,Field Goal
+2016_09_DEN_OAK_2,Punt,Field Goal
+2021_14_ATL_CAR_8,Punt,Field Goal
+2016_14_MIN_JAX_3,Punt,Field Goal
+2017_15_NYJ_NO_14,Punt,Field Goal
+2019_11_HOU_BAL_13,Punt,Field Goal
+2016_10_CIN_NYG_15,Punt,Field Goal
+2020_01_IND_JAX_12,Punt,Field Goal
+2016_16_IND_OAK_21,Punt,Field Goal
+2016_15_PIT_CIN_12,Punt,Field Goal
+2020_16_DEN_LAC_12,Punt,Field Goal
+2016_09_DAL_CLE_5,Punt,Field Goal
+2016_13_DET_NO_2,Punt,Field Goal
+2021_17_DET_SEA_5,Punt,Field Goal
+2016_02_PHI_CHI_2,Punt,Field Goal
+2017_13_NE_BUF_6,Punt,Field Goal
+2016_06_PIT_MIA_2,Punt,Field Goal
+2018_03_DAL_SEA_16,Punt,Field Goal
+2018_10_BUF_NYJ_7,Punt,Field Goal
+2016_09_DEN_OAK_4,Punt,Field Goal
+2017_13_CLE_LAC_6,Punt,Field Goal
+2017_01_OAK_TEN_11,Punt,Field Goal
+2021_05_NE_HOU_14,Punt,Field Goal
+2018_14_NE_MIA_19,Punt,Field Goal
+2016_08_OAK_TB_22,Punt,Field Goal
+2016_13_BUF_OAK_7,Punt,Field Goal
+2016_13_TB_SD_8,Punt,Field Goal
+2019_02_JAX_HOU_9,Punt,Field Goal
+2018_13_WAS_PHI_4,Punt,Field Goal
+2021_12_CHI_DET_13,Punt,Field Goal
+2018_15_OAK_CIN_19,Punt,Field Goal
+2018_11_HOU_WAS_21,Punt,Field Goal
+2021_12_CLE_BAL_6,Punt,Field Goal
+2019_12_GB_SF_6,Punt,Field Goal
+2021_04_CLE_MIN_18,Punt,Field Goal
+2016_11_NO_CAR_10,Punt,Field Goal
+2021_01_LAC_WAS_6,Punt,Field Goal
+2017_09_WAS_SEA_10,Punt,Field Goal
+2018_11_DAL_ATL_7,Punt,Field Goal
+2017_12_LAC_DAL_6,Punt,Field Goal
+2018_15_OAK_CIN_23,Punt,Field Goal
+2019_01_WAS_PHI_11,Punt,Field Goal
+2017_08_MIA_BAL_18,Punt,Field Goal
+2019_03_LA_CLE_8,Punt,Field Goal
+2020_15_JAX_BAL_11,Punt,Field Goal
+2021_03_CHI_CLE_15,Punt,Field Goal
+2020_14_NYJ_SEA_21,Punt,Field Goal
+2021_13_MIN_DET_15,Punt,Field Goal
+2017_11_JAX_CLE_8,Punt,Field Goal
+2018_10_JAX_IND_18,Punt,Field Goal
+2021_01_MIA_NE_5,Punt,Field Goal
+2017_01_CAR_SF_17,Punt,Field Goal
+2020_05_TB_CHI_20,Punt,Field Goal
+2017_02_ARI_IND_18,Punt,Field Goal
+2019_08_CLE_NE_3,Punt,Field Goal
+2017_09_DEN_PHI_4,Punt,Field Goal
+2018_02_BAL_CIN_16,Punt,Field Goal
+2016_07_SD_ATL_15,Punt,Field Goal
+2018_05_MIA_CIN_11,Punt,Field Goal
+2018_03_TEN_JAX_7,Punt,Field Goal
+2017_13_PIT_CIN_19,Punt,Field Goal
+2018_02_DET_SF_19,Punt,Field Goal
+2019_10_MIA_IND_17,Punt,Field Goal
+2020_11_NE_HOU_6,Punt,Field Goal
+2018_16_MIN_DET_9,Punt,Field Goal
+2021_16_CHI_SEA_9,Punt,Field Goal
+2020_13_DAL_BAL_13,Punt,Field Goal
+2018_01_DAL_CAR_10,Punt,Field Goal
+2020_16_NYG_BAL_5,Punt,Field Goal
+2017_03_ATL_DET_3,Punt,Field Goal
+2020_03_NYJ_IND_9,Punt,Field Goal
+2019_16_KC_CHI_11,Punt,Field Goal
+2020_07_DAL_WAS_17,Punt,Field Goal
+2016_13_IND_NYJ_16,Punt,Field Goal
+2018_06_IND_NYJ_15,Punt,Field Goal
+2016_05_BUF_LA_7,Punt,Field Goal
+2017_13_IND_JAX_4,Punt,Field Goal
+2020_12_WAS_DAL_2,Punt,Field Goal
+2021_11_CIN_LV_6,Punt,Field Goal
+2016_14_DEN_TEN_19,Punt,Field Goal
+2017_02_CLE_BAL_12,Punt,Field Goal
+2016_03_LA_TB_6,Punt,Field Goal
+2020_09_HOU_JAX_8,Punt,Field Goal
+2016_13_DET_NO_16,Punt,Field Goal
+2021_08_DAL_MIN_21,Punt,Field Goal
+2017_08_DAL_WAS_18,Punt,Field Goal
+2017_02_BUF_CAR_17,Punt,Field Goal
+2021_07_HOU_ARI_11,Punt,Field Goal
+2017_12_SEA_SF_3,Punt,Field Goal
+2021_10_BAL_MIA_20,Punt,Field Goal
+2021_08_LA_HOU_5,Punt,Field Goal
+2019_09_MIN_KC_11,Punt,Field Goal
+2017_14_NO_ATL_18,Punt,Field Goal
+2020_11_ATL_NO_9,Punt,Field Goal
+2021_12_LA_GB_25,Punt,Field Goal
+2021_12_CHI_DET_11,Punt,Field Goal
+2018_03_NO_ATL_13,Punt,Field Goal
+2017_13_LA_ARI_22,Punt,Field Goal
+2021_01_LAC_WAS_9,Punt,Field Goal
+2016_09_NO_SF_16,Punt,Field Goal
+2018_11_PIT_JAX_7,Punt,Field Goal
+2020_09_DET_MIN_17,Punt,Field Goal
+2020_15_JAX_BAL_7,Punt,Field Goal
+2017_10_DAL_ATL_15,Punt,Field Goal
+2017_02_WAS_LA_9,Punt,Field Goal
+2016_15_JAX_HOU_22,Punt,Field Goal
+2020_07_SEA_ARI_3,Punt,Field Goal
+2021_14_PIT_MIN_5,Punt,Field Goal
+2019_07_JAX_CIN_9,Punt,Field Goal
+2020_15_PIT_CIN_8,Punt,Field Goal
+2020_05_LAC_NO_22,Punt,Punt
+2019_05_BAL_PIT_11,Punt,Punt
+2020_06_LA_SF_16,Punt,Punt
+2019_08_GB_KC_3,Punt,Punt
+2019_10_DET_CHI_19,Punt,Punt
+2017_15_CIN_MIN_13,Punt,Punt
+2018_13_DEN_CIN_21,Punt,Punt
+2017_04_WAS_KC_5,Punt,Punt
+2016_02_ATL_OAK_2,Punt,Punt
+2017_16_ATL_NO_15,Punt,Punt
+2021_07_DEN_CLE_14,Punt,Punt
+2019_15_SEA_CAR_9,Punt,Punt
+2017_05_LAC_NYG_13,Punt,Punt
+2018_04_TB_CHI_17,Punt,Punt
+2016_09_PHI_NYG_13,Punt,Punt
+2020_01_TEN_DEN_2,Punt,Punt
+2017_03_DEN_BUF_9,Punt,Punt
+2019_10_SEA_SF_8,Punt,Punt
+2017_04_SF_ARI_22,Punt,Punt
+2021_12_LV_DAL_19,Punt,Punt
+2017_08_MIA_BAL_20,Punt,Punt
+2016_08_OAK_TB_7,Punt,Punt
+2016_03_DEN_CIN_8,Punt,Punt
+2017_02_DET_NYG_9,Punt,Punt
+2020_11_LA_TB_15,Punt,Punt
+2017_16_CLE_CHI_3,Punt,Punt
+2021_04_BAL_DEN_21,Punt,Punt
+2020_06_NYJ_MIA_23,Punt,Punt
+2018_07_BUF_IND_14,Punt,Punt
+2020_14_MIN_TB_2,Punt,Punt
+2019_16_DET_DEN_17,Punt,Punt
+2021_15_NO_TB_7,Punt,Punt
+2017_02_ARI_IND_13,Punt,Punt
+2017_13_NYG_OAK_16,Punt,Punt
+2016_02_CIN_PIT_8,Punt,Punt
+2021_06_MIA_JAX_9,Punt,Punt
+2020_02_CAR_TB_11,Punt,Punt
+2018_01_ATL_PHI_21,Punt,Punt
+2021_11_WAS_CAR_8,Punt,Punt
+2017_17_CHI_MIN_15,Punt,Punt
+2019_14_CAR_ATL_2,Punt,Punt
+2016_02_NO_NYG_20,Punt,Punt
+2020_15_SEA_WAS_4,Punt,Punt
+2021_10_ATL_DAL_13,Punt,Punt
+2020_08_LA_MIA_6,Punt,Punt
+2021_17_TB_NYJ_6,Punt,Punt
+2020_06_LA_SF_18,Punt,Punt
+2017_04_PIT_BAL_18,Punt,Punt
+2021_07_CAR_NYG_3,Punt,Punt
+2016_16_TEN_JAX_18,Punt,Punt
+2019_12_DET_WAS_11,Punt,Punt
+2017_06_LAC_OAK_7,Punt,Punt
+2017_07_JAX_IND_17,Punt,Punt
+2021_15_SEA_LA_13,Punt,Punt
+2017_12_TEN_IND_17,Punt,Punt
+2019_16_ARI_SEA_19,Punt,Punt
+2017_06_CHI_BAL_3,Punt,Punt
+2020_10_LAC_MIA_9,Punt,Punt
+2018_16_MIN_DET_19,Punt,Punt
+2020_12_SF_LA_9,Punt,Punt
+2017_02_MIN_PIT_11,Punt,Punt
+2020_11_NYJ_LAC_11,Punt,Punt
+2021_12_TEN_NE_15,Punt,Punt
+2021_09_CLE_CIN_22,Punt,Punt
+2019_07_KC_DEN_15,Punt,Punt
+2020_17_MIN_DET_3,Punt,Punt
+2018_13_SF_SEA_16,Punt,Punt
+2018_07_TEN_LAC_12,Punt,Punt
+2020_02_SF_NYJ_3,Punt,Punt
+2016_03_LA_TB_5,Punt,Punt
+2017_14_GB_CLE_5,Punt,Punt
+2020_14_NO_PHI_6,Punt,Punt
+2016_08_MIN_CHI_16,Punt,Punt
+2020_12_NO_DEN_2,Punt,Punt
+2016_09_JAX_KC_2,Punt,Punt
+2016_05_TEN_MIA_17,Punt,Punt
+2020_16_LA_SEA_5,Punt,Punt
+2016_14_SD_CAR_5,Punt,Punt
+2017_02_HOU_CIN_20,Punt,Punt
+2016_16_DET_DAL_19,Punt,Punt
+2019_17_NYJ_BUF_18,Punt,Punt
+2016_06_CLE_TEN_6,Punt,Punt
+2020_16_BUF_NE_17,Punt,Punt
+2018_01_SEA_DEN_2,Punt,Punt
+2018_13_SF_SEA_10,Punt,Punt
+2018_01_WAS_ARI_10,Punt,Punt
+2017_17_DAL_PHI_4,Punt,Punt
+2017_17_NO_TB_6,Punt,Punt
+2021_10_JAX_IND_10,Punt,Punt
+2017_14_NE_MIA_22,Punt,Punt
+2020_08_TB_NYG_7,Punt,Punt
+2016_02_TB_ARI_9,Punt,Punt
+2021_03_ATL_NYG_4,Punt,Punt
+2019_01_SF_TB_4,Punt,Punt
+2016_07_SEA_ARI_15,Punt,Punt
+2016_09_CAR_LA_10,Punt,Punt
+2021_09_GB_KC_14,Punt,Punt
+2016_11_BAL_DAL_3,Punt,Punt
+2016_15_OAK_SD_16,Punt,Punt
+2021_15_NE_IND_2,Punt,Punt
+2020_15_NYJ_LA_12,Punt,Punt
+2019_03_NYJ_NE_12,Punt,Punt
+2019_15_JAX_OAK_6,Punt,Punt
+2017_05_TEN_MIA_27,Punt,Punt
+2019_06_PIT_LAC_2,Punt,Punt
+2017_10_NYJ_TB_3,Punt,Punt
+2017_05_SF_IND_6,Punt,Punt
+2016_17_CLE_PIT_6,Punt,Punt
+2018_03_TEN_JAX_15,Punt,Punt
+2017_17_NYJ_NE_16,Punt,Punt
+2019_05_DEN_LAC_20,Punt,Punt
+2018_02_PHI_TB_19,Punt,Punt
+2017_07_CAR_CHI_4,Punt,Punt
+2016_07_OAK_JAX_16,Punt,Punt
+2019_06_TEN_DEN_5,Punt,Punt
+2020_02_LA_PHI_9,Punt,Punt
+2018_10_JAX_IND_3,Punt,Punt
+2016_04_DET_CHI_7,Punt,Punt
+2016_04_SEA_NYJ_10,Punt,Punt
+2017_01_KC_NE_23,Punt,Punt
+2017_03_KC_LAC_12,Punt,Punt
+2016_12_SF_MIA_14,Punt,Punt
+2018_17_CHI_MIN_7,Punt,Punt
+2016_05_NYG_GB_15,Punt,Punt
+2017_16_CLE_CHI_8,Punt,Punt
+2018_13_ARI_GB_5,Punt,Punt
+2017_17_CAR_ATL_4,Punt,Punt
+2021_04_IND_MIA_4,Punt,Punt
+2021_18_SF_LA_14,Punt,Punt
+2016_07_NYG_LA_13,Punt,Punt
+2018_01_PIT_CLE_20,Punt,Punt
+2016_12_WAS_DAL_11,Punt,Punt
+2017_04_CIN_CLE_5,Punt,Punt
+2019_17_GB_DET_2,Punt,Punt
+2016_09_PIT_BAL_8,Punt,Punt
+2018_11_CAR_DET_19,Punt,Punt
+2016_01_TB_ATL_19,Punt,Punt
+2019_11_PIT_CLE_22,Punt,Punt
+2020_16_PHI_DAL_16,Punt,Punt
+2018_02_SEA_CHI_15,Punt,Punt
+2017_15_BAL_CLE_15,Punt,Punt
+2021_10_CLE_NE_11,Punt,Punt
+2020_14_ARI_NYG_22,Punt,Punt
+2016_12_SEA_TB_18,Punt,Punt
+2017_06_MIA_ATL_5,Punt,Punt
+2017_15_GB_CAR_7,Punt,Punt
+2018_06_BAL_TEN_17,Punt,Punt
+2019_09_GB_LAC_6,Punt,Punt
+2018_03_GB_WAS_4,Punt,Punt
+2017_12_JAX_ARI_4,Punt,Punt
+2019_02_JAX_HOU_15,Punt,Punt
+2021_08_PIT_CLE_7,Punt,Punt
+2017_17_DAL_PHI_9,Punt,Punt
+2016_04_OAK_BAL_6,Punt,Punt
+2020_09_DEN_ATL_15,Punt,Punt
+2020_05_LA_WAS_25,Punt,Punt
+2016_12_MIN_DET_4,Punt,Punt
+2019_02_PHI_ATL_3,Punt,Punt
+2017_01_PIT_CLE_6,Punt,Punt
+2017_02_SF_SEA_7,Punt,Punt
+2019_03_DET_PHI_6,Punt,Punt
+2016_10_LA_NYJ_7,Punt,Punt
+2021_02_BUF_MIA_14,Punt,Punt
+2017_08_MIA_BAL_3,Punt,Punt
+2019_06_TEN_DEN_7,Punt,Punt
+2018_04_PHI_TEN_5,Punt,Punt
+2019_03_TEN_JAX_6,Punt,Punt
+2021_06_LV_DEN_7,Punt,Punt
+2020_13_JAX_MIN_11,Punt,Punt
+2018_13_DEN_CIN_22,Punt,Punt
+2017_08_MIN_CLE_6,Punt,Punt
+2019_12_DET_WAS_16,Punt,Punt
+2019_07_JAX_CIN_11,Punt,Punt
+2018_08_MIA_HOU_8,Punt,Punt
+2020_16_IND_PIT_4,Punt,Punt
+2018_10_DAL_PHI_2,Punt,Punt
+2018_14_MIN_SEA_11,Punt,Punt
+2019_08_DEN_IND_16,Punt,Punt
+2018_16_BUF_NE_2,Punt,Punt
+2018_02_OAK_DEN_6,Punt,Punt
+2018_05_BAL_CLE_20,Punt,Punt
+2016_12_NYG_CLE_17,Punt,Punt
+2021_12_LA_GB_24,Punt,Punt
+2016_07_HOU_DEN_4,Punt,Punt
+2016_15_CAR_WAS_12,Punt,Punt
+2017_08_MIA_BAL_2,Punt,Punt
+2016_11_BUF_CIN_20,Punt,Punt
+2016_13_DAL_MIN_10,Punt,Punt
+2016_09_PIT_BAL_11,Punt,Punt
+2018_14_DET_ARI_5,Punt,Punt
+2017_12_HOU_BAL_5,Punt,Punt
+2021_17_HOU_SF_7,Punt,Punt
+2018_01_JAX_NYG_16,Punt,Punt
+2021_14_JAX_TEN_7,Punt,Punt
+2021_14_BAL_CLE_21,Punt,Punt
+2019_16_LA_SF_5,Punt,Punt
+2017_01_BAL_CIN_17,Punt,Punt
+2016_01_TB_ATL_20,Punt,Punt
+2019_11_KC_LAC_19,Punt,Punt
+2021_11_CIN_LV_9,Punt,Punt
+2018_12_CHI_DET_13,Punt,Punt
+2019_15_LA_DAL_2,Punt,Punt
+2017_12_BUF_KC_20,Punt,Punt
+2020_17_DAL_NYG_10,Punt,Punt
+2016_06_JAX_CHI_7,Punt,Punt
+2020_05_MIN_SEA_10,Punt,Punt
+2018_14_MIN_SEA_2,Punt,Punt
+2018_17_CLE_BAL_18,Punt,Punt
+2020_07_NYG_PHI_14,Punt,Punt
+2019_11_NYJ_WAS_3,Punt,Punt
+2016_04_LA_ARI_20,Punt,Punt
+2017_13_DET_BAL_2,Punt,Punt
+2016_10_LA_NYJ_8,Punt,Punt
+2021_06_SEA_PIT_25,Punt,Punt
+2020_14_GB_DET_6,Punt,Punt
+2021_15_ARI_DET_7,Punt,Punt
+2016_04_KC_PIT_2,Punt,Punt
+2018_04_SF_LAC_3,Punt,Punt
+2017_12_DEN_OAK_2,Punt,Punt
+2017_10_CIN_TEN_5,Punt,Punt
+2016_17_NE_MIA_15,Punt,Punt
+2020_05_TB_CHI_3,Punt,Punt
+2019_14_LAC_JAX_18,Punt,Punt
+2021_12_SEA_WAS_20,Punt,Punt
+2020_03_NYJ_IND_14,Punt,Punt
+2018_16_DEN_OAK_12,Punt,Punt
+2016_17_CLE_PIT_15,Punt,Punt
+2016_12_NYG_CLE_2,Punt,Punt
+2019_17_PIT_BAL_18,Punt,Punt
+2019_13_TEN_IND_11,Punt,Punt
+2016_05_TB_CAR_4,Punt,Punt
+2019_10_KC_TEN_5,Punt,Punt
+2020_05_BUF_TEN_9,Punt,Punt
+2018_02_HOU_TEN_13,Punt,Punt
+2017_13_HOU_TEN_5,Punt,Punt
+2020_04_IND_CHI_13,Punt,Punt
+2016_10_MIA_SD_3,Punt,Punt
+2020_13_WAS_PIT_2,Punt,Punt
+2021_02_BUF_MIA_13,Punt,Punt
+2020_04_NO_DET_16,Punt,Punt
+2021_17_JAX_NE_12,Punt,Punt
+2019_14_KC_NE_11,Punt,Punt
+2020_10_PHI_NYG_14,Punt,Punt
+2021_15_CIN_DEN_10,Punt,Punt
+2019_15_CLE_ARI_4,Punt,Punt
+2017_03_MIA_NYJ_9,Punt,Punt
+2018_14_PIT_OAK_3,Punt,Punt
+2021_01_MIN_CIN_23,Punt,Punt
+2016_11_PHI_SEA_2,Punt,Punt
+2017_07_CAR_CHI_15,Punt,Punt
+2018_11_TEN_IND_3,Punt,Punt
+2020_04_BUF_LV_10,Punt,Punt
+2017_03_CLE_IND_5,Punt,Punt
+2018_03_DEN_BAL_7,Punt,Punt
+2016_15_GB_CHI_3,Punt,Punt
+2017_15_HOU_JAX_26,Punt,Punt
+2018_03_GB_WAS_3,Punt,Punt
+2020_12_SF_LA_13,Punt,Punt
+2018_06_ARI_MIN_14,Punt,Punt
+2019_09_CHI_PHI_11,Punt,Punt
+2020_11_PHI_CLE_8,Punt,Punt
+2017_15_LAC_KC_2,Punt,Punt
+2020_16_ATL_KC_12,Punt,Punt
+2021_17_LV_IND_8,Punt,Punt
+2017_03_DEN_BUF_3,Punt,Punt
+2021_10_BUF_NYJ_7,Punt,Punt
+2017_03_DAL_ARI_14,Punt,Punt
+2019_12_PIT_CIN_24,Punt,Punt
+2020_05_JAX_HOU_2,Punt,Punt
+2018_10_ATL_CLE_2,Punt,Punt
+2020_02_DET_GB_6,Punt,Punt
+2020_03_HOU_PIT_16,Punt,Punt
+2016_16_CIN_HOU_2,Punt,Punt
+2021_13_IND_HOU_9,Punt,Punt
+2018_13_MIN_NE_12,Punt,Punt
+2018_05_TEN_BUF_11,Punt,Punt
+2019_09_CLE_DEN_5,Punt,Punt
+2021_02_KC_BAL_7,Punt,Punt
+2018_14_BAL_KC_14,Punt,Punt
+2018_06_BUF_HOU_5,Punt,Punt
+2017_09_OAK_MIA_3,Punt,Punt
+2016_13_IND_NYJ_6,Punt,Punt
+2018_15_NE_PIT_4,Punt,Punt
+2018_03_GB_WAS_19,Punt,Punt
+2016_01_SD_KC_8,Punt,Punt
+2020_11_PHI_CLE_6,Punt,Punt
+2017_12_JAX_ARI_16,Punt,Punt
+2020_13_WAS_PIT_4,Punt,Punt
+2016_06_CAR_NO_3,Punt,Punt
+2017_08_OAK_BUF_3,Punt,Punt
+2017_07_TEN_CLE_3,Punt,Punt
+2021_17_CAR_NO_8,Punt,Punt
+2019_06_CAR_TB_14,Punt,Punt
+2019_14_NYG_PHI_10,Punt,Punt
+2016_07_BUF_MIA_17,Punt,Punt
+2020_08_NO_CHI_24,Punt,Punt
+2021_05_SF_ARI_11,Punt,Punt
+2016_14_MIN_JAX_5,Punt,Punt
+2016_17_JAX_IND_6,Punt,Punt
+2019_02_TB_CAR_7,Punt,Punt
+2016_14_SEA_GB_5,Punt,Punt
+2018_07_BUF_IND_3,Punt,Punt
+2019_15_CLE_ARI_13,Punt,Punt
+2021_13_NE_BUF_3,Punt,Punt
+2017_01_BAL_CIN_19,Punt,Punt
+2018_11_HOU_WAS_8,Punt,Punt
+2021_03_NYJ_DEN_2,Punt,Punt
+2020_08_NE_BUF_4,Punt,Punt
+2016_15_CLE_BUF_6,Punt,Punt
+2021_01_JAX_HOU_17,Punt,Punt
+2019_12_JAX_TEN_9,Punt,Punt
+2019_16_NO_TEN_11,Punt,Punt
+2017_17_WAS_NYG_26,Punt,Punt
+2016_15_CAR_WAS_23,Punt,Punt
+2016_05_ATL_DEN_12,Punt,Punt
+2017_04_JAX_NYJ_25,Punt,Punt
+2017_14_NE_MIA_17,Punt,Punt
+2017_07_NYJ_MIA_15,Punt,Punt
+2018_14_BAL_KC_2,Punt,Punt
+2016_03_DET_GB_16,Punt,Punt
+2018_01_TB_NO_14,Punt,Punt
+2018_04_HOU_IND_10,Punt,Punt
+2018_01_SEA_DEN_26,Punt,Punt
+2018_01_PIT_CLE_18,Punt,Punt
+2017_05_MIN_CHI_2,Punt,Punt
+2018_17_LAC_DEN_15,Punt,Punt
+2016_13_WAS_ARI_5,Punt,Punt
+2020_12_NYG_CIN_5,Punt,Punt
+2019_03_OAK_MIN_4,Punt,Punt
+2017_09_BUF_NYJ_2,Punt,Punt
+2021_05_CHI_LV_15,Punt,Punt
+2018_11_KC_LA_24,Punt,Punt
+2020_16_ATL_KC_5,Punt,Punt
+2019_04_DAL_NO_16,Punt,Punt
+2017_16_OAK_PHI_26,Punt,Punt
+2016_02_TB_ARI_24,Punt,Punt
+2021_04_BAL_DEN_4,Punt,Punt
+2020_01_LAC_CIN_2,Punt,Punt
+2016_12_JAX_BUF_6,Punt,Punt
+2019_02_BUF_NYG_15,Punt,Punt
+2018_13_DEN_CIN_3,Punt,Punt
+2017_02_SF_SEA_16,Punt,Punt
+2016_17_NYG_WAS_8,Punt,Punt
+2017_17_CAR_ATL_3,Punt,Punt
+2017_03_SEA_TEN_2,Punt,Punt
+2019_11_NE_PHI_23,Punt,Punt
+2019_10_BUF_CLE_17,Punt,Punt
+2020_05_ARI_NYJ_16,Punt,Punt
+2021_12_NYJ_HOU_17,Punt,Punt
+2021_05_LA_SEA_2,Punt,Punt
+2019_07_KC_DEN_14,Punt,Punt
+2016_01_NYG_DAL_12,Punt,Punt
+2019_14_NYG_PHI_16,Punt,Punt
+2018_13_NYJ_TEN_13,Punt,Punt
+2016_10_KC_CAR_4,Punt,Punt
+2020_16_CLE_NYJ_11,Punt,Punt
+2017_04_NYG_TB_3,Punt,Punt
+2016_06_NYJ_ARI_6,Punt,Punt
+2019_04_JAX_DEN_20,Punt,Punt
+2018_07_DET_MIA_4,Punt,Punt
+2020_15_NE_MIA_2,Punt,Punt
+2016_02_SEA_LA_6,Punt,Punt
+2018_01_DAL_CAR_4,Punt,Punt
+2016_08_DET_HOU_14,Punt,Punt
+2017_03_PIT_CHI_22,Punt,Punt
+2017_01_SEA_GB_5,Punt,Punt
+2021_12_PIT_CIN_19,Punt,Punt
+2021_08_TB_NO_6,Punt,Punt
+2017_13_DEN_MIA_23,Punt,Punt
+2021_09_HOU_MIA_23,Punt,Punt
+2017_04_PIT_BAL_17,Punt,Punt
+2018_01_NYJ_DET_10,Punt,Punt
+2020_10_HOU_CLE_10,Punt,Punt
+2018_13_BUF_MIA_5,Punt,Punt
+2021_13_WAS_LV_4,Punt,Punt
+2017_10_HOU_LA_6,Punt,Punt
+2016_15_LA_SEA_12,Punt,Punt
+2021_05_NO_WAS_16,Punt,Punt
+2021_17_KC_CIN_15,Punt,Punt
+2018_07_HOU_JAX_6,Punt,Punt
+2020_17_NYJ_NE_7,Punt,Punt
+2019_14_CAR_ATL_6,Punt,Punt
+2017_09_DEN_PHI_17,Punt,Punt
+2021_02_LV_PIT_14,Punt,Punt
+2019_04_OAK_IND_18,Punt,Punt
+2017_04_SF_ARI_20,Punt,Punt
+2016_07_MIN_PHI_2,Punt,Punt
+2018_11_CAR_DET_7,Punt,Punt
+2017_03_OAK_WAS_6,Punt,Punt
+2020_01_SEA_ATL_9,Punt,Punt
+2017_06_LA_JAX_13,Punt,Punt
+2016_14_OAK_KC_18,Punt,Punt
+2020_15_PHI_ARI_18,Punt,Punt
+2018_06_CHI_MIA_6,Punt,Punt
+2020_16_MIA_LV_17,Punt,Punt
+2016_15_CAR_WAS_19,Punt,Punt
+2017_16_LAC_NYJ_6,Punt,Punt
+2017_05_TEN_MIA_2,Punt,Punt
+2018_16_BUF_NE_23,Punt,Punt
+2019_03_CIN_BUF_3,Punt,Punt
+2016_13_MIA_BAL_12,Punt,Punt
+2019_12_GB_SF_11,Punt,Punt
+2020_15_SF_DAL_18,Punt,Punt
+2018_03_BUF_MIN_17,Punt,Punt
+2016_08_OAK_TB_25,Punt,Punt
+2020_12_MIA_NYJ_13,Punt,Punt
+2017_02_MIN_PIT_9,Punt,Punt
+2019_15_NYJ_BAL_13,Punt,Punt
+2017_12_BUF_KC_5,Punt,Punt
+2021_04_TEN_NYJ_12,Punt,Punt
+2021_06_SEA_PIT_6,Punt,Punt
+2021_05_CHI_LV_3,Punt,Punt
+2016_13_DEN_JAX_19,Punt,Punt
+2018_09_DET_MIN_3,Punt,Punt
+2018_01_BUF_BAL_3,Punt,Punt
+2021_09_HOU_MIA_10,Punt,Punt
+2019_08_OAK_HOU_8,Punt,Punt
+2018_12_OAK_BAL_17,Punt,Punt
+2018_01_BUF_BAL_25,Punt,Punt
+2017_07_CAR_CHI_16,Punt,Punt
+2021_05_CLE_LAC_14,Punt,Punt
+2017_14_PHI_LA_10,Punt,Punt
+2021_12_CHI_DET_4,Punt,Punt
+2017_07_DAL_SF_7,Punt,Punt
+2019_16_DAL_PHI_10,Punt,Punt
+2018_15_WAS_JAX_8,Punt,Punt
+2019_16_OAK_LAC_7,Punt,Punt
+2021_13_DAL_NO_2,Punt,Punt
+2017_03_KC_LAC_17,Punt,Punt
+2019_01_HOU_NO_16,Punt,Punt
+2016_01_LA_SF_12,Punt,Punt
+2017_15_ARI_WAS_5,Punt,Punt
+2019_08_OAK_HOU_11,Punt,Punt
+2019_17_TEN_HOU_6,Punt,Punt
+2020_10_PHI_NYG_8,Punt,Punt
+2016_04_DEN_TB_18,Punt,Punt
+2019_12_NYG_CHI_2,Punt,Punt
+2016_10_HOU_JAX_11,Punt,Punt
+2018_15_OAK_CIN_14,Punt,Punt
+2017_11_WAS_NO_11,Punt,Punt
+2016_05_HOU_MIN_5,Punt,Punt
+2016_10_LA_NYJ_6,Punt,Punt
+2020_10_PHI_NYG_16,Punt,Punt
+2019_16_ARI_SEA_10,Punt,Punt
+2018_17_CAR_NO_10,Punt,Punt
+2021_14_NYG_LAC_2,Punt,Punt
+2020_02_NE_SEA_16,Punt,Punt
+2016_12_PIT_IND_8,Punt,Punt
+2019_03_NO_SEA_3,Punt,Punt
+2020_01_CHI_DET_7,Punt,Punt
+2017_03_CIN_GB_18,Punt,Punt
+2021_11_DAL_KC_8,Punt,Punt
+2021_12_TB_IND_5,Punt,Punt
+2019_02_CLE_NYJ_14,Punt,Punt
+2019_05_IND_KC_14,Punt,Punt
+2020_17_ARI_LA_12,Punt,Punt
+2021_07_CAR_NYG_11,Punt,Punt
+2021_18_NYJ_BUF_22,Punt,Punt
+2016_03_MIN_CAR_7,Punt,Punt
+2017_10_LAC_JAX_8,Punt,Punt
+2019_11_NE_PHI_3,Punt,Punt
+2016_04_TEN_HOU_12,Punt,Punt
+2020_06_LA_SF_13,Punt,Punt
+2018_09_DET_MIN_15,Punt,Punt
+2016_15_DET_NYG_14,Punt,Punt
+2017_02_SF_SEA_15,Punt,Punt
+2016_07_TB_SF_5,Punt,Punt
+2019_10_BUF_CLE_16,Punt,Punt
+2016_17_GB_DET_3,Punt,Punt
+2018_09_ATL_WAS_15,Punt,Punt
+2016_03_SF_SEA_15,Punt,Punt
+2016_08_SD_DEN_7,Punt,Punt
+2017_05_MIN_CHI_21,Punt,Punt
+2017_13_NE_BUF_14,Punt,Punt
+2016_12_CIN_BAL_19,Punt,Punt
+2019_05_BUF_TEN_7,Punt,Punt
+2017_13_PIT_CIN_6,Punt,Punt
+2016_12_LA_NO_3,Punt,Punt
+2018_02_LAC_BUF_2,Punt,Punt
+2021_14_NO_NYJ_9,Punt,Punt
+2018_14_MIN_SEA_3,Punt,Punt
+2021_03_BAL_DET_7,Punt,Punt
+2020_14_NE_LA_17,Punt,Punt
+2017_03_CIN_GB_9,Punt,Punt
+2016_07_SEA_ARI_3,Punt,Punt
+2016_14_SEA_GB_11,Punt,Punt
+2016_10_CLE_BAL_22,Punt,Punt
+2017_03_CLE_IND_23,Punt,Punt
+2017_11_PHI_DAL_10,Punt,Punt
+2020_05_LAC_NO_9,Punt,Punt
+2017_06_PIT_KC_13,Punt,Punt
+2017_16_LAC_NYJ_2,Punt,Punt
+2021_11_ARI_SEA_12,Punt,Punt
+2021_03_NYJ_DEN_7,Punt,Punt
+2021_05_PHI_CAR_9,Punt,Punt
+2021_04_LV_LAC_7,Punt,Punt
+2020_01_GB_MIN_12,Punt,Punt
+2019_14_SEA_LA_15,Punt,Punt
+2020_12_TEN_IND_15,Punt,Punt
+2016_05_NE_CLE_17,Punt,Punt
+2019_13_LA_ARI_7,Punt,Punt
+2019_04_DAL_NO_15,Punt,Punt
+2021_13_IND_HOU_7,Punt,Punt
+2016_15_SF_ATL_20,Punt,Punt
+2020_14_PIT_BUF_21,Punt,Punt
+2016_02_MIA_NE_8,Punt,Punt
+2017_02_BUF_CAR_15,Punt,Punt
+2016_10_KC_CAR_13,Punt,Punt
+2019_14_WAS_GB_5,Punt,Punt
+2016_02_IND_DEN_5,Punt,Punt
+2018_01_ATL_PHI_12,Punt,Punt
+2018_16_MIN_DET_6,Punt,Punt
+2018_14_JAX_TEN_8,Punt,Punt
+2018_11_OAK_ARI_6,Punt,Punt
+2017_06_DET_NO_31,Punt,Punt
+2018_08_NYJ_CHI_11,Punt,Punt
+2017_09_TB_NO_19,Punt,Punt
+2021_06_LV_DEN_8,Punt,Punt
+2021_17_TB_NYJ_16,Punt,Punt
+2017_14_DAL_NYG_5,Punt,Punt
+2016_14_CIN_CLE_13,Punt,Punt
+2018_05_BAL_CLE_6,Punt,Punt
+2016_16_DEN_KC_13,Punt,Punt
+2016_16_DEN_KC_20,Punt,Punt
+2017_03_HOU_NE_21,Punt,Punt
+2016_13_DEN_JAX_5,Punt,Punt
+2016_01_NYG_DAL_15,Punt,Punt
+2019_16_GB_MIN_17,Punt,Punt
+2018_06_LA_DEN_13,Punt,Punt
+2016_01_MIA_SEA_11,Punt,Punt
+2016_07_SEA_ARI_16,Punt,Punt
+2017_03_DAL_ARI_6,Punt,Punt
+2016_13_SF_CHI_6,Punt,Punt
+2017_04_CHI_GB_9,Punt,Punt
+2017_12_BUF_KC_2,Punt,Punt
+2021_13_JAX_LA_9,Punt,Punt
+2017_06_GB_MIN_4,Punt,Punt
+2019_12_DET_WAS_17,Punt,Punt
+2020_06_NYJ_MIA_26,Punt,Punt
+2017_08_CAR_TB_6,Punt,Punt
+2019_02_TB_CAR_23,Punt,Punt
+2019_14_IND_TB_15,Punt,Punt
+2016_02_SF_CAR_12,Punt,Punt
+2017_10_CIN_TEN_14,Punt,Punt
+2021_05_BUF_KC_4,Punt,Punt
+2021_08_JAX_SEA_14,Punt,Punt
+2017_08_SF_PHI_7,Punt,Punt
+2021_14_NYG_LAC_11,Punt,Punt
+2016_14_ARI_MIA_22,Punt,Punt
+2020_01_TB_NO_16,Punt,Punt
+2017_12_DEN_OAK_5,Punt,Punt
+2018_06_LAC_CLE_9,Punt,Punt
+2021_09_CHI_PIT_19,Punt,Punt
+2019_14_MIA_NYJ_15,Punt,Punt
+2019_05_NYJ_PHI_11,Punt,Punt
+2019_08_CAR_SF_19,Punt,Punt
+2017_12_SEA_SF_14,Punt,Punt
+2020_15_KC_NO_13,Punt,Punt
+2016_15_DET_NYG_15,Punt,Punt
+2019_09_CHI_PHI_20,Punt,Punt
+2017_08_OAK_BUF_5,Punt,Punt
+2019_14_DET_MIN_16,Punt,Punt
+2020_11_CIN_WAS_20,Punt,Punt
+2018_05_TEN_BUF_12,Punt,Punt
+2019_07_BAL_SEA_3,Punt,Punt
+2017_15_CIN_MIN_3,Punt,Punt
+2016_15_GB_CHI_4,Punt,Punt
+2020_13_PHI_GB_3,Punt,Punt
+2019_03_CIN_BUF_2,Punt,Punt
+2016_10_MIA_SD_4,Punt,Punt
+2019_12_OAK_NYJ_18,Punt,Punt
+2019_01_TEN_CLE_9,Punt,Punt
+2020_12_NO_DEN_8,Punt,Punt
+2019_03_NYJ_NE_8,Punt,Punt
+2016_14_DEN_TEN_6,Punt,Punt
+2021_03_ATL_NYG_5,Punt,Punt
+2016_08_ARI_CAR_17,Punt,Punt
+2019_10_DET_CHI_20,Punt,Punt
+2020_10_SF_NO_19,Punt,Punt
+2020_03_WAS_CLE_9,Punt,Punt
+2021_07_HOU_ARI_3,Punt,Punt
+2021_17_NYG_CHI_19,Punt,Punt
+2019_12_PIT_CIN_11,Punt,Punt
+2020_15_KC_NO_3,Punt,Punt
+2018_09_DET_MIN_14,Punt,Punt
+2020_09_BAL_IND_9,Punt,Punt
+2018_07_DEN_ARI_12,Punt,Punt
+2017_05_SEA_LA_17,Punt,Punt
+2017_08_PIT_DET_5,Punt,Punt
+2016_06_SF_BUF_12,Punt,Punt
+2016_15_IND_MIN_6,Punt,Punt
+2019_02_CLE_NYJ_5,Punt,Punt
+2016_15_LA_SEA_8,Punt,Punt
+2017_09_OAK_MIA_17,Punt,Punt
+2018_11_PIT_JAX_16,Punt,Punt
+2017_15_DEN_IND_5,Punt,Punt
+2021_01_CLE_KC_16,Punt,Punt
+2019_15_LA_DAL_14,Punt,Punt
+2019_10_LAC_OAK_15,Punt,Punt
+2018_02_NYG_DAL_7,Punt,Punt
+2018_15_SEA_SF_13,Punt,Punt
+2020_15_KC_NO_9,Punt,Punt
+2018_16_DEN_OAK_6,Punt,Punt
+2017_04_NYG_TB_2,Punt,Punt
+2020_15_NYJ_LA_10,Punt,Punt
+2018_08_CLE_PIT_3,Punt,Punt
+2019_10_DET_CHI_5,Punt,Punt
+2021_06_LAC_BAL_6,Punt,Punt
+2017_10_LAC_JAX_22,Punt,Punt
+2016_10_CIN_NYG_18,Punt,Punt
+2016_12_NYG_CLE_18,Punt,Punt
+2019_13_NE_HOU_10,Punt,Punt
+2017_16_LAC_NYJ_22,Punt,Punt
+2016_12_CAR_OAK_12,Punt,Punt
+2019_07_KC_DEN_13,Punt,Punt
+2021_04_JAX_CIN_6,Punt,Punt
+2019_12_SEA_PHI_12,Punt,Punt
+2021_13_ARI_CHI_9,Punt,Punt
+2019_09_MIN_KC_2,Punt,Punt
+2021_01_MIN_CIN_6,Punt,Punt
+2020_09_HOU_JAX_7,Punt,Punt
+2017_14_MIN_CAR_6,Punt,Punt
+2016_17_BAL_CIN_16,Punt,Punt
+2020_02_DET_GB_19,Punt,Punt
+2016_01_BUF_BAL_15,Punt,Punt
+2017_14_SEA_JAX_2,Punt,Punt
+2021_07_ATL_MIA_3,Punt,Punt
+2018_07_DEN_ARI_11,Punt,Punt
+2021_06_TB_PHI_5,Punt,Punt
+2020_12_LV_ATL_10,Punt,Punt
+2020_12_NO_DEN_3,Punt,Punt
+2021_03_CIN_PIT_2,Punt,Punt
+2017_17_CAR_ATL_8,Punt,Punt
+2017_17_DAL_PHI_20,Punt,Punt
+2021_05_NO_WAS_17,Punt,Punt
+2018_17_ATL_TB_10,Punt,Punt
+2020_05_TB_CHI_15,Punt,Punt
+2016_17_NE_MIA_14,Punt,Punt
+2019_16_BAL_CLE_8,Punt,Punt
+2019_01_CIN_SEA_23,Punt,Punt
+2019_05_NE_WAS_27,Punt,Punt
+2018_16_LA_ARI_17,Punt,Punt
+2018_12_OAK_BAL_4,Punt,Punt
+2019_10_DET_CHI_17,Punt,Punt
+2016_05_NYJ_PIT_14,Punt,Punt
+2018_08_SF_ARI_2,Punt,Punt
+2016_10_GB_TEN_25,Punt,Punt
+2020_11_PIT_JAX_14,Punt,Punt
+2016_03_DET_GB_17,Punt,Punt
+2021_17_NYG_CHI_7,Punt,Punt
+2016_16_MIA_BUF_3,Punt,Punt
+2016_02_GB_MIN_10,Punt,Punt
+2017_07_NYJ_MIA_4,Punt,Punt
+2021_02_DEN_JAX_17,Punt,Punt
+2016_10_SF_ARI_21,Punt,Punt
+2017_06_CLE_HOU_12,Punt,Punt
+2020_06_ATL_MIN_18,Punt,Punt
+2016_13_SF_CHI_20,Punt,Punt
+2021_01_BAL_LV_17,Punt,Punt
+2020_04_NYG_LA_7,Punt,Punt
+2018_08_DEN_KC_21,Punt,Punt
+2021_15_NO_TB_20,Punt,Punt
+2019_11_KC_LAC_20,Punt,Punt
+2018_13_ARI_GB_19,Punt,Punt
+2019_08_DEN_IND_17,Punt,Punt
+2017_06_CHI_BAL_12,Punt,Punt
+2016_03_BAL_JAX_3,Punt,Punt
+2017_03_SEA_TEN_6,Punt,Punt
+2019_08_SEA_ATL_3,Punt,Punt
+2020_06_NYJ_MIA_2,Punt,Punt
+2019_02_MIN_GB_9,Punt,Punt
+2018_17_JAX_HOU_2,Punt,Punt
+2021_12_LA_GB_23,Punt,Punt
+2021_05_CHI_LV_2,Punt,Punt
+2017_04_CIN_CLE_16,Punt,Punt
+2021_01_NYJ_CAR_4,Punt,Punt
+2017_01_PIT_CLE_3,Punt,Punt
+2016_06_PHI_WAS_20,Punt,Punt
+2016_01_TB_ATL_5,Punt,Punt
+2019_15_TB_DET_12,Punt,Punt
+2016_07_BAL_NYJ_12,Punt,Punt
+2021_06_MIA_JAX_5,Punt,Punt
+2016_07_BUF_MIA_13,Punt,Punt
+2016_04_IND_JAX_2,Punt,Punt
+2019_11_ATL_CAR_5,Punt,Punt
+2017_06_CLE_HOU_24,Punt,Punt
+2018_04_BAL_PIT_14,Punt,Punt
+2020_10_PHI_NYG_15,Punt,Punt
+2019_04_CLE_BAL_2,Punt,Punt
+2016_03_OAK_TEN_6,Punt,Punt
+2016_02_JAX_SD_17,Punt,Punt
+2016_06_DEN_SD_8,Punt,Punt
+2016_02_CIN_PIT_11,Punt,Punt
+2021_10_NO_TEN_2,Punt,Punt
+2021_14_NO_NYJ_6,Punt,Punt
+2021_10_NO_TEN_14,Punt,Punt
+2017_16_CLE_CHI_2,Punt,Punt
+2021_01_NYJ_CAR_2,Punt,Punt
+2016_08_SD_DEN_6,Punt,Punt
+2016_10_LA_NYJ_12,Punt,Punt
+2017_05_CAR_DET_8,Punt,Punt
+2019_02_CHI_DEN_3,Punt,Punt
+2019_13_CLE_PIT_14,Punt,Punt
+2017_17_CIN_BAL_10,Punt,Punt
+2019_04_CIN_PIT_16,Punt,Punt
+2019_12_TB_ATL_23,Punt,Punt
+2017_01_JAX_HOU_8,Punt,Punt
+2019_12_GB_SF_8,Punt,Punt
+2019_01_DET_ARI_3,Punt,Punt
+2021_04_CLE_MIN_13,Punt,Punt
+2019_16_OAK_LAC_6,Punt,Punt
+2017_15_BAL_CLE_16,Punt,Punt
+2019_13_NO_ATL_14,Punt,Punt
+2019_01_PIT_NE_7,Punt,Punt
+2016_14_OAK_KC_5,Punt,Punt
+2016_16_SF_LA_10,Punt,Punt
+2016_13_TB_SD_7,Punt,Punt
+2016_11_BAL_DAL_2,Punt,Punt
+2016_08_SD_DEN_4,Punt,Punt
+2018_15_TB_BAL_4,Punt,Punt
+2017_11_TEN_PIT_9,Punt,Punt
+2020_10_BAL_NE_14,Punt,Punt
+2016_17_GB_DET_4,Punt,Punt
+2020_01_HOU_KC_2,Punt,Punt
+2018_02_SEA_CHI_13,Punt,Punt
+2017_17_CHI_MIN_16,Punt,Punt
+2020_03_HOU_PIT_5,Punt,Punt
+2017_11_LA_MIN_11,Punt,Punt
+2016_01_LA_SF_16,Punt,Punt
+2018_06_SEA_OAK_3,Punt,Punt
+2018_09_HOU_DEN_3,Punt,Punt
+2019_09_TB_SEA_13,Punt,Punt
+2017_03_MIA_NYJ_5,Punt,Punt
+2021_18_CIN_CLE_3,Punt,Punt
+2021_09_NE_CAR_14,Punt,Punt
+2017_05_CAR_DET_3,Punt,Punt
+2017_14_TEN_ARI_10,Punt,Punt
+2016_17_HOU_TEN_6,Punt,Punt
+2018_12_WAS_DAL_11,Punt,Punt
+2017_17_WAS_NYG_27,Punt,Punt
+2021_17_MIN_GB_6,Punt,Punt
+2018_01_PIT_CLE_2,Punt,Punt
+2020_06_GB_TB_19,Punt,Punt
+2017_16_CLE_CHI_18,Punt,Punt
+2016_08_SEA_NO_5,Punt,Punt
+2018_15_DET_BUF_20,Punt,Punt
+2016_16_MIA_BUF_2,Punt,Punt
+2017_05_TEN_MIA_22,Punt,Punt
+2021_13_SF_SEA_22,Punt,Punt
+2021_03_CAR_HOU_8,Punt,Punt
+2019_02_ARI_BAL_18,Punt,Punt
+2019_12_PIT_CIN_14,Punt,Punt
+2017_04_JAX_NYJ_26,Punt,Punt
+2017_02_MIN_PIT_8,Punt,Punt
+2019_14_NYG_PHI_17,Punt,Punt
+2017_03_CLE_IND_18,Punt,Punt
+2017_10_CIN_TEN_16,Punt,Punt
+2016_12_ARI_ATL_13,Punt,Punt
+2018_12_JAX_BUF_19,Punt,Punt
+2017_05_CAR_DET_9,Punt,Punt
+2021_01_NYJ_CAR_22,Punt,Punt
+2016_06_SF_BUF_14,Punt,Punt
+2016_11_BAL_DAL_7,Punt,Punt
+2019_06_CAR_TB_5,Punt,Punt
+2019_16_LA_SF_23,Punt,Punt
+2016_12_JAX_BUF_5,Punt,Punt
+2019_07_LA_ATL_11,Punt,Punt
+2016_12_LA_NO_25,Punt,Punt
+2019_07_JAX_CIN_4,Punt,Punt
+2018_02_OAK_DEN_3,Punt,Punt
+2020_06_GB_TB_15,Punt,Punt
+2016_17_BAL_CIN_15,Punt,Punt
+2020_16_CLE_NYJ_22,Punt,Punt
+2018_03_TEN_JAX_10,Punt,Punt
+2018_13_IND_JAX_4,Punt,Punt
+2017_05_NE_TB_4,Punt,Punt
+2020_10_SEA_LA_14,Punt,Punt
+2018_12_TEN_HOU_21,Punt,Punt
+2020_04_NE_KC_4,Punt,Punt
+2020_07_JAX_LAC_5,Punt,Punt
+2018_11_OAK_ARI_21,Punt,Punt
+2016_05_NE_CLE_22,Punt,Punt
+2020_03_CIN_PHI_6,Punt,Punt
+2018_11_GB_SEA_8,Punt,Punt
+2019_16_CIN_MIA_29,Punt,Punt
+2017_06_SF_WAS_5,Punt,Punt
+2021_14_CHI_GB_18,Punt,Punt
+2017_02_HOU_CIN_22,Punt,Punt
+2017_14_NO_ATL_14,Punt,Punt
+2017_14_NYJ_DEN_14,Punt,Punt
+2021_03_NO_NE_16,Punt,Punt
+2016_15_NE_DEN_19,Punt,Punt
+2020_13_JAX_MIN_22,Punt,Punt
+2018_05_ARI_SF_6,Punt,Punt
+2016_13_SF_CHI_16,Punt,Punt
+2019_14_TEN_OAK_12,Punt,Punt
+2020_16_CLE_NYJ_12,Punt,Punt
+2016_09_PIT_BAL_12,Punt,Punt
+2017_10_NYJ_TB_14,Punt,Punt
+2021_04_CAR_DAL_9,Punt,Punt
+2021_01_NYJ_CAR_18,Punt,Punt
+2018_15_SEA_SF_20,Punt,Punt
+2017_06_LA_JAX_8,Punt,Punt
+2018_11_DAL_ATL_5,Punt,Punt
+2020_02_LA_PHI_10,Punt,Touchdown
+2019_06_SEA_CLE_21,Punt,Touchdown
+2019_01_LA_CAR_19,Punt,Touchdown
+2020_03_TB_DEN_2,Punt,Touchdown
+2020_13_LA_ARI_17,Punt,Touchdown
+2021_11_HOU_TEN_11,Punt,Touchdown
+2018_09_KC_CLE_11,Punt,Touchdown
+2020_10_SF_NO_8,Punt,Touchdown
+2018_05_BAL_CLE_12,Punt,Touchdown
+2018_07_CAR_PHI_11,Punt,Touchdown
+2019_02_BUF_NYG_18,Punt,Touchdown
+2017_12_MIA_NE_3,Punt,Touchdown
+2021_11_DET_CLE_15,Punt,Touchdown
+2020_16_CAR_WAS_22,Punt,Touchdown
+2019_03_NO_SEA_16,Punt,Touchdown
+2020_17_JAX_IND_2,Punt,Touchdown
+2019_10_LA_PIT_6,Punt,Touchdown
+2019_16_ARI_SEA_2,Punt,Touchdown
+2018_09_GB_NE_8,Punt,Touchdown
+2016_10_GB_TEN_16,Punt,Touchdown
+2021_11_GB_MIN_4,Punt,Touchdown
+2016_07_WAS_DET_15,Punt,Touchdown
+2019_15_TB_DET_3,Punt,Touchdown
+2018_17_SF_LA_11,Punt,Touchdown
+2019_10_SEA_SF_3,Punt,Touchdown
+2018_15_DET_BUF_4,Punt,Touchdown
+2021_18_CHI_MIN_17,Punt,Touchdown
+2016_12_LA_NO_21,Punt,Touchdown
+2017_14_WAS_LAC_3,Punt,Touchdown
+2020_08_NYJ_KC_14,Punt,Touchdown
+2021_01_SF_DET_22,Punt,Touchdown
+2021_04_IND_MIA_7,Punt,Touchdown
+2016_06_CLE_TEN_21,Punt,Touchdown
+2020_11_KC_LV_14,Punt,Touchdown
+2018_02_CAR_ATL_15,Punt,Touchdown
+2016_06_LA_DET_4,Punt,Touchdown
+2016_17_GB_DET_15,Punt,Touchdown
+2019_14_CAR_ATL_10,Punt,Touchdown
+2020_08_PIT_BAL_8,Punt,Touchdown
+2017_15_HOU_JAX_4,Punt,Touchdown
+2021_07_NO_SEA_10,Punt,Touchdown
+2019_01_PIT_NE_3,Punt,Touchdown
+2018_03_SF_KC_4,Punt,Touchdown
+2018_04_NO_NYG_12,Punt,Touchdown
+2017_03_SEA_TEN_14,Punt,Touchdown
+2020_01_NYJ_BUF_6,Punt,Touchdown
+2017_10_CIN_TEN_24,Punt,Touchdown
+2020_17_BAL_CIN_11,Punt,Touchdown
+2018_08_IND_OAK_6,Punt,Touchdown
+2017_11_ARI_HOU_4,Punt,Touchdown
+2021_15_ARI_DET_3,Punt,Touchdown
+2021_01_GB_NO_5,Punt,Touchdown
+2020_10_JAX_GB_7,Punt,Touchdown
+2019_16_KC_CHI_2,Punt,Touchdown
+2018_08_TB_CIN_25,Punt,Touchdown
+2017_05_SF_IND_20,Punt,Touchdown
+2021_05_LA_SEA_18,Punt,Touchdown
+2019_07_LAC_TEN_12,Punt,Touchdown
+2019_10_KC_TEN_16,Punt,Touchdown
+2020_04_BUF_LV_18,Punt,Touchdown
+2020_09_CHI_TEN_24,Punt,Touchdown
+2016_17_BUF_NYJ_6,Punt,Touchdown
+2020_06_BAL_PHI_17,Punt,Touchdown
+2021_04_LV_LAC_17,Punt,Touchdown
+2017_09_CIN_JAX_5,Punt,Touchdown
+2019_12_SEA_PHI_18,Punt,Touchdown
+2020_09_NYG_WAS_10,Punt,Touchdown
+2016_13_DAL_MIN_7,Punt,Touchdown
+2016_01_CIN_NYJ_2,Punt,Touchdown
+2019_14_SEA_LA_17,Punt,Touchdown
+2019_03_NO_SEA_22,Punt,Touchdown
+2016_03_CHI_DAL_16,Punt,Touchdown
+2020_05_ARI_NYJ_4,Punt,Touchdown
+2016_15_SF_ATL_17,Punt,Touchdown
+2020_08_TEN_CIN_12,Punt,Touchdown
+2017_08_LAC_NE_3,Punt,Touchdown
+2020_12_WAS_DAL_19,Punt,Touchdown
+2019_17_TEN_HOU_4,Punt,Touchdown
+2017_13_PIT_CIN_4,Punt,Touchdown
+2018_02_NE_JAX_4,Punt,Touchdown
+2020_16_IND_PIT_21,Punt,Touchdown
+2020_14_NO_PHI_10,Punt,Touchdown
+2021_16_DEN_LV_4,Punt,Touchdown
+2019_15_TB_DET_18,Punt,Touchdown
+2019_01_NYG_DAL_5,Punt,Touchdown
+2017_03_BAL_JAX_24,Punt,Touchdown
+2019_14_SEA_LA_4,Punt,Touchdown
+2021_11_SF_JAX_9,Punt,Touchdown
+2017_02_NYJ_OAK_3,Punt,Touchdown
+2017_08_CAR_TB_4,Punt,Touchdown
+2020_08_LAC_DEN_12,Punt,Touchdown
+2020_14_PIT_BUF_22,Punt,Touchdown
+2016_04_CAR_ATL_4,Punt,Touchdown
+2018_04_MIA_NE_12,Punt,Touchdown
+2017_09_IND_HOU_2,Punt,Touchdown
+2019_13_NYJ_CIN_8,Punt,Touchdown
+2018_09_KC_CLE_2,Punt,Touchdown
+2021_04_LV_LAC_11,Punt,Touchdown
+2018_04_KC_DEN_6,Punt,Touchdown
+2016_08_PHI_DAL_20,Punt,Touchdown
+2019_13_PHI_MIA_7,Punt,Touchdown
+2016_13_HOU_GB_18,Punt,Touchdown
+2020_12_KC_TB_7,Punt,Touchdown
+2017_04_CIN_CLE_14,Punt,Touchdown
+2021_05_LA_SEA_15,Punt,Touchdown
+2019_05_MIN_NYG_3,Punt,Touchdown
+2021_08_PIT_CLE_15,Punt,Touchdown
+2018_12_NE_NYJ_3,Punt,Touchdown
+2018_14_NYG_WAS_25,Punt,Touchdown
+2021_13_TB_ATL_14,Punt,Touchdown
+2019_07_HOU_IND_18,Punt,Touchdown
+2016_11_BAL_DAL_16,Punt,Touchdown
+2019_12_IND_HOU_14,Punt,Touchdown
+2020_15_LAC_LV_5,Punt,Touchdown
+2017_02_NYJ_OAK_5,Punt,Touchdown
+2020_09_GB_SF_20,Punt,Touchdown
+2019_08_PHI_BUF_19,Punt,Touchdown
+2020_04_NYG_LA_16,Punt,Touchdown
+2020_05_MIN_SEA_18,Punt,Touchdown
+2017_02_NYJ_OAK_15,Punt,Touchdown
+2016_12_ARI_ATL_14,Punt,Touchdown
+2016_02_CIN_PIT_20,Punt,Touchdown
+2016_16_NYJ_NE_14,Punt,Touchdown
+2016_01_BUF_BAL_7,Punt,Touchdown
+2020_15_CAR_GB_2,Punt,Touchdown
+2019_14_DEN_HOU_5,Punt,Touchdown
+2018_07_CLE_TB_8,Punt,Touchdown
+2019_10_LAC_OAK_18,Punt,Touchdown
+2016_10_SEA_NE_13,Punt,Touchdown
+2016_11_PHI_SEA_3,Punt,Touchdown
+2016_10_SEA_NE_9,Punt,Touchdown
+2016_17_JAX_IND_17,Punt,Touchdown
+2021_05_NYG_DAL_10,Punt,Touchdown
+2020_05_MIA_SF_2,Punt,Touchdown
+2017_10_SEA_ARI_20,Punt,Touchdown
+2019_04_CLE_BAL_3,Punt,Touchdown
+2016_01_CAR_DEN_15,Punt,Touchdown
+2018_03_LAC_LA_3,Punt,Touchdown
+2018_17_MIA_BUF_14,Punt,Touchdown
+2021_15_WAS_PHI_10,Punt,Touchdown
+2016_16_SF_LA_26,Punt,Touchdown
+2016_14_NYJ_SF_4,Punt,Touchdown
+2021_06_KC_WAS_20,Punt,Touchdown
+2021_14_BAL_CLE_7,Punt,Touchdown
+2018_11_KC_LA_20,Punt,Touchdown
+2016_12_LA_NO_19,Punt,Touchdown
+2021_01_MIN_CIN_7,Punt,Touchdown
+2020_05_CAR_ATL_7,Punt,Touchdown
+2016_04_DAL_SF_7,Punt,Touchdown
+2019_06_WAS_MIA_24,Punt,Touchdown
+2017_17_SF_LA_3,Punt,Touchdown
+2018_03_PIT_TB_22,Punt,Touchdown
+2017_01_ARI_DET_15,Punt,Touchdown
+2019_02_KC_OAK_10,Punt,Touchdown
+2020_16_TB_DET_9,Punt,Touchdown
+2020_05_LAC_NO_23,Punt,Touchdown
+2018_17_DET_GB_7,Punt,Touchdown
+2016_17_SEA_SF_5,Punt,Touchdown
+2020_17_WAS_PHI_2,Punt,Touchdown
+2020_10_SEA_LA_5,Punt,Touchdown
+2018_12_NE_NYJ_17,Punt,Touchdown
+2016_07_NO_KC_2,Punt,Touchdown
+2020_14_HOU_CHI_6,Punt,Touchdown
+2018_01_HOU_NE_15,Punt,Touchdown
+2016_04_TEN_HOU_3,Punt,Touchdown
+2018_11_MIN_CHI_6,Punt,Touchdown
+2021_14_BAL_CLE_23,Punt,Touchdown
+2019_15_SEA_CAR_22,Punt,Touchdown
+2017_15_NYJ_NO_3,Punt,Touchdown
+2020_03_MIA_JAX_3,Punt,Touchdown
+2018_17_CHI_MIN_14,Punt,Touchdown
+2016_01_SD_KC_4,Punt,Touchdown
+2019_01_ATL_MIN_19,Punt,Touchdown
+2017_17_NO_TB_7,Punt,Touchdown
+2021_03_GB_SF_14,Punt,Touchdown
+2018_17_OAK_KC_16,Punt,Touchdown
+2019_06_DAL_NYJ_17,Punt,Touchdown
+2018_04_BAL_PIT_10,Punt,Touchdown
+2021_02_LV_PIT_12,Punt,Touchdown
+2018_10_JAX_IND_4,Punt,Touchdown
+2017_05_KC_HOU_13,Punt,Touchdown
+2019_09_SF_ARI_10,Punt,Touchdown
+2018_11_PIT_JAX_25,Punt,Touchdown
+2019_09_SF_ARI_18,Punt,Touchdown
+2021_06_LV_DEN_11,Punt,Touchdown
+2016_04_CAR_ATL_19,Punt,Touchdown
+2019_17_SF_SEA_4,Punt,Touchdown
+2019_16_GB_MIN_23,Punt,Touchdown
+2018_03_CIN_CAR_2,Punt,Touchdown
+2016_04_OAK_BAL_11,Punt,Touchdown
+2019_01_CIN_SEA_11,Punt,Touchdown
+2020_10_DEN_LV_15,Punt,Touchdown
+2020_03_DAL_SEA_21,Punt,Touchdown
+2021_11_BAL_CHI_13,Punt,Touchdown
+2016_10_DEN_NO_2,Punt,Touchdown
+2018_08_SEA_DET_2,Punt,Touchdown
+2018_05_ARI_SF_20,Punt,Touchdown
+2021_10_NO_TEN_15,Punt,Touchdown
+2020_01_PHI_WAS_25,Punt,Touchdown
+2020_16_MIN_NO_9,Punt,Touchdown
+2017_05_KC_HOU_20,Punt,Touchdown
+2018_15_OAK_CIN_6,Punt,Touchdown
+2016_03_WAS_NYG_2,Punt,Touchdown
+2020_14_KC_MIA_5,Punt,Touchdown
+2017_15_LA_SEA_18,Punt,Touchdown
+2020_08_IND_DET_4,Punt,Touchdown
+2016_04_NO_SD_13,Punt,Touchdown
+2018_13_ARI_GB_7,Punt,Touchdown
+2020_03_WAS_CLE_15,Punt,Touchdown
+2021_17_MIN_GB_14,Punt,Touchdown
+2021_15_GB_BAL_17,Punt,Touchdown
+2016_13_BUF_OAK_15,Punt,Touchdown
+2018_02_ARI_LA_9,Punt,Touchdown
+2017_04_CIN_CLE_6,Punt,Touchdown
+2017_16_DET_CIN_21,Punt,Touchdown
+2021_16_IND_ARI_11,Punt,Touchdown
+2016_01_SD_KC_22,Punt,Touchdown
+2016_09_BUF_SEA_9,Punt,Touchdown
+2016_16_ARI_SEA_26,Punt,Touchdown
+2017_08_IND_CIN_8,Punt,Touchdown
+2018_01_PIT_CLE_16,Punt,Touchdown
+2018_06_LAC_CLE_21,Punt,Touchdown
+2020_04_NO_DET_10,Punt,Touchdown
+2016_14_CIN_CLE_3,Punt,Touchdown
+2020_17_NO_CAR_2,Punt,Touchdown
+2021_10_DET_PIT_8,Punt,Touchdown
+2016_07_BUF_MIA_19,Punt,Touchdown
+2017_17_ARI_SEA_7,Punt,Touchdown
+2018_13_BUF_MIA_10,Punt,Touchdown
+2016_03_DEN_CIN_6,Punt,Touchdown
+2017_02_TEN_JAX_15,Punt,Touchdown
+2018_06_JAX_DAL_4,Punt,Touchdown
+2019_01_WAS_PHI_14,Punt,Touchdown
+2019_13_NYJ_CIN_4,Punt,Touchdown
+2018_17_CIN_PIT_14,Punt,Touchdown
+2017_14_OAK_KC_20,Punt,Touchdown
+2016_08_OAK_TB_14,Punt,Touchdown
+2020_04_LAC_TB_15,Punt,Touchdown
+2020_17_ATL_TB_5,Punt,Touchdown
+2018_12_TEN_HOU_16,Punt,Touchdown
+2017_01_IND_LA_8,Punt,Touchdown
+2021_04_PIT_GB_4,Punt,Touchdown
+2020_11_ARI_SEA_6,Punt,Touchdown
+2019_05_NYJ_PHI_2,Punt,Touchdown
+2016_16_MIN_GB_3,Punt,Touchdown
+2020_04_ARI_CAR_2,Punt,Touchdown
+2021_14_ATL_CAR_2,Punt,Touchdown
+2019_11_DEN_MIN_7,Punt,Touchdown
+2016_04_DAL_SF_9,Punt,Touchdown
+2019_03_NYJ_NE_18,Punt,Touchdown
+2016_12_NE_NYJ_17,Punt,Touchdown
+2018_14_ATL_GB_15,Punt,Touchdown
+2018_02_MIA_NYJ_13,Punt,Touchdown
+2021_12_LAC_DEN_3,Punt,Touchdown
+2018_07_CLE_TB_19,Punt,Touchdown
+2018_08_MIA_HOU_16,Punt,Touchdown
+2021_18_TEN_HOU_13,Punt,Touchdown
+2018_16_NYG_IND_18,Punt,Touchdown
+2016_04_NYG_MIN_9,Punt,Touchdown
+2021_15_CAR_BUF_15,Punt,Touchdown
+2017_15_GB_CAR_9,Punt,Touchdown
+2017_03_HOU_NE_2,Punt,Touchdown
+2021_14_DET_DEN_3,Punt,Touchdown
+2017_07_SEA_NYG_22,Punt,Touchdown
+2016_13_BUF_OAK_17,Punt,Touchdown
+2019_07_PHI_DAL_8,Punt,Touchdown
+2016_15_TB_DAL_7,Punt,Touchdown
+2019_13_OAK_KC_14,Punt,Touchdown
+2016_05_BUF_LA_9,Punt,Touchdown
+2018_01_ATL_PHI_22,Punt,Touchdown
+2018_14_NO_TB_17,Punt,Touchdown
+2020_14_BAL_CLE_10,Punt,Touchdown
+2021_03_ARI_JAX_11,Punt,Touchdown
+2021_10_KC_LV_8,Punt,Touchdown
+2021_12_LV_DAL_6,Punt,Touchdown
+2021_04_BAL_DEN_7,Punt,Touchdown
+2017_04_CIN_CLE_21,Punt,Touchdown
+2017_14_NYJ_DEN_12,Punt,Touchdown
+2021_02_NYG_WAS_13,Punt,Touchdown
+2017_15_ARI_WAS_6,Punt,Touchdown
+2017_01_IND_LA_10,Punt,Touchdown
+2018_10_ARI_KC_7,Punt,Touchdown
+2016_12_KC_DEN_16,Punt,Touchdown
+2020_12_BAL_PIT_16,Punt,Touchdown
+2020_16_CLE_NYJ_6,Punt,Touchdown
+2021_11_GB_MIN_9,Punt,Touchdown
+2016_06_IND_HOU_21,Punt,Touchdown
+2017_11_ARI_HOU_17,Punt,Touchdown
+2021_14_NYG_LAC_21,Punt,Touchdown
+2019_05_GB_DAL_14,Punt,Touchdown
+2016_09_IND_GB_20,Punt,Touchdown
+2016_06_CLE_TEN_15,Punt,Touchdown
+2018_12_TEN_HOU_6,Punt,Touchdown
+2018_13_CHI_NYG_12,Punt,Touchdown
+2016_08_PHI_DAL_13,Punt,Touchdown
+2018_12_TEN_HOU_3,Punt,Touchdown
+2018_02_SEA_CHI_16,Punt,Touchdown
+2021_15_NYJ_MIA_7,Punt,Touchdown
+2017_17_CIN_BAL_15,Punt,Touchdown
+2017_01_NYJ_BUF_14,Punt,Touchdown
+2018_08_TB_CIN_9,Punt,Touchdown
+2016_13_HOU_GB_13,Punt,Touchdown
+2016_09_DAL_CLE_8,Punt,Touchdown
+2016_12_TEN_CHI_10,Punt,Touchdown
+2019_04_JAX_DEN_7,Punt,Touchdown
+2016_09_DAL_CLE_13,Punt,Touchdown
+2020_16_SF_ARI_14,Punt,Touchdown
+2021_12_LV_DAL_2,Punt,Touchdown
+2021_14_CHI_GB_20,Punt,Touchdown
+2016_15_SF_ATL_6,Punt,Touchdown
+2018_16_CIN_CLE_5,Punt,Touchdown
+2018_05_WAS_NO_2,Punt,Touchdown
+2018_01_LA_OAK_15,Punt,Touchdown
+2017_02_NE_NO_5,Punt,Touchdown
+2019_15_PHI_WAS_13,Punt,Touchdown
+2020_13_BUF_SF_18,Punt,Touchdown
+2020_12_SEA_PHI_10,Punt,Touchdown
+2019_11_ATL_CAR_10,Punt,Touchdown
+2019_05_CLE_SF_6,Punt,Touchdown
+2020_16_DEN_LAC_16,Punt,Touchdown
+2021_02_KC_BAL_19,Punt,Touchdown
+2018_04_KC_DEN_18,Punt,Touchdown
+2017_17_BUF_MIA_19,Punt,Touchdown
+2018_13_SF_SEA_4,Punt,Touchdown
+2021_04_SEA_SF_2,Punt,Touchdown
+2017_06_CHI_BAL_17,Punt,Touchdown
+2019_08_DEN_IND_14,Punt,Touchdown
+2021_09_GB_KC_2,Punt,Touchdown
+2020_08_MIN_GB_13,Punt,Touchdown
+2018_04_TB_CHI_5,Punt,Touchdown
+2021_04_CAR_DAL_3,Punt,Touchdown
+2018_10_DET_CHI_20,Punt,Touchdown
+2020_09_NO_TB_8,Punt,Touchdown
+2021_10_NO_TEN_9,Punt,Touchdown
+2017_01_PIT_CLE_20,Punt,Touchdown
+2018_11_TB_NYG_6,Punt,Touchdown
+2021_12_BUF_NO_14,Punt,Touchdown
+2021_10_CAR_ARI_20,Punt,Touchdown
+2017_02_DAL_DEN_10,Punt,Touchdown
+2021_17_KC_CIN_5,Punt,Touchdown
+2020_06_CIN_IND_6,Punt,Touchdown
+2018_05_JAX_KC_2,Punt,Touchdown
+2020_13_BUF_SF_7,Punt,Touchdown
+2018_12_TEN_HOU_19,Punt,Touchdown
+2020_14_NO_PHI_14,Punt,Touchdown
+2021_16_PIT_KC_2,Punt,Touchdown
+2020_12_CAR_MIN_2,Punt,Touchdown
+2017_15_DEN_IND_13,Punt,Touchdown
+2021_12_BUF_NO_18,Punt,Touchdown
+2021_08_GB_ARI_4,Punt,Touchdown
+2016_04_OAK_BAL_18,Punt,Touchdown
+2017_11_TB_MIA_23,Punt,Touchdown
+2018_03_SF_KC_2,Punt,Touchdown
+2016_17_NYG_WAS_6,Punt,Touchdown
+2020_04_CLE_DAL_2,Punt,Touchdown
+2019_01_IND_LAC_3,Punt,Touchdown
+2019_01_KC_JAX_14,Punt,Touchdown
+2020_12_CHI_GB_14,Punt,Touchdown
+2019_16_DAL_PHI_3,Punt,Touchdown
+2018_15_ARI_ATL_19,Punt,Touchdown
+2020_16_BUF_NE_8,Punt,Touchdown
+2019_01_LA_CAR_22,Punt,Touchdown
+2018_06_LAC_CLE_2,Punt,Touchdown
+2018_07_MIN_NYJ_26,Punt,Touchdown
+2017_15_NYJ_NO_21,Punt,Touchdown
+2016_06_NYJ_ARI_17,Punt,Touchdown
+2019_11_NO_TB_7,Punt,Touchdown
+2021_16_TB_CAR_9,Punt,Touchdown
+2019_17_CLE_CIN_19,Punt,Touchdown
+2017_14_BAL_PIT_18,Punt,Touchdown
+2017_15_NYJ_NO_24,Punt,Touchdown
+2016_06_CAR_NO_21,Punt,Touchdown
+2018_13_ARI_GB_17,Punt,Touchdown
+2017_14_SF_HOU_11,Punt,Touchdown
+2020_16_TB_DET_11,Punt,Touchdown
+2016_14_ARI_MIA_26,Punt,Touchdown
+2021_16_BAL_CIN_7,Punt,Touchdown
+2017_04_NYG_TB_13,Punt,Touchdown
+2018_08_WAS_NYG_3,Punt,Touchdown
+2016_03_DEN_CIN_2,Punt,Touchdown
+2016_06_CAR_NO_17,Punt,Touchdown
+2017_08_OAK_BUF_6,Punt,Touchdown
+2016_03_CHI_DAL_5,Punt,Touchdown
+2020_05_PHI_PIT_4,Punt,Touchdown
+2021_06_LV_DEN_14,Punt,Touchdown
+2020_11_CIN_WAS_6,Punt,Touchdown
+2020_08_SF_SEA_12,Punt,Touchdown
+2016_04_NO_SD_18,Punt,Touchdown
+2018_06_CHI_MIA_3,Punt,Touchdown
+2017_03_LA_SF_20,Punt,Touchdown
+2020_17_WAS_PHI_7,Punt,Touchdown
+2018_04_BUF_GB_4,Punt,Touchdown
+2020_15_KC_NO_21,Punt,Touchdown
+2018_03_DEN_BAL_9,Punt,Touchdown
+2016_08_NYJ_CLE_11,Punt,Touchdown
+2018_08_SF_ARI_15,Punt,Touchdown
+2017_12_SEA_SF_21,Punt,Touchdown
+2020_11_DAL_MIN_7,Punt,Touchdown
+2016_17_ARI_LA_19,Punt,Touchdown
+2018_02_ARI_LA_13,Punt,Touchdown
+2021_07_DET_LA_7,Punt,Touchdown
+2020_02_CAR_TB_19,Punt,Turnover
+2020_16_CLE_NYJ_23,Punt,Turnover
+2020_02_SF_NYJ_12,Punt,Turnover
+2017_07_SEA_NYG_19,Punt,Turnover
+2017_14_GB_CLE_8,Punt,Turnover
+2019_06_SEA_CLE_18,Punt,Turnover
+2017_09_BUF_NYJ_10,Punt,Turnover
+2018_12_SF_TB_21,Punt,Turnover
+2020_12_NYG_CIN_7,Punt,Turnover
+2021_06_CIN_DET_4,Punt,Turnover
+2018_14_CAR_CLE_4,Punt,Turnover
+2018_10_ATL_CLE_19,Punt,Turnover
+2016_14_DEN_TEN_21,Punt,Turnover
+2021_18_PIT_BAL_20,Punt,Turnover
+2019_03_DEN_GB_16,Punt,Turnover
+2017_06_GB_MIN_24,Punt,Turnover
+2020_07_CHI_LA_21,Punt,Turnover
+2016_13_MIA_BAL_15,Punt,Turnover
+2018_17_LAC_DEN_16,Punt,Turnover
+2018_03_CHI_ARI_4,Punt,Turnover
+2017_17_CLE_PIT_22,Punt,Turnover
+2018_02_IND_WAS_5,Punt,Turnover
+2021_10_ATL_DAL_14,Punt,Turnover
+2016_14_SD_CAR_24,Punt,Turnover
+2018_04_NYJ_JAX_14,Punt,Turnover
+2018_02_MIA_NYJ_10,Punt,Turnover
+2019_15_MIN_LAC_22,Punt,Turnover
+2020_17_JAX_IND_17,Punt,Turnover
+2021_09_HOU_MIA_7,Punt,Turnover
+2018_17_ARI_SEA_2,Punt,Turnover
+2021_05_NYJ_ATL_13,Punt,Turnover
+2018_17_JAX_HOU_23,Punt,Turnover
+2016_06_SF_BUF_2,Punt,Turnover
+2021_13_DAL_NO_24,Punt,Turnover
+2020_17_WAS_PHI_19,Punt,Turnover
+2018_07_DEN_ARI_23,Punt,Turnover
+2016_07_MIN_PHI_14,Punt,Turnover
+2019_01_BUF_NYJ_8,Punt,Turnover
+2019_04_WAS_NYG_17,Punt,Turnover
+2018_16_PIT_NO_2,Punt,Turnover
+2019_03_DET_PHI_7,Punt,Turnover
+2018_01_SEA_DEN_29,Punt,Turnover
+2020_10_SEA_LA_17,Punt,Turnover
+2018_03_DAL_SEA_3,Punt,Turnover
+2019_16_GB_MIN_18,Punt,Turnover
+2018_10_NYG_SF_4,Punt,Turnover
+2016_05_WAS_BAL_7,Punt,Turnover
+2016_03_PIT_PHI_19,Punt,Turnover
+2020_12_SF_LA_14,Punt,Turnover
+2021_06_LA_NYG_11,Punt,Turnover
+2020_14_PIT_BUF_10,Punt,Turnover
+2016_15_TEN_KC_15,Punt,Turnover
+2018_05_GB_DET_11,Punt,Turnover
+2016_01_MIA_SEA_7,Punt,Turnover
+2020_11_MIA_DEN_2,Punt,Turnover
+2017_15_BAL_CLE_6,Punt,Turnover
+2019_07_HOU_IND_16,Punt,Turnover
+2018_06_BAL_TEN_8,Punt,Turnover
+2021_11_DET_CLE_18,Punt,Turnover
+2017_09_LA_NYG_11,Punt,Turnover
+2018_15_TEN_NYG_13,Punt,Turnover
+2019_17_ARI_LA_24,Punt,Turnover
+2017_12_TEN_IND_14,Punt,Turnover
+2016_01_MIA_SEA_19,Punt,Turnover
+2018_14_LA_CHI_16,Punt,Turnover
+2019_16_BAL_CLE_4,Punt,Turnover
+2017_13_DEN_MIA_2,Punt,Turnover
+2019_01_SF_TB_5,Punt,Turnover
+2021_18_PIT_BAL_2,Punt,Turnover
+2019_04_TB_LA_4,Punt,Turnover
+2018_04_SF_LAC_23,Punt,Turnover
+2019_11_KC_LAC_21,Punt,Turnover
+2016_06_KC_OAK_3,Punt,Turnover
+2021_15_DAL_NYG_2,Punt,Turnover
+2020_01_ARI_SF_12,Punt,Turnover
+2018_09_KC_CLE_16,Punt,Turnover
+2021_12_CAR_MIA_5,Punt,Turnover
+2017_09_ARI_SF_15,Punt,Turnover
+2018_13_CAR_TB_7,Punt,Turnover
+2020_02_NYG_CHI_12,Punt,Turnover
+2020_07_KC_DEN_16,Punt,Turnover
+2016_14_HOU_IND_7,Punt,Turnover
+2016_11_MIA_LA_15,Punt,Turnover
+2017_06_SF_WAS_9,Punt,Turnover
+2018_14_IND_HOU_9,Punt,Turnover
+2016_08_NYJ_CLE_21,Punt,Turnover
+2018_02_MIA_NYJ_4,Punt,Turnover
+2016_05_CIN_DAL_13,Punt,Turnover
+2016_05_NYG_GB_3,Punt,Turnover
+2017_06_PHI_CAR_23,Punt,Turnover
+2017_17_WAS_NYG_5,Punt,Turnover
+2018_16_HOU_PHI_6,Punt,Turnover
+2020_10_JAX_GB_19,Punt,Turnover
+2020_03_CAR_LAC_20,Punt,Turnover
+2021_03_IND_TEN_9,Punt,Turnover
+2017_02_CHI_TB_11,Punt,Turnover
+2016_03_NYJ_KC_3,Punt,Turnover
+2016_17_NYG_WAS_15,Punt,Turnover
+2018_08_DEN_KC_18,Punt,Turnover
+2017_01_CAR_SF_4,Punt,Turnover
+2018_03_DAL_SEA_22,Punt,Turnover
+2018_14_JAX_TEN_3,Punt,Turnover
+2017_03_PIT_CHI_18,Punt,Turnover
+2021_13_ARI_CHI_14,Punt,Turnover
+2021_01_JAX_HOU_10,Punt,Turnover
+2021_02_MIN_ARI_16,Punt,Turnover
+2020_02_MIN_IND_13,Punt,Turnover
+2018_08_SF_ARI_20,Punt,Turnover
+2020_08_LA_MIA_7,Punt,Turnover
+2021_11_NYG_TB_10,Punt,Turnover
+2018_07_HOU_JAX_20,Punt,Turnover
+2019_13_TB_JAX_2,Punt,Turnover
+2018_03_CHI_ARI_14,Punt,Turnover
+2018_07_BUF_IND_20,Punt,Turnover
+2017_04_IND_SEA_14,Punt,Turnover
+2016_15_OAK_SD_4,Punt,Turnover
+2019_13_TB_JAX_19,Punt,Turnover
+2021_04_HOU_BUF_5,Punt,Turnover
+2019_10_SEA_SF_11,Punt,Turnover
+2016_03_ARI_BUF_9,Punt,Turnover
+2017_06_GB_MIN_8,Punt,Turnover
+2021_05_NYG_DAL_5,Punt,Turnover
+2021_02_NE_NYJ_8,Punt,Turnover
+2020_11_ATL_NO_18,Punt,Turnover
+2019_14_DEN_HOU_16,Punt,Turnover
+2020_06_LA_SF_14,Punt,Turnover
+2018_08_PHI_JAX_8,Punt,Turnover
+2019_05_BAL_PIT_23,Punt,Turnover
+2021_04_PIT_GB_21,Punt,Turnover
+2018_03_LAC_LA_17,Punt,Turnover
+2018_07_DEN_ARI_19,Punt,Turnover
+2016_02_PHI_CHI_13,Punt,Turnover
+2021_06_MIN_CAR_4,Punt,Turnover
+2019_06_DET_GB_17,Punt,Turnover
+2016_10_CHI_TB_3,Punt,Turnover
+2018_14_ATL_GB_17,Punt,Turnover
+2021_14_DET_DEN_16,Punt,Turnover
+2017_09_ATL_CAR_4,Punt,Turnover
+2021_06_HOU_IND_18,Punt,Turnover
+2020_12_LAC_BUF_21,Punt,Turnover
+2020_04_PHI_SF_3,Punt,Turnover
+2019_01_NYG_DAL_19,Punt,Turnover
+2016_10_SF_ARI_18,Punt,Turnover
+2018_04_BUF_GB_19,Punt,Turnover
+2017_06_CHI_BAL_9,Punt,Turnover
+2017_16_OAK_PHI_27,Punt,Turnover
+2019_10_LA_PIT_29,Punt,Turnover
+2019_02_PHI_ATL_4,Punt,Turnover
+2021_14_DAL_WAS_27,Punt,Turnover
+2016_02_IND_DEN_9,Punt,Turnover
+2016_14_SEA_GB_16,Punt,Turnover
+2020_12_NO_DEN_11,Punt,Turnover
+2019_03_PIT_SF_5,Punt,Turnover
+2021_14_JAX_TEN_15,Punt,Turnover
+2019_10_SEA_SF_16,Punt,Turnover
+2018_13_LA_DET_20,Punt,Turnover
+2016_03_MIN_CAR_17,Punt,Turnover
+2021_07_CHI_TB_11,Punt,Turnover
+2017_10_NYJ_TB_17,Punt,Turnover
+2016_09_DEN_OAK_23,Punt,Turnover
+2017_10_NO_BUF_4,Punt,Turnover
+2021_14_LA_ARI_3,Punt,Turnover
+2018_03_NYG_HOU_15,Punt,Turnover
+2016_17_DAL_PHI_7,Punt,Turnover
+2016_05_NYG_GB_12,Punt,Turnover
+2017_08_SF_PHI_9,Punt,Turnover
+2018_13_KC_OAK_8,Punt,Turnover
+2017_09_OAK_MIA_14,Punt,Turnover
+2018_08_CLE_PIT_4,Punt,Turnover
+2017_04_CHI_GB_10,Punt,Turnover
+2016_08_SD_DEN_12,Punt,Turnover
+2019_15_CHI_GB_21,Punt,Turnover
+2021_09_HOU_MIA_5,Punt,Turnover
+2020_08_MIN_GB_15,Punt,Turnover
+2021_17_NYG_CHI_16,Punt,Turnover
+2021_11_DET_CLE_13,Punt,Turnover
+2016_12_SEA_TB_19,Punt,Turnover
+2019_03_PIT_SF_9,Punt,Turnover
+2021_06_TB_PHI_11,Punt,Turnover
