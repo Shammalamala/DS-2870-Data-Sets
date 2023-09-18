@@ -1,0 +1,774 @@
+PROPERTY TYPE,CITY,ZIP,PRICE,BEDS,BATHS,SQUARE FEET,LOT SIZE,YEAR BUILT,$/SQUARE FEET
+Single Family Residential,Nashville,37208,399900,2,2,1187,8276,1930,337
+Single Family Residential,Nashville,37027,460000,4,2.5,3564,11761,1998,129
+Single Family Residential,Nashville,37206,599900,3,2.5,2276,7405,2001,264
+Single Family Residential,Nashville,37206,520000,4,2.5,2490,10890,2015,209
+Single Family Residential,Nashville,37027,775000,5,4,3639,52707,1972,213
+Single Family Residential,Nashville,37220,879000,5,4,4215,21780,2017,209
+Single Family Residential,Nashville,37208,165900,4,1.5,2962,7405,1920,56
+Single Family Residential,Nashville,37211,390000,4,3,2217,15245,1998,176
+Single Family Residential,Nashville,37217,299900,6,2,2994,13068,1983,100
+Single Family Residential,Nashville,37013,159944,3,2,1762,3920,1997,91
+Single Family Residential,Nashville,37212,479900,3,1.5,1203,6969,1925,399
+Single Family Residential,Nashville,37207,229990,3,2.5,1440,6098,2017,160
+Single Family Residential,Nashville,37207,243990,4,2.5,1680,6098,2017,145
+Single Family Residential,Nashville,37211,399000,3,1.5,1700,26571,1959,235
+Single Family Residential,Nashville,37072,175000,3,1.5,1275,12632,1963,137
+Single Family Residential,Nashville,37209,794900,4,3.5,3220,6969,2013,247
+Single Family Residential,Nashville,37221,384900,4,3,3128,9147,2002,123
+Single Family Residential,Nashville,37209,369900,3,2.5,1616,,2014,229
+Single Family Residential,Nashville,37217,239995,3,2,1722,13068,1987,139
+Single Family Residential,Nashville,37138,112500,2,1,1207,7405,1930,93
+Single Family Residential,Nashville,37215,415000,2,1,1251,20037,1950,332
+Single Family Residential,Nashville,37221,329900,3,2.5,2178,8276,2016,151
+Single Family Residential,Nashville,37076,359900,3,2.5,2840,,2017,127
+Single Family Residential,Nashville,37206,259900,2,1,982,7405,1948,265
+Single Family Residential,Nashville,37211,349900,3,2,2332,8276,2004,150
+Single Family Residential,Nashville,37214,317900,3,2.5,2760,8712,2005,115
+Single Family Residential,Nashville,37207,389900,3,3.5,2110,7840,2015,185
+Single Family Residential,Nashville,37076,354900,4,3.5,2631,,2017,135
+Single Family Residential,Nashville,37221,749900,4,3.5,3741,93218,2017,200
+Single Family Residential,Nashville,37221,779900,4,3.5,3923,104979,2017,199
+Single Family Residential,Nashville,37138,630000,3,2.5,3294,18295,2003,191
+Single Family Residential,Nashville,37215,1375000,4,4.5,4366,32234,2017,315
+Single Family Residential,Nashville,37216,274900,3,3,1294,13068,1948,212
+Single Family Residential,Nashville,37013,234943,3,2.5,1932,9147,2000,122
+Single Family Residential,Nashville,37205,2095000,4,5.5,7018,13503,1930,299
+Single Family Residential,Nashville,37221,1070000,5,6.5,7424,113256,1969,144
+Single Family Residential,Nashville,37208,439500,3,3,1536,7797,2015,286
+Single Family Residential,Nashville,37013,254762,3,2.5,1688,,2017,151
+Single Family Residential,Nashville,37013,262262,3,2.5,1688,,2017,155
+Single Family Residential,Nashville,37076,359750,4,3,2650,7405,2008,136
+Single Family Residential,Nashville,37215,599900,4,3.5,3230,7840,1987,186
+Single Family Residential,Nashville,37205,865000,3,4.5,4663,8712,1986,186
+Single Family Residential,Nashville,37013,289000,4,3.5,2882,6969,1988,100
+Single Family Residential,Nashville,37209,374900,3,2,1444,16988,1964,260
+Single Family Residential,Nashville,37205,479900,4,2,2668,57934,1959,180
+Single Family Residential,Nashville,37207,200000,3,2,1038,9147,2003,193
+Single Family Residential,Nashville,37206,499900,4,3,2800,7840,2008,179
+Single Family Residential,Nashville,37013,315900,4,2.5,3046,12196,2001,104
+Single Family Residential,Nashville,37076,415000,3,3.5,2978,10890,2017,139
+Single Family Residential,Nashville,37221,889900,5,4.5,4713,281397,2017,189
+Single Family Residential,Nashville,37076,429900,4,3,2817,13939,2017,153
+Single Family Residential,Nashville,37122,464400,4,4,3486,8712,2018,133
+Single Family Residential,Nashville,37215,449900,3,2,1756,14810,1950,256
+Single Family Residential,Nashville,37217,220000,4,2,1576,11325,1967,140
+Single Family Residential,Nashville,37212,897000,5,4.5,3907,11761,1945,230
+Single Family Residential,Nashville,37209,299900,3,3,1650,4356,1946,182
+Single Family Residential,Nashville,37211,229900,3,1,1153,8712,1947,199
+Single Family Residential,Nashville,37207,259900,4,2,1350,10890,1963,193
+Single Family Residential,Nashville,37138,219000,3,2,2000,6969,1996,110
+Single Family Residential,Nashville,37013,235000,3,2.5,1650,6969,2005,142
+Single Family Residential,Nashville,37221,289999,3,3.5,1736,3049,2016,167
+Single Family Residential,Nashville,37216,465500,3,2.5,2516,11325,1951,185
+Single Family Residential,Nashville,37027,599900,5,3.5,3639,45302,1967,165
+Single Family Residential,Nashville,37204,575000,3,3,3125,24393,1945,184
+Single Family Residential,Nashville,37209,474900,4,2,2122,13503,1997,224
+Single Family Residential,Nashville,37209,549000,3,3,2068,8276,1923,265
+Single Family Residential,Nashville,37211,307900,3,2.5,1930,15245,1953,160
+Single Family Residential,Nashville,37215,489900,4,2,1631,11325,1940,300
+Single Family Residential,Nashville,37218,239900,3,2,1835,16117,1971,131
+Single Family Residential,Nashville,37138,252000,3,2.5,2300,6969,1995,110
+Single Family Residential,Nashville,37221,649900,5,3.5,3796,22215,1995,171
+Single Family Residential,Nashville,37013,225000,3,2,1953,6969,1993,115
+Single Family Residential,Nashville,37209,775000,3,4,4212,60548,1962,184
+Single Family Residential,Nashville,37076,254900,3,2.5,1824,10018,1998,140
+Single Family Residential,Nashville,37076,255000,3,2,1925,16552,1993,132
+Single Family Residential,Nashville,37207,314900,2,2,1354,20037,1935,233
+Single Family Residential,Nashville,37206,489000,3,2.5,1830,7405,1910,267
+Single Family Residential,Nashville,37205,825000,4,4,4511,49222,1957,183
+Single Family Residential,Nashville,37027,330000,3,2,1355,7405,1955,244
+Single Family Residential,Nashville,37076,349900,4,3.5,2777,,2017,126
+Single Family Residential,Nashville,37013,208999,3,2,1941,6534,2000,108
+Single Family Residential,Nashville,37216,414900,3,2,1825,,2017,227
+Single Family Residential,Nashville,37208,229900,4,1,1790,7405,1964,128
+Single Family Residential,Nashville,37013,295900,4,2,2498,6969,1997,118
+Single Family Residential,Nashville,37216,250000,3,1,1260,15681,1928,198
+Single Family Residential,Nashville,37210,374900,3,2,2020,10018,1976,186
+Single Family Residential,Nashville,37211,340000,3,2,1669,17859,1959,204
+Single Family Residential,Nashville,37115,269900,5,3,2458,14810,1970,110
+Single Family Residential,Nashville,37206,415000,2,2,1670,7405,1920,249
+Single Family Residential,Nashville,37138,222000,3,2,1086,10018,1930,204
+Single Family Residential,Nashville,37211,238000,3,2,2011,40075,1961,118
+Single Family Residential,Nashville,37207,229900,4,2.5,1325,11325,1961,174
+Single Family Residential,Nashville,37216,569900,4,3,3048,41382,1961,187
+Single Family Residential,Nashville,37214,749000,4,1.5,2970,88862,1923,252
+Single Family Residential,Nashville,37205,599900,4,3,3276,39639,1964,183
+Single Family Residential,Nashville,37211,265000,3,2,1164,16552,1950,228
+Single Family Residential,Nashville,37204,649900,3,3,2763,22215,1950,235
+Single Family Residential,Nashville,37218,509900,2,3.5,1910,9147,2017,267
+Single Family Residential,Nashville,37204,489000,3,2,1610,14374,1948,304
+Single Family Residential,Nashville,37013,175000,2,2,1151,7405,2001,152
+Single Family Residential,Nashville,37208,825900,4,3.5,1603,8712,2016,515
+Single Family Residential,Nashville,37216,199900,4,1.5,1960,17424,1948,102
+Single Family Residential,Nashville,37207,459900,4,2.5,2540,7840,2014,181
+Single Family Residential,Nashville,37207,389900,4,2,1966,8712,1918,198
+Single Family Residential,Nashville,37076,405000,4,2.5,2767,6098,2001,146
+Single Family Residential,Nashville,37212,499000,5,2,2600,6098,1958,192
+Single Family Residential,Nashville,37203,499991,3,3,2084,3702,2017,240
+Single Family Residential,Nashville,37216,314900,3,2,1437,15245,1948,219
+Single Family Residential,Nashville,37221,335990,4,2.5,2385,10890,2018,141
+Single Family Residential,Nashville,37205,489900,3,2,1920,47044,1956,255
+Single Family Residential,Nashville,37205,369900,4,2.5,1938,22651,1976,191
+Single Family Residential,Nashville,37204,649000,4,3.5,2969,18730,1956,219
+Single Family Residential,Nashville,37215,529000,3,2,1890,20037,1948,280
+Single Family Residential,Nashville,37208,319999,3,2.5,1460,871,2017,219
+Single Family Residential,Nashville,37221,342990,4,3,2117,8276,2018,162
+Single Family Residential,Nashville,37072,219999,4,2.5,2150,68824,2006,102
+Single Family Residential,Nashville,37205,435000,3,2,2000,59677,1957,218
+Single Family Residential,Nashville,37206,244900,2,1,728,8712,1949,336
+Single Family Residential,Nashville,37027,399000,4,2.5,2833,11325,2005,141
+Single Family Residential,Nashville,37210,219000,3,1,1280,8712,1955,171
+Single Family Residential,Nashville,37072,369000,3,2,3272,217800,1992,113
+Single Family Residential,Nashville,37075,519900,4,4.5,3595,8276,2017,145
+Single Family Residential,Nashville,37115,145000,3,2,1083,7840,1979,134
+Single Family Residential,Nashville,37027,389983,3,2.5,3363,62290,1977,116
+Single Family Residential,Nashville,37206,350000,3,1,1025,8712,1958,341
+Single Family Residential,Nashville,37221,345080,4,2.5,2113,7840,2018,163
+Single Family Residential,Nashville,37206,699900,4,2.5,3000,7405,2014,233
+Single Family Residential,Nashville,37204,475000,4,3,2128,41382,1960,223
+Single Family Residential,Nashville,37206,249900,3,2,1450,12632,1958,172
+Single Family Residential,Nashville,37221,286990,3,2.5,1801,7405,2018,159
+Single Family Residential,Nashville,37206,357400,4,2,2572,14810,1963,139
+Single Family Residential,Nashville,37221,289500,3,2,1816,,1984,159
+Single Family Residential,Nashville,37013,269000,3,2.5,1953,7840,1988,138
+Single Family Residential,Nashville,37210,98500,3,1,933,6098,1920,106
+Single Family Residential,Nashville,37210,199900,3,1,1000,14810,1956,200
+Single Family Residential,Nashville,37212,1149000,4,4.5,4117,10454,2017,279
+Single Family Residential,Nashville,37217,185000,2,1,950,11761,1955,195
+Single Family Residential,Nashville,37115,249942,3,2.5,1850,,2017,135
+Single Family Residential,Nashville,37013,150000,3,2,1248,12196,1984,120
+Single Family Residential,Nashville,37211,449900,3,3,2847,13503,2002,158
+Single Family Residential,Nashville,37205,439900,4,3,2112,41817,1964,208
+Single Family Residential,Nashville,37027,1599995,5,6,8130,41382,2004,197
+Single Family Residential,Nashville,37209,389983,3,3,1850,7405,2016,211
+Townhouse,Nashville,37216,214941,4,2,1575,,1979,136
+Single Family Residential,Nashville,37221,429000,4,2.5,3022,11325,1985,142
+Single Family Residential,Nashville,37208,125000,2,1,792,7405,1965,158
+Single Family Residential,Nashville,37206,550000,3,2.5,2070,8712,1876,266
+Single Family Residential,Nashville,37211,288400,3,2,1650,13939,1966,175
+Single Family Residential,Nashville,37210,284900,3,1,1484,11761,1949,192
+Single Family Residential,Nashville,37135,479900,4,3.5,2960,,2017,162
+Single Family Residential,Nashville,37013,369900,3,3,3360,122839,1986,110
+Single Family Residential,Nashville,37209,289900,2,1,720,5662,1951,403
+Single Family Residential,Nashville,37207,340000,3,2.5,2318,6534,2016,147
+Single Family Residential,Nashville,37076,227500,3,1.5,1500,8712,1982,152
+Single Family Residential,Nashville,37115,249900,3,3,1910,18295,1945,131
+Single Family Residential,Nashville,37013,190500,3,1.5,1574,11761,1968,121
+Single Family Residential,Nashville,37122,419900,4,3,2301,148104,1985,182
+Single Family Residential,Nashville,37013,175000,3,2,1051,13068,1965,167
+Single Family Residential,Nashville,37013,329900,3,2.5,3083,5662,2004,107
+Single Family Residential,Nashville,37215,650000,4,3.5,2920,7405,1979,223
+Single Family Residential,Nashville,37076,254500,3,2,1740,10018,1991,146
+Single Family Residential,Nashville,37221,639900,4,4,4397,14810,1996,146
+Single Family Residential,Nashville,37208,699950,3,2.5,2600,10890,1910,269
+Single Family Residential,Nashville,37209,449998,4,3,2132,,2017,211
+Single Family Residential,Nashville,37214,309000,4,1.5,2000,21780,1955,155
+Single Family Residential,Nashville,37211,374000,4,2,2451,18295,2008,153
+Single Family Residential,Nashville,37211,434900,4,3,4032,20908,2004,108
+Single Family Residential,Nashville,37211,249900,3,1,1064,8712,1935,235
+Single Family Residential,Nashville,37209,225000,3,1,930,6098,1955,242
+Single Family Residential,Nashville,37211,385000,3,2,2190,8276,2001,176
+Single Family Residential,Nashville,37217,750000,4,2,1987,47916,1935,377
+Single Family Residential,Nashville,37115,249942,3,2.5,2024,8712,2017,123
+Single Family Residential,Nashville,37216,379900,3,2.5,1890,6969,2017,201
+Single Family Residential,Nashville,37215,650000,3,2.5,3119,6969,1992,208
+Single Family Residential,Nashville,37206,449000,3,3,2142,12632,1899,210
+Single Family Residential,Nashville,37211,279500,2,1,1650,20908,1960,169
+Single Family Residential,Nashville,37013,330000,5,3.5,3305,6534,2003,100
+Single Family Residential,Nashville,37212,699000,4,3.5,4039,9583,1991,173
+Single Family Residential,Nashville,37211,298900,3,1,1258,31363,1956,238
+Single Family Residential,Nashville,37207,225000,2,1,768,18295,1952,293
+Single Family Residential,Nashville,37072,165000,2,2,1052,3920,1989,157
+Single Family Residential,Nashville,37027,394900,4,3,2408,14374,1985,164
+Single Family Residential,Nashville,37221,339900,3,2.5,2095,11761,1991,162
+Single Family Residential,Nashville,37209,483900,4,3.5,3072,10890,2018,158
+Single Family Residential,Nashville,37207,419999,3,2.5,1990,5662,2017,211
+Single Family Residential,Nashville,37013,289900,4,2.5,2898,7405,1997,100
+Single Family Residential,Nashville,37206,629900,4,3,2410,7405,2017,261
+Single Family Residential,Nashville,37135,425000,4,2.5,2892,7405,2016,147
+Single Family Residential,Nashville,37209,399900,2,2,1224,6098,1954,327
+Single Family Residential,Nashville,37209,849900,5,3.5,3800,10018,1920,224
+Single Family Residential,Nashville,37220,1050000,3,4,4208,112820,1952,250
+Single Family Residential,Nashville,37206,225000,3,1,1052,10890,1978,214
+Single Family Residential,Nashville,37216,349900,4,2,2134,13068,1955,164
+Single Family Residential,Nashville,37214,289901,4,3,2243,8276,1993,129
+Townhouse,Nashville,37210,199900,2,2,1145,,1970,175
+Single Family Residential,Nashville,37013,345000,4,2.5,3054,9147,2007,113
+Single Family Residential,Nashville,37208,299999,3,2.5,1678,,2017,179
+Single Family Residential,Nashville,37205,999000,5,4,4827,94089,1956,207
+Single Family Residential,Nashville,37205,1399900,4,3.5,5481,53143,1956,255
+Single Family Residential,Nashville,37209,349900,3,3,1600,9147,2017,219
+Single Family Residential,Nashville,37138,289900,3,2.5,2430,4791,1928,119
+Single Family Residential,Nashville,37027,475000,4,3.5,3670,16552,1999,129
+Single Family Residential,Nashville,37214,279900,3,2,1520,14810,1955,184
+Single Family Residential,Nashville,37206,370000,3,1.5,1996,28314,1954,185
+Single Family Residential,Nashville,37205,1950000,5,6,5896,31798,2002,331
+Single Family Residential,Nashville,37204,406000,3,2,1493,17424,1954,272
+Single Family Residential,Nashville,37115,229900,3,2,1649,52272,1959,139
+Single Family Residential,Nashville,37115,255000,3,2.5,1880,,2017,136
+Single Family Residential,Nashville,37212,599000,3,2,1973,8712,1929,304
+Single Family Residential,Nashville,37072,259000,3,2,2496,43560,1930,104
+Single Family Residential,Nashville,37211,50000,3,1,1000,33976,1956,50
+Single Family Residential,Nashville,37207,245000,2,1,1049,12196,1951,234
+Single Family Residential,Nashville,37212,549000,3,2,1856,6534,1942,296
+Single Family Residential,Nashville,37115,249942,3,2.5,1850,,2017,135
+Single Family Residential,Nashville,37221,289900,3,2.5,1824,6098,2004,159
+Single Family Residential,Nashville,37215,1097000,4,5,5155,,1995,213
+Single Family Residential,Nashville,37206,489000,4,2.5,2518,3920,2017,194
+Single Family Residential,Nashville,37215,579900,2,3,2584,42253,1954,224
+Single Family Residential,Nashville,37206,495000,4,2.5,2576,3920,2017,192
+Single Family Residential,Nashville,37013,276990,4,2.5,2225,6534,2017,124
+Single Family Residential,Nashville,37208,299900,3,3,1688,7405,2017,178
+Single Family Residential,Nashville,37013,250000,4,2.5,2662,23086,1995,94
+Single Family Residential,Nashville,37216,299900,3,2,1946,16117,1976,154
+Townhouse,Nashville,37205,625000,5,3,2533,,1955,247
+Single Family Residential,Nashville,37211,389900,4,3.5,3630,7840,1995,107
+Single Family Residential,Nashville,37115,399900,4,3,2690,41817,1964,149
+Single Family Residential,Nashville,37207,235000,2,1,1245,8712,1910,189
+Townhouse,Nashville,37214,189900,3,2,1312,,1963,145
+Single Family Residential,Nashville,37208,283500,3,2.5,1492,7405,2017,190
+Single Family Residential,Nashville,37211,249900,3,3,1951,15245,1953,128
+Single Family Residential,Nashville,37208,299400,3,2.5,1576,7405,2017,190
+Single Family Residential,Nashville,37207,224900,2,1,838,7840,1948,268
+Townhouse,Nashville,37013,199000,4,2,1662,,1973,120
+Single Family Residential,Nashville,37209,349944,3,1.5,1640,11325,1962,213
+Single Family Residential,Nashville,37013,415000,5,3.5,3520,11325,2015,118
+Single Family Residential,Nashville,37206,499900,2,3,2306,10890,1925,217
+Single Family Residential,Nashville,37013,471599,4,2,3500,392911,1993,135
+Single Family Residential,Nashville,37216,315000,3,2,1349,20908,1956,234
+Single Family Residential,Nashville,37215,1497000,4,4.5,4484,10454,2016,334
+Single Family Residential,Nashville,37206,730475,4,3.5,2385,1306,2017,306
+Single Family Residential,Nashville,37216,339500,3,2,1773,17859,1947,191
+Single Family Residential,Nashville,37076,325000,3,2.5,2754,8276,2008,118
+Single Family Residential,Nashville,37138,328900,4,2,1947,5227,1930,169
+Single Family Residential,Nashville,37221,335000,4,3,2585,12632,1969,130
+Single Family Residential,Nashville,37203,415000,3,2,1660,7840,1940,250
+Single Family Residential,Nashville,37216,200000,3,1,888,18730,1957,225
+Single Family Residential,Nashville,37076,290000,4,2.5,2324,9583,1988,125
+Single Family Residential,Nashville,37211,349900,3,1.5,2177,35719,1956,161
+Single Family Residential,Nashville,37203,950000,3,1,1325,9583,1972,717
+Single Family Residential,Nashville,37215,950000,4,3.5,2901,146361,1979,327
+Single Family Residential,Nashville,37206,730475,3,4,2385,1306,2017,306
+Single Family Residential,Nashville,37138,410000,3,4,3470,20908,1986,118
+Single Family Residential,Nashville,37209,232500,3,1,1104,5227,1930,211
+Single Family Residential,Nashville,37205,1449900,5,5.5,5091,46173,2017,285
+Single Family Residential,Nashville,37138,699900,4,3.5,3324,33976,2017,211
+Single Family Residential,Nashville,37215,2199900,5,6,5996,29620,2018,367
+Single Family Residential,Nashville,37209,299900,4,2,1350,2178,1994,222
+Single Family Residential,Nashville,37208,220000,2,2,1386,4356,1924,159
+Single Family Residential,Nashville,37027,579000,5,4.5,4577,15245,1992,127
+Single Family Residential,Nashville,37206,775000,3,3.5,2571,1742,2017,301
+Single Family Residential,Nashville,37072,309900,3,2.5,1879,217800,1966,165
+Single Family Residential,Nashville,37205,875000,4,4.5,3802,,2017,230
+Single Family Residential,Nashville,37216,315000,3,2,1510,13939,1952,209
+Single Family Residential,Nashville,37221,602345,4,4.5,4369,10018,2017,138
+Single Family Residential,Nashville,37215,1800000,5,6,5108,46609,2017,352
+Single Family Residential,Nashville,37204,1249000,5,4.5,4005,8276,2017,312
+Single Family Residential,Nashville,37080,255000,4,2,2132,84070,1957,120
+Single Family Residential,Nashville,37214,279900,4,2.5,2100,26136,1960,133
+Single Family Residential,Nashville,37013,254900,3,2.5,2209,5662,2007,115
+Single Family Residential,Nashville,37205,455000,3,1.5,1949,48351,1958,233
+Single Family Residential,Nashville,37027,465900,4,2.5,3536,12196,2003,132
+Single Family Residential,Nashville,37209,338000,3,1.5,1833,11325,1962,184
+Single Family Residential,Nashville,37205,579000,4,3,2888,47916,1963,200
+Single Family Residential,Nashville,37115,389990,4,3,2502,36154,1997,156
+Single Family Residential,Nashville,37205,774900,4,2,2400,13939,1920,323
+Single Family Residential,Nashville,37013,314900,4,3,2674,6534,2017,118
+Single Family Residential,Nashville,37204,4200000,9,8,9638,353707,1970,436
+Single Family Residential,Nashville,37209,439900,3,2.5,2174,4356,2017,202
+Single Family Residential,Nashville,37122,648500,5,4,4160,226512,1987,156
+Single Family Residential,Nashville,37208,172500,3,2,1026,,2003,168
+Single Family Residential,Nashville,37115,165000,2,2.5,1252,871,1986,132
+Single Family Residential,Nashville,37218,189900,3,1,576,22215,1951,330
+Single Family Residential,Nashville,37218,189900,4,2,2304,22215,1949,82
+Single Family Residential,Nashville,37215,724900,4,3.5,3577,14810,1944,203
+Single Family Residential,Nashville,37072,385900,3,3,3042,479160,1962,127
+Single Family Residential,Nashville,37215,699000,5,3.5,3704,40075,1980,189
+Single Family Residential,Nashville,37209,279500,2,1,898,8276,1961,311
+Single Family Residential,Nashville,37209,419000,4,3.5,2341,11325,1997,179
+Single Family Residential,Nashville,37209,384900,3,2,1224,13068,1959,314
+Single Family Residential,Nashville,37080,425000,3,2.5,3725,118483,1975,114
+Single Family Residential,Nashville,37027,459900,4,3.5,3323,11761,1995,138
+Single Family Residential,Nashville,37205,415000,3,2.5,2536,18295,1997,164
+Single Family Residential,Nashville,37205,399900,3,2.5,2340,19166,1997,171
+Single Family Residential,Nashville,37215,800000,4,3.5,4531,8712,1986,177
+Single Family Residential,Nashville,37207,234900,6,2.5,2186,12632,1968,107
+Single Family Residential,Nashville,37209,139900,3,1,1185,7405,1950,118
+Single Family Residential,Nashville,37216,309999,3,2,1223,11761,1948,253
+Single Family Residential,Nashville,37209,625000,3,2,2305,17859,1940,271
+Single Family Residential,Nashville,37209,320000,3,2,2150,21780,1955,149
+Single Family Residential,Nashville,37205,599900,3,3.5,3155,,2006,190
+Single Family Residential,Nashville,37206,520000,3,2.5,2158,3920,2015,241
+Single Family Residential,Nashville,37013,349900,4,3.5,3205,7405,2006,109
+Single Family Residential,Nashville,37207,257000,2,1,850,3484,1940,302
+Single Family Residential,Nashville,37211,224500,2,1,888,18295,1945,253
+Single Family Residential,Nashville,37076,299900,3,2,2085,7840,2014,144
+Single Family Residential,Nashville,37220,685000,4,2.5,3039,54014,1979,225
+Single Family Residential,Nashville,37209,381500,3,3,1920,,2017,199
+Single Family Residential,Nashville,37013,279900,4,2.5,2651,8712,2006,106
+Single Family Residential,Nashville,37027,348843,4,3,3098,10454,2006,113
+Single Family Residential,Nashville,37204,785000,4,3.5,3760,10890,2006,209
+Single Family Residential,Nashville,37216,269900,3,1,1364,17424,1951,198
+Single Family Residential,Nashville,37013,182900,3,2.5,1370,2613,2017,134
+Single Family Residential,Nashville,37214,239900,4,1.5,1722,37897,1959,139
+Single Family Residential,Nashville,37209,437000,3,3.5,1680,871,2014,260
+Single Family Residential,Nashville,37209,375000,3,2.5,1401,14374,1920,268
+Single Family Residential,Nashville,37215,1999900,6,6.5,6126,84942,2017,326
+Single Family Residential,Nashville,37217,279900,4,2,1693,44431,1955,165
+Single Family Residential,Nashville,37215,514900,3,2.5,1981,1742,1990,260
+Single Family Residential,Nashville,37080,699900,3,2.5,2518,219106,2013,278
+Single Family Residential,Nashville,37205,949000,4,2.5,2857,46609,1910,332
+Single Family Residential,Nashville,37115,198900,3,1.5,1000,32670,1945,199
+Single Family Residential,Nashville,37217,229000,4,2,1170,16117,1948,196
+Single Family Residential,Nashville,37211,349900,4,2.5,2384,11325,1995,147
+Single Family Residential,Nashville,37206,252500,2,1,704,6098,1959,359
+Single Family Residential,Nashville,37206,199999,2,1,704,8276,1950,284
+Single Family Residential,Nashville,37013,225900,3,2.5,1892,9147,2007,119
+Single Family Residential,Nashville,37207,199000,3,1,978,12196,1951,203
+Single Family Residential,Nashville,37217,289900,3,2.5,2200,11761,1986,132
+Single Family Residential,Nashville,37215,764900,4,3.5,3825,10454,1986,200
+Single Family Residential,Nashville,37203,1025000,4,4,3216,9583,2017,319
+Single Family Residential,Nashville,37216,419900,3,2.5,2010,30927,1935,209
+Single Family Residential,Nashville,37013,289000,4,3.5,3200,10018,1994,90
+Single Family Residential,Nashville,37205,449000,4,3,2275,56628,1963,197
+Single Family Residential,Nashville,37211,349900,3,2,2412,9147,2008,145
+Single Family Residential,Nashville,37215,574999,2,1.5,1790,11761,1941,321
+Single Family Residential,Nashville,37209,1099000,4,5,3689,7840,2017,298
+Single Family Residential,Nashville,37212,824900,3,3,2929,14810,1930,282
+Single Family Residential,Nashville,37209,349900,3,1,1248,16552,1937,280
+Single Family Residential,Nashville,37209,525000,3,3,2772,3049,2017,189
+Single Family Residential,Nashville,37013,499900,3,4,3913,128066,1991,128
+Single Family Residential,Nashville,37205,749000,3,3.5,3874,7840,1978,193
+Single Family Residential,Nashville,37216,249900,3,2,1001,16117,1960,250
+Single Family Residential,Nashville,37215,499900,3,2,1453,13068,1960,344
+Single Family Residential,Nashville,37221,359000,4,2.5,2732,14810,1986,131
+Single Family Residential,Nashville,37207,369900,3,2,1550,7840,1920,239
+Single Family Residential,Nashville,37135,439934,4,3,2719,9583,2010,162
+Single Family Residential,Nashville,37221,779900,4,3.5,4603,25264,2006,169
+Single Family Residential,Nashville,37221,519900,5,3.5,3800,15681,1996,137
+Single Family Residential,Nashville,37221,279900,2,2.5,1979,871,2002,141
+Single Family Residential,Nashville,37208,339900,3,2.5,1580,5227,2017,215
+Single Family Residential,Burlington,5401,339900,3,1.75,1370,5662,1899,248
+Single Family Residential,Burlington,5401,465000,5,1.75,2086,3484,1905,223
+Single Family Residential,Burlington,5401,650000,5,2.75,2969,16552,1875,219
+Single Family Residential,Burlington,5401,999900,6,2.5,3144,9147,1854,318
+Townhouse,Burlington,5401,334900,3,2.5,1456,,1977,230
+Single Family Residential,Burlington,5401,395000,4,2,2906,4356,1904,136
+Single Family Residential,Burlington,5401,1095000,3,2.5,1976,23086,1965,554
+Townhouse,Burlington,5401,349900,2,1.5,1888,,1985,185
+Single Family Residential,Burlington,5401,589900,7,2.5,2340,1742,1910,252
+Single Family Residential,Burlington,5401,699950,4,2.5,2225,5227,1905,315
+Single Family Residential,Burlington,5401,474900,4,2.5,1957,3920,1940,243
+Single Family Residential,Burlington,5401,1475000,6,3.25,4447,289674,1950,332
+Single Family Residential,Burlington,5401,359000,5,2,2100,5227,1910,171
+Single Family Residential,Burlington,5401,357500,4,2,1758,4791,1920,203
+Single Family Residential,Burlington,5401,484900,4,2.5,2195,21780,1988,221
+Single Family Residential,Burlington,5401,389900,4,1.5,1742,6534,1935,224
+Single Family Residential,Burlington,5401,1895000,3,4,3800,67518,1991,499
+Single Family Residential,Burlington,5401,465000,3,2,1300,3484,1946,358
+Single Family Residential,Burlington,5401,381000,4,2,1740,3920,2001,219
+Single Family Residential,Burlington,5401,112100,3,1,1608,6534,1927,70
+Single Family Residential,Burlington,5401,575000,3,3,3180,14810,1899,181
+Single Family Residential,Burlington,5401,850000,4,4,4806,6969,1915,177
+Single Family Residential,Burlington,5401,499000,4,1,1873,14810,1930,266
+Single Family Residential,Burlington,5401,505000,4,2,1910,3920,1930,264
+Single Family Residential,Burlington,5401,352300,3,2,1307,7405,1956,270
+Single Family Residential,Burlington,5401,365000,3,1,1508,4792,1915,242
+Single Family Residential,Burlington,5401,225000,2,1,967,2178,1899,233
+Townhouse,Burlington,5401,170000,2,1.5,922,,2004,184
+Single Family Residential,Burlington,5401,298000,6,3,2114,5227,1899,141
+Single Family Residential,Burlington,5401,577000,2,1.5,1691,12196,1941,341
+Single Family Residential,Burlington,5401,510000,4,1.5,2087,4356,1910,244
+Townhouse,Burlington,5401,302500,3,2.5,1266,,1992,239
+Townhouse,Burlington,5401,593000,2,2,2080,,1987,285
+Single Family Residential,Burlington,5401,319900,5,2,2521,4792,1905,127
+Single Family Residential,Burlington,5401,,3,3,2224,28750,1955,
+Single Family Residential,Burlington,5401,405000,3,2,1753,5227,1899,231
+Single Family Residential,Burlington,5401,506000,2,3,1632,12632,1995,310
+Single Family Residential,Burlington,5401,390000,3,2,1248,7405,1960,313
+Single Family Residential,Burlington,5401,,3,1,1208,6098,1932,
+Single Family Residential,Burlington,5401,429000,4,2.75,3132,2395800,1963,137
+Single Family Residential,Burlington,5401,259900,2,1,1401,3049,1899,186
+Single Family Residential,Burlington,5401,466300,3,1.5,1672,12196,1940,279
+Single Family Residential,Burlington,5401,292500,3,1,938,3049,1915,312
+Townhouse,Burlington,5401,182000,2,1,1000,,1992,182
+Townhouse,Burlington,5401,449000,2,2.25,1799,,1982,250
+Townhouse,Burlington,5401,249000,2,1.5,1152,,1993,216
+Single Family Residential,Burlington,5401,339000,3,1.75,1420,11325,1962,239
+Single Family Residential,Burlington,5401,,3,2,2246,12197,1953,
+Single Family Residential,Burlington,5401,479000,3,1.5,1356,5227,1929,353
+Townhouse,Burlington,5401,265000,2,1.5,1122,,1984,236
+Single Family Residential,Burlington,5401,550000,4,3,3052,28314,1928,180
+Townhouse,Burlington,5403,249000,2,1.5,1152,,1993,216
+Single Family Residential,Burlington,5401,359900,3,1.5,1715,7405,1918,210
+Single Family Residential,Burlington,5401,545000,4,2,2300,12196,1906,237
+Townhouse,Burlington,5401,327000,3,2.5,1456,,1977,225
+Single Family Residential,Burlington,5401,520000,4,1.5,1908,8276,1918,273
+Single Family Residential,Burlington,5401,479000,5,2.25,2082,3484,1915,230
+Townhouse,Burlington,5401,408000,4,2.5,1800,,1996,227
+Single Family Residential,Burlington,5401,405000,3,1.5,1315,4791,1929,308
+Single Family Residential,Burlington,5401,775000,6,4.5,4634,24393,1927,167
+Single Family Residential,Burlington,5401,625000,4,2.5,2875,18730,1988,217
+Townhouse,Burlington,5401,220000,2,1.5,1088,,1978,202
+Single Family Residential,Burlington,5401,415000,3,2,2024,14810,1957,205
+Single Family Residential,Burlington,5401,345000,4,2,2064,4792,1899,167
+Townhouse,Burlington,5401,330000,2,2.5,1789,,1989,184
+Single Family Residential,Burlington,5401,320000,5,3,2352,3485,1915,136
+Single Family Residential,Burlington,5401,457000,3,2,1984,7841,1989,230
+Single Family Residential,Burlington,5401,430000,3,2,1608,23958,1953,267
+Townhouse,Burlington,5401,230000,3,1.5,1286,,1986,179
+Single Family Residential,Burlington,5401,329000,4,2,1877,4791,1920,175
+Single Family Residential,Burlington,5401,230000,2,2,1642,4356,1899,140
+Single Family Residential,Burlington,5401,226000,3,2,1743,3485,1922,130
+Single Family Residential,Burlington,5403,339000,3,1,1420,11326,1962,239
+Townhouse,Washington,20017,741275,3,3.5,1806,881,2012,410
+Townhouse,Washington,20020,374900,2,2,971,2729,1937,386
+Townhouse,Washington,20024,959900,4,3.5,1615,871,2001,594
+Townhouse,Washington,20017,360000,2,2.5,1360,,1987,265
+Townhouse,Washington,20011,635000,4,3.5,1233,1769,1932,515
+Townhouse,Washington,20783,239900,2,1,1268,7558,1954,189
+Townhouse,Washington,20007,655000,2,1,946,558,1890,692
+Single Family Residential,Washington,20002,625000,4,3.5,1786,1523,1927,350
+Townhouse,Washington,20002,799900,3,2.5,1760,1940,1909,454
+Townhouse,Washington,20001,1250000,4,3.5,2250,1071,1900,556
+Townhouse,Washington,20002,769000,4,2.5,1375,1238,1941,559
+Townhouse,Washington,20015,970000,4,3.5,2700,3255,1923,359
+Townhouse,Washington,20002,830000,4,2.5,1991,1039,1928,417
+Townhouse,Washington,20002,759000,3,3.5,1800,1427,1938,422
+Townhouse,Washington,20009,1699000,4,3,3040,2000,1895,559
+Single Family Residential,Washington,20018,475000,3,1.5,2400,3997,1952,198
+Townhouse,Washington,20011,535000,3,1.5,1632,2272,1935,328
+Single Family Residential,Washington,20002,500935,3,1,1080,871,1912,464
+Townhouse,Washington,20019,285000,2,2,930,2233,1945,306
+Townhouse,Washington,20010,600000,2,1,1052,1402,1913,570
+Townhouse,Washington,20010,650000,3,1,1537,1511,1910,423
+Townhouse,Washington,20011,540000,3,3,1898,1798,1920,285
+Townhouse,Washington,20002,1010000,3,1.5,2103,1612,1900,480
+Townhouse,Washington,20010,853000,3,2,1990,1473,1912,429
+Single Family Residential,Washington,20019,350000,3,1.5,1288,3452,1915,272
+Single Family Residential,Washington,20712,405000,5,2,1446,5760,1939,280
+Townhouse,Washington,20018,570000,4,3.5,2090,1720,2015,273
+Townhouse,Washington,20011,432500,3,2,1632,2900,1955,265
+Townhouse,Washington,20012,595000,4,3.5,2290,1977,1925,260
+Townhouse,Washington,20010,1578000,6,5.5,3719,1943,1907,424
+Townhouse,Washington,20003,979000,3,3.5,2050,873,2004,478
+Single Family Residential,Washington,20019,300000,2,1,1040,4914,1940,288
+Townhouse,Washington,20011,500000,3,2,1581,1760,1927,316
+Single Family Residential,Washington,20815,750000,,3,1320,6308,1951,568
+Townhouse,Washington,20011,710000,3,4,2220,1979,1919,320
+Townhouse,Washington,20019,245000,3,2.5,1683,688,2011,146
+Single Family Residential,Washington,20018,447000,4,3.5,1653,8253,1925,270
+Townhouse,Washington,20020,310000,3,2.5,1800,2072,2001,172
+Townhouse,Washington,20001,910000,3,3.5,2043,1440,1909,445
+Townhouse,Washington,20010,825000,3,2.5,2570,1469,1908,321
+Townhouse,Washington,20010,935000,3,2.5,1560,1483,1916,599
+Single Family Residential,Washington,20019,416500,3,2.5,1729,5072,1955,241
+Townhouse,Washington,20002,685000,3,2,1440,1433,1927,476
+Townhouse,Washington,20003,817000,2,1,1239,2078,1900,659
+Townhouse,Washington,20011,700000,4,2.5,2100,2080,1917,333
+Townhouse,Washington,20011,675000,4,3.5,2043,1620,1925,330
+Townhouse,Washington,20011,732500,4,2.5,2128,1442,1919,344
+Single Family Residential,Washington,20032,475300,3,3.5,2496,3049,2003,190
+Townhouse,Washington,20007,1325000,3,3.5,3024,1631,1981,438
+Townhouse,Washington,20010,720000,2,2,1100,,1910,655
+Townhouse,Washington,20032,405000,4,3.5,2160,2500,1941,188
+Single Family Residential,Washington,20011,919000,5,3.5,3275,5774,1911,281
+Single Family Residential,Washington,20016,1155000,3,2.5,2670,4000,1971,433
+Townhouse,Washington,20017,599000,4,3,2100,3147,1935,285
+Single Family Residential,Washington,20018,699900,3,2.5,1450,4000,1947,483
+Townhouse,Washington,20002,674999,2,3,952,1581,1929,709
+Townhouse,Washington,20009,875000,2,2,1327,,1900,659
+Single Family Residential,Washington,20016,1200000,3,4,1761,7348,1932,681
+Townhouse,Washington,20010,975000,3,1,1880,2100,1920,519
+Townhouse,Washington,20009,850000,3,2.5,1239,,1900,686
+Single Family Residential,Washington,20012,789000,4,3,2548,5906,1956,310
+Townhouse,Washington,20020,319900,2,2.5,1248,1840,1950,256
+Townhouse,Washington,20011,629900,3,3,1976,2531,1931,319
+Townhouse,Washington,20007,1595000,4,5.5,3258,1617,1986,490
+Townhouse,Washington,20005,724900,2,2,1334,,1885,543
+Townhouse,Washington,20009,725000,2,2.5,1210,,1977,599
+Townhouse,Washington,20009,2999900,5,4.5,3800,,2017,789
+Townhouse,Washington,20009,2749900,4,4.5,3400,,2017,809
+Single Family Residential,Washington,20032,800000,5,4.5,2482,5785,2016,322
+Townhouse,Washington,20011,400000,4,2,1054,1965,1928,380
+Townhouse,Washington,20011,559000,3,3,1600,,1923,349
+Single Family Residential,Washington,20011,2250000,5,4.5,6250,6207,1923,360
+Townhouse,Washington,20009,1925000,4,3,2300,698,1888,837
+Townhouse,Washington,20017,979000,4,3.5,2965,,2017,330
+Townhouse,Washington,20019,285000,3,3,1254,2500,1975,227
+Townhouse,Washington,20011,609000,3,3,1885,,1923,323
+Townhouse,Washington,20007,3398000,5,4.5,3224,1803,1900,1054
+Townhouse,Washington,20009,1849900,5,4,2867,1620,1900,645
+Townhouse,Washington,20009,775000,3,1.5,1117,827,1900,694
+Single Family Residential,Washington,20003,999000,3,2,1636,2260,1864,611
+Townhouse,Washington,20002,604500,3,1.5,1288,1644,1927,469
+Townhouse,Washington,20012,699000,4,3.5,1088,1590,1929,642
+Townhouse,Washington,20002,1499999,4,4.5,2786,1783,1905,538
+Townhouse,Washington,20007,899000,2,1,1030,996,1900,873
+Single Family Residential,Washington,20011,499875,0,,1320,1802,1921,379
+Townhouse,Washington,20003,615000,2,1,840,1358,1923,732
+Townhouse,Washington,20001,749000,2,1.5,,1152,1880,
+Townhouse,Washington,20016,1180000,3,2.5,2610,5860,1980,452
+Townhouse,Washington,20015,925000,3,3,2840,2080,1978,326
+Single Family Residential,Washington,20008,2595000,5,5.5,5000,7636,1937,519
+Single Family Residential,Washington,20007,3890000,6,7,,8450,2017,
+Townhouse,Washington,20002,975000,3,3,1956,1451,1927,498
+Single Family Residential,Washington,20016,1385000,5,3.5,2268,5051,1963,611
+Townhouse,Washington,20011,539900,2,2,822,,2017,657
+Townhouse,Washington,20009,2250000,6,4.5,3852,2167,1909,584
+Townhouse,Washington,20002,779999,3,2.5,1156,1744,1937,675
+Single Family Residential,Washington,20011,595000,3,1.5,1372,5574,1922,434
+Townhouse,Washington,20011,789900,3,3,1408,,2017,561
+Townhouse,Washington,20011,609900,4,3.5,2156,2566,1929,283
+Single Family Residential,Washington,20016,2635000,7,5.5,5100,17829,1952,517
+Single Family Residential,Washington,20018,639000,3,2.5,1436,3447,1900,445
+Townhouse,Washington,20017,779000,3,3.5,1800,856,2013,433
+Townhouse,Washington,20009,399000,1,1,620,,1890,644
+Single Family Residential,Washington,20011,519000,3,3,1800,3833,1932,288
+Single Family Residential,Washington,20018,819000,4,3.5,968,4140,1927,846
+Townhouse,Washington,20032,275000,3,3,1332,2007,1948,206
+Single Family Residential,Washington,20016,1295000,5,4,2942,8288,1952,440
+Townhouse,Washington,20016,829000,3,2.5,1840,3141,1927,451
+Single Family Residential,Washington,20743,135000,2,1,940,6000,1924,144
+Townhouse,Washington,20010,795000,4,3.5,1504,1700,1915,529
+Townhouse,Washington,20009,1949000,5,4,3163,1954,1900,616
+Townhouse,Washington,20017,390000,3,2.5,1260,3001,1974,310
+Townhouse,Washington,20020,375000,3,2,1116,3250,1923,336
+Townhouse,Washington,20001,799900,4,2.5,1878,1512,1909,426
+Single Family Residential,Washington,20745,265000,3,1.5,1042,11018,1976,254
+Townhouse,Washington,20002,649000,3,1,1044,1038,1925,622
+Townhouse,Washington,20032,315000,3,2,1104,4365,1941,285
+Townhouse,Washington,20016,950000,5,4,2480,1576,1925,383
+Single Family Residential,Washington,20011,599000,3,2,1064,1500,1907,563
+Townhouse,Washington,20012,425000,3,1.5,1088,1729,1929,391
+Townhouse,Washington,20010,1488000,6,4.5,3693,3693,1910,403
+Townhouse,Washington,20019,286000,2,1,810,1860,1941,353
+Single Family Residential,Washington,20019,360000,4,3.5,2511,2542,2007,143
+Townhouse,Washington,20019,193800,2,1,800,2064,1945,242
+Townhouse,Washington,20002,650000,4,2.5,2335,1550,1916,278
+Townhouse,Washington,20002,550000,3,2,1292,1595,1914,426
+Single Family Residential,Washington,20011,999999,4,4,3195,5040,1921,313
+Townhouse,Washington,20009,748000,2,2,1100,,1920,680
+Townhouse,Washington,20020,359900,3,2.5,1200,1675,1999,300
+Townhouse,Washington,20002,749000,3,3.5,1701,1298,1927,440
+Townhouse,Washington,20007,3800000,6,5.5,3388,3300,1900,1122
+Townhouse,Washington,20002,529000,3,1,1152,968,1912,459
+Single Family Residential,Washington,20020,449000,3,1.5,1444,5949,1939,311
+Single Family Residential,Washington,20743,265000,3,2,1262,5200,1926,210
+Townhouse,Washington,20002,599900,4,3.5,1262,1360,1927,475
+Single Family Residential,Washington,20011,925000,5,3,1944,2996,1942,476
+Single Family Residential,Washington,20012,870000,4,4.5,1892,9486,1938,460
+Townhouse,Washington,20002,729999,2,2,1756,,1919,416
+Single Family Residential,Washington,20019,160000,2,1,660,4000,1929,242
+Townhouse,Washington,20011,650000,4,2.5,1866,1900,1920,348
+Townhouse,Washington,20032,190000,5,2,2384,6422,1953,80
+Townhouse,Washington,20003,539000,1,1,728,521,1900,740
+Townhouse,Washington,20020,299500,2,2,832,2253,1950,360
+Single Family Residential,Washington,20020,410000,3,1,925,3135,1970,443
+Townhouse,Washington,20002,399000,3,1,2090,1138,1939,191
+Townhouse,Washington,20019,349900,3,2,800,2520,1945,437
+Townhouse,Washington,20020,239900,2,1,900,956,1946,267
+Townhouse,Washington,20002,1330000,5,4.5,3208,1616,1900,415
+Single Family Residential,Washington,20020,349500,3,1.5,1200,4210,1941,291
+Townhouse,Washington,20001,839900,3,3.5,1324,1058,1910,634
+Townhouse,Washington,20011,399000,2,1,800,1600,1925,499
+Townhouse,Washington,20019,290000,3,2.5,810,2845,1945,358
+Townhouse,Washington,20020,359999,3,2.5,1124,2106,1942,320
+Townhouse,Washington,20009,1295000,4,3.5,2102,1394,1885,616
+Single Family Residential,Washington,20016,2399500,5,4.5,5200,10052,1939,461
+Townhouse,Washington,20002,849900,4,3.5,2100,1700,1908,405
+Townhouse,Washington,20012,584900,2,2.5,1372,,2017,426
+Townhouse,Washington,20020,285000,3,1.5,1398,2273,1936,204
+Townhouse,Washington,20012,399900,3,2,1088,3270,1958,368
+Townhouse,Washington,20019,249900,2,2,1215,2251,1945,206
+Townhouse,Washington,20019,265000,2,1.5,1046,2875,1937,253
+Townhouse,Washington,20007,1228000,6,3.5,2875,2518,1928,427
+Townhouse,Washington,20019,315000,2,2,800,2400,1947,394
+Townhouse,Washington,20011,530000,3,2,1404,1430,1933,377
+Townhouse,Washington,20007,649000,1,1.5,950,,1908,683
+Townhouse,Washington,20032,420000,2,2.5,1520,2037,2018,276
+Townhouse,Washington,20018,569000,3,3,1824,2530,2009,312
+Single Family Residential,Washington,20011,499000,2,1.5,1212,2800,1927,412
+Single Family Residential,Washington,20016,985800,4,3.5,2210,4500,1932,446
+Single Family Residential,Washington,20011,1200000,6,4,5274,6193,1929,228
+Townhouse,Washington,20017,456000,2,2,1163,1655,1949,392
+Townhouse,Washington,20032,470000,7,4,1536,2880,1977,306
+Townhouse,Washington,20011,665000,4,2,1520,1975,1923,438
+Single Family Residential,Washington,20011,499900,3,1.5,1071,6000,1951,467
+Single Family Residential,Washington,20011,680000,3,2,1360,3226,1900,500
+Townhouse,Washington,20010,1295000,5,3.5,3043,1375,1909,426
+Single Family Residential,Washington,20020,579000,3,2.5,1672,5143,2006,346
+Townhouse,Washington,20032,354900,3,2.5,1224,2529,1947,290
+Single Family Residential,Washington,20001,1200000,3,2.5,2074,3780,1907,579
+Townhouse,Washington,20001,1149999,3,3.5,2437,,1923,472
+Townhouse,Washington,20011,785000,6,4,2712,4150,1936,289
+Townhouse,Washington,20743,179900,2,1,1020,3500,1950,176
+Townhouse,Washington,20011,599900,2,2,,,1922,
+Townhouse,Washington,20002,399900,2,1,800,1600,1940,500
+Single Family Residential,Washington,20019,375500,4,2,976,6940,1948,385
+Townhouse,Washington,20017,499000,3,1.5,1212,3420,1939,412
+Townhouse,Washington,20019,250000,3,1,1024,3046,1940,244
+Single Family Residential,Washington,20018,511000,1,1,1582,2961,1940,323
+Single Family Residential,Washington,20011,899995,3,3.5,2700,4644,1936,333
+Townhouse,Washington,20007,1295000,3,3,1156,987,1888,1120
+Townhouse,Washington,20010,949999,4,3.5,1370,1600,1915,693
+Single Family Residential,Washington,20019,399000,3,1.5,1116,5000,1957,358
+Townhouse,Washington,20002,780000,3,2.5,1880,,1905,415
+Single Family Residential,Washington,20007,2295000,7,5.5,3225,6131,1931,712
+Single Family Residential,Washington,20007,1034000,4,2,1441,5344,1925,718
+Townhouse,Washington,20018,575000,4,3.5,1786,1742,2016,322
+Townhouse,Washington,20017,799900,3,2,1628,3709,1926,491
+Townhouse,Washington,20010,999999,4,2.5,1734,1654,1908,577
+Single Family Residential,Washington,20019,99900,1,1,,1577,1901,
+Townhouse,Washington,20003,759900,3,1,1420,1324,1909,535
+Townhouse,Washington,20001,949900,3,3.5,2244,1153,1906,423
+Townhouse,Washington,20009,1795000,5,4,3200,897,1900,561
+Townhouse,Washington,20002,395000,2,1,780,825,1942,506
+Townhouse,Washington,20002,520000,3,2,1200,929,1922,433
+Townhouse,Washington,20003,675000,3,1.5,1366,949,1915,494
+Townhouse,Washington,20002,570000,5,3,1332,1764,1913,428
+Single Family Residential,Washington,20015,929000,4,2.5,1654,5375,1929,562
+Single Family Residential,Washington,20011,558000,4,2.5,1887,6184,1950,296
+Single Family Residential,Washington,20017,1250000,5,4.5,3725,4089,1940,336
+Townhouse,Washington,20002,924900,4,3.5,2937,2513,1924,315
+Townhouse,Washington,20745,204900,3,1.5,1530,4341,1951,134
+Townhouse,Washington,20032,489000,3,3,2100,3852,2015,233
+Townhouse,Washington,20002,519900,2,2,1203,,1930,432
+Townhouse,Washington,20010,619900,2,2,843,,2017,735
+Single Family Residential,Washington,20019,215000,2,1,464,2600,1926,463
+Townhouse,Washington,20002,1175000,5,4.5,3140,1600,1910,374
+Townhouse,Washington,20011,499000,3,2.5,2263,2920,1934,221
+Single Family Residential,Washington,20008,1750000,4,4,5839,15830,1932,300
+Townhouse,Washington,20010,599900,2,2,877,,2017,684
+Townhouse,Washington,20020,385200,3,2,1664,1518,1905,231
+Townhouse,Washington,20001,899999,3,3.5,1314,1276,1925,685
+Townhouse,Washington,20018,375000,3,2.5,1920,,1979,195
+Townhouse,Washington,20015,1095000,3,3,3050,1166,1998,359
+Townhouse,Washington,20011,799000,4,3.5,1820,1620,1925,439
+Single Family Residential,Washington,20019,309000,2,1,920,3860,1930,336
+Townhouse,Washington,20011,900000,4,3,1800,3701,1924,500
+Townhouse,Washington,20011,625000,4,3.5,1054,1409,1925,593
+Single Family Residential,Washington,20019,35000,1,1,,1770,2018,
+Townhouse,Washington,20017,660000,7,2,1284,2295,1925,514
+Townhouse,Washington,20010,1325000,4,3.5,2640,2310,1922,502
+Townhouse,Washington,20746,235000,3,3.5,1376,1500,1995,171
+Townhouse,Washington,20001,899999,3,3.5,2370,,1923,380
+Townhouse,Washington,20009,1095000,2,2.5,1610,,2016,680
+Townhouse,Washington,20010,769000,3,3.5,1634,,1909,471
+Single Family Residential,Washington,20020,299000,3,1,1280,3144,1911,234
+Townhouse,Washington,20011,798500,4,3.5,1560,2000,1978,512
+Single Family Residential,Washington,20016,789900,4,2.5,1120,2404,1952,705
+Townhouse,Washington,20032,499000,3,3.5,2444,2444,2016,204
+Townhouse,Washington,20032,290000,4,2.5,1224,1226,1977,237
+Townhouse,Washington,20009,899975,3,1.5,1322,1125,1890,681
+Townhouse,Washington,20019,276000,3,1,1024,1600,1952,270
+Townhouse,Washington,20011,659000,2,1,1376,1355,1914,479
+Townhouse,Washington,20011,514900,4,3.5,1584,3113,1955,325
+Single Family Residential,Washington,20002,620000,6,3,1560,3750,1905,397
+Townhouse,Washington,20024,1250000,3,2.5,1801,,1966,694
+Townhouse,Washington,20002,725000,4,3,1994,1620,1926,364
+Townhouse,Washington,20019,320000,3,2,1248,1240,1945,256
+Townhouse,Washington,20003,699900,3,2.5,1600,,1925,437
+Single Family Residential,Washington,20019,345000,3,2.5,2074,3600,1926,166
+Townhouse,Washington,20011,710000,4,3.5,1817,2565,1927,391
+Townhouse,Washington,20010,859000,4,2.5,1312,1650,1908,655
+Townhouse,Washington,20007,2195000,4,4.5,2650,1665,1900,828
+Townhouse,Washington,20002,589900,3,2.5,1737,1325,1926,340
+Townhouse,Washington,20011,569000,3,2.5,1536,3165,1951,370
+Townhouse,Washington,20017,555900,4,2.5,1500,2493,1947,371
+Single Family Residential,Washington,20019,425000,3,2.5,1787,6893,1956,238
+Townhouse,Washington,20009,1390000,5,4.5,2429,1378,1920,572
+Townhouse,Washington,20010,849900,2,2.5,1594,896,1925,533
+Townhouse,Washington,20032,235000,2,1,896,1120,1977,262
+Townhouse,Washington,20745,253140,3,1.5,1610,2031,2017,157
+Townhouse,Washington,20745,268660,3,1.5,,3525,2017,
+Single Family Residential,Washington,20020,437000,4,3,1392,7757,1964,314
+Single Family Residential,Washington,20016,1450000,7,3.5,2448,14038,1976,592
+Townhouse,Washington,20011,630000,3,3,1670,1588,1932,377
+Single Family Residential,Washington,20020,399000,4,2.5,2298,6143,1934,174
+Single Family Residential,Washington,20018,539900,4,1.5,1399,3528,1931,386
+Townhouse,Washington,20003,649900,2,2.5,960,986,1924,677
+Townhouse,Washington,20001,1500000,7,5.5,3300,2089,1900,455
+Single Family Residential,Washington,20012,499999,3,1,1412,3600,1930,354
+Single Family Residential,Washington,20008,2070000,6,6.5,5006,6860,1932,414
+Single Family Residential,Washington,20018,575000,3,3.5,1150,3492,1927,500
+Townhouse,Washington,20001,1099000,3,2.5,1925,1998,2011,571
+Townhouse,Washington,20001,574900,2,2,1050,,1930,548
+Townhouse,Washington,20032,300000,5,2,2027,,1949,148
+Townhouse,Washington,20009,398750,1,1,822,,1910,485
+Townhouse,Washington,20019,399999,3,2,1330,4480,1958,301
+Single Family Residential,Washington,20743,82000,3,1,1220,5750,1919,67
+Townhouse,Washington,20011,449000,3,1.5,1920,1973,1928,234
+Townhouse,Washington,20003,690000,3,2.5,1200,1006,1925,575
+Townhouse,Washington,20002,699000,3,2,,836,1912,
+Townhouse,Washington,20032,240000,2,1,832,2750,1942,288
+Townhouse,Washington,20007,2595000,4,4.5,2582,1953,1900,1005
+Townhouse,Washington,20011,875000,3,3.5,2864,1576,1926,306
+Townhouse,Washington,20001,939000,3,3.5,1857,1200,1909,506
+Single Family Residential,Washington,20019,325000,3,1.5,1288,4342,1908,252
+Townhouse,Washington,20010,785000,4,2.5,1490,2334,1907,527
+Townhouse,Washington,20018,540000,4,3.5,1900,2060,2007,284
+Townhouse,Washington,20007,1299000,3,1.5,,728,1820,
+Townhouse,Washington,20011,899999,4,3,2064,1345,1923,436
+Townhouse,Washington,20002,665900,4,2.5,2175,1167,1905,306
+Single Family Residential,Washington,20018,659900,3,3,2200,2131,1925,300
+Townhouse,Washington,20009,579900,2,1,1090,,1905,532
+Townhouse,Washington,20007,1699000,4,3,2158,1164,1938,787
+Townhouse,Washington,20011,749999,4,3.5,928,1312,1925,808
+Townhouse,Washington,20020,319000,2,1.5,864,1825,1953,369
+Townhouse,Washington,20009,3400000,8,9,4200,1983,1913,810
+Townhouse,Washington,20745,189900,3,2,1512,2001,1950,126
+Single Family Residential,Washington,20016,2675000,6,6.5,1918,6047,1925,1395
+Townhouse,Washington,20002,799000,3,3,1917,892,1923,417
+Townhouse,Washington,20002,849900,3,3,1510,,1910,563
+Townhouse,Washington,20032,330000,4,2,1224,1530,1948,270
+Townhouse,Washington,20018,584900,4,2.5,1640,1720,2015,357
+Townhouse,Washington,20019,332000,2,1.5,884,2015,1950,376
+Townhouse,Washington,20011,549000,3,1,1368,1670,1923,401
+Townhouse,Washington,20011,869000,5,3.5,2440,1975,1920,356
+Single Family Residential,Washington,20019,265000,3,1.5,1920,10586,1911,138
+Townhouse,Washington,20010,775000,4,3.5,1360,1400,1912,570
+Townhouse,Washington,20002,680000,4,3.5,1476,1947,1927,461
+Single Family Residential,Washington,20016,1599000,5,2,2532,3871,1901,632
+Single Family Residential,Washington,20011,465000,3,2,1248,2835,1949,373
+Townhouse,Washington,20001,795000,4,2,1384,1375,1910,574
+Townhouse,Washington,20003,1099000,4,2.5,1954,850,1890,562
+Townhouse,Washington,20032,335000,2,2.5,800,1907,1941,419
+Townhouse,Washington,20011,749000,5,3.5,,1400,1925,
+Single Family Residential,Washington,20743,224900,2,2,1116,4400,1948,202
+Single Family Residential,Washington,20011,769800,3,3.5,2038,1440,1920,378
+Townhouse,Washington,20001,799900,3,2.5,1404,998,1900,570
+Single Family Residential,Washington,20011,499500,3,2.5,1088,2685,1955,459
+Townhouse,Washington,20011,779000,3,1.5,1320,2785,1916,590
+Townhouse,Washington,20011,489999,4,2,1054,1965,1926,465
+Single Family Residential,Washington,20007,1495000,5,3.5,3255,7753,1984,459
+Single Family Residential,Washington,20018,700000,3,2,1426,5298,1938,491
+Single Family Residential,Washington,20032,480000,5,3.5,2062,13047,2006,233
+Single Family Residential,Washington,20008,1375000,5,3.5,4320,7546,1962,318
+Single Family Residential,Washington,20020,569900,3,1.5,1512,4950,1940,377
+Townhouse,Washington,20002,950000,6,3,2872,1751,1905,331
+Townhouse,Washington,20011,550000,3,2,1420,1802,1923,387
+Townhouse,Washington,20019,250000,4,2,1548,2660,1946,161
+Townhouse,Washington,20020,299900,2,2,900,1476,1937,333
+Single Family Residential,Washington,20032,245000,3,1.5,1040,3750,1926,236
+Single Family Residential,Washington,20017,799000,6,3.5,2284,2300,1952,350
+Single Family Residential,Washington,20020,899999,4,5,3892,6447,1937,231
+Townhouse,Washington,20003,1299000,3,4,1888,1280,2017,688
+Townhouse,Washington,20011,474999,3,1.5,1088,2068,1951,437
+Townhouse,Washington,20020,325000,2,1.5,2160,1360,2008,150
+Townhouse,Washington,20002,989500,5,3.5,2751,1646,1921,360
+Townhouse,Washington,20011,739990,5,3.5,2022,2361,1938,366
+Townhouse,Washington,20010,950000,3,2,1900,1490,1921,500
+Single Family Residential,Washington,20019,459000,3,1.5,1551,4500,1938,296
+Townhouse,Washington,20007,1875000,4,3.5,3335,1208,1900,562
+Single Family Residential,Washington,20018,630000,5,3,1123,4692,1926,561
+Single Family Residential,Washington,20011,375000,4,2.5,1667,3125,1942,225
+Townhouse,Washington,20002,625000,2,2,928,1315,1926,673
+Townhouse,Washington,20011,699000,4,3,1398,2340,1923,500
+Townhouse,Washington,20003,710000,3,2,1318,1479,1925,539
+Townhouse,Washington,20011,449000,3,1.5,1088,2893,1951,413
+Single Family Residential,Washington,20018,499000,3,1,1128,3760,1927,442
+Single Family Residential,Washington,20019,384900,3,2,1452,5072,1939,265
+Single Family Residential,Washington,20007,4495000,5,5,6890,14312,2016,652
+Townhouse,Washington,20010,949999,3,3,2131,,1901,446
