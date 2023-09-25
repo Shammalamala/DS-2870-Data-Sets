@@ -1,4 +1,4 @@
-ID,Name,State,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean,
+id,name,state,rainfall,rank,deviation,mean_rainfall,
 AL-001,Autauga County,Alabama,61.18,104,7.65,53.53,
 AL-003,Baldwin County,Alabama,66.53,86,4.64,61.89,
 AL-005,Barbour County,Alabama,49.91,50,-2.37,52.28,
